@@ -65,6 +65,9 @@
 
 ### Revisões e Surveys
 
+- [Sustained physical activity offers benefits beyond activity volume in chronic disease prevention (2026)](https://www.nature.com/articles/s41467-026-69552-4_reference.pdf) - Estudo longitudinal sobre os benefícios da atividade física sustentada na prevenção de doenças crônicas. (Nature Communications)
+- [Neonatal mortality trends in the 21st century: findings from the global burden of disease study 2021 (2026)](https://pubmed.ncbi.nlm.nih.gov/41688040/) - Análise de tendências e causas de mortalidade neonatal de 2000 a 2021. (Jornal de Pediatria)
+- [Impact of cooking with liquefied petroleum gas compared with traditional cooking practices on perinatal and early neonatal mortality (2026)](https://gh.bmj.com/content/11/2/e020391) - Ensaio clínico randomizado sobre o impacto do uso de gás de cozinha na mortalidade perinatal. (BMJ Global Health)
 - [Artificial Intelligence in Healthcare: 2024 Year in Review (2025)](https://www.medrxiv.org/content/10.1101/2025.02.26.25322978v1.full-text) - Uma revisão abrangente das publicações de IA na saúde em 2024.
 - [AI, Health, and Health Care Today and Tomorrow (2025)](https://jamanetwork.com/journals/jama/fullarticle/2840175) - Discussão sobre como a IA na saúde deve ser desenvolvida, avaliada e regulada. (JAMA)
 - [Artificial intelligence in healthcare and medicine (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/) - Revisão do papel da IA na detecção de doenças, cuidado personalizado, drug discovery e análise preditiva.
@@ -75,6 +78,8 @@
 
 ### Modelos Preditivos e EHR
 
+- [Query Optimization with LLMs (2026)](https://arxiv.org/pdf/2602.10387) - Uso de modelos de linguagem grandes para otimização de queries em bases de dados. (arXiv)
+- [Protocol for development of a reporting guideline (TRIPOD-Code) for code repositories associated with diagnostic and prognostic prediction model studies (2026)](https://scholar.google.com/scholar?q=TRIPOD-Code) - Protocolo para guidelines de reporte de repositórios de código em estudos de modelos preditivos diagnósticos e prognósticos.
 - [A deep learning model for clinical outcome prediction using longitudinal inpatient EHR (2025)](https://academic.oup.com/jamiaopen/article/8/2/ooaf026/8110091) - Modelo TECO baseado em Transformer para prever desfechos clínicos a partir de dados de prontuário.
 - [Deep Learning prediction models based on EHR trajectories: A systematic review (2023)](https://www.sciencedirect.com/science/article/pii/S153204642300151X) - Revisão sistemática de modelos de DL baseados em trajetórias de EHR.
 - [Predicting healthcare trajectories from medical records (2017)](https://www.sciencedirect.com/science/article/pii/S1532046417300710) - Rede neural profunda para ler registros médicos e prever desfechos futuros.
@@ -94,6 +99,7 @@
 
 ### NLP em Saúde
 
+- ["Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most (2026)](https://arxiv.org/pdf/2602.12249) - Análise de como modelos de reconhecimento de fala falham em capturar informações críticas. (arXiv)
 - [The Growing Impact of NLP in Healthcare (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11475376/) - Revisão narrativa sobre os usos atuais de PNL na saúde.
 - [BioBERT: a pre-trained biomedical language representation model (2020)](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - Modelo de linguagem pré-treinado em literatura biomédica.
 - [Large language models encode clinical knowledge (2023)](https://www.nature.com/articles/s41586-023-06291-2) - Avaliação do Med-PaLM em exames de competência médica. (Nature)
@@ -122,6 +128,7 @@
 
 ### Ética e Fairness em IA na Saúde
 
+- [Racial Income Inequality and COVID-19 Burden in Louisiana: A Spatial Analysis of Public Health Disparities (2026)](https://muse.jhu.edu/pub/1/article/982963/summary) - Análise espacial de disparidades raciais e socioeconômicas na carga de COVID-19 na Louisiana. (Journal of Health Care for the Poor and Underserved)
 - [Artificial Intelligence In Health And Health Care: Priorities (2025)](https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01003) - Prioridades para uso seguro e eficaz de IA na saúde. (Health Affairs)
 - [Implementation and Updating of Clinical Prediction Models (2025)](https://www.mcpdigitalhealth.org/article/S2949-7612(25)00035-5/fulltext) - Abordagens de implementação e atualização de modelos clínicos.
 
