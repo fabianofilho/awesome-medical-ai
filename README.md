@@ -56,6 +56,8 @@
   - [PhysioNet](#physionet)
   - [MICCAI](#miccai)
   - [Outros](#outros)
+- [Eventos & Conferências](#eventos--conferências)
+  - [CHIL 2026](#chil-2026-conference-on-health-inference-and-learning)
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
 
@@ -65,6 +67,13 @@
 
 ### Revisões e Surveys
 
+- [Physical Activity Trajectories Throughout the COVID-19 Pandemic in Southern Brazil: Evidence From a Cohort Study (2026)](https://journals.humankinetics.com/view/journals/jpah/aop/article-10.1123-jpah.2025-0158/article-10.1123-jpah.2025-0158.xml) - Estudo de coorte sobre trajetórias de atividade física durante a pandemia no Sul do Brasil. (Journal of Physical Activity and Health)
+- [Impact of Long-Term Cumulative Exposure to Wildfire Smoke PM2.5 on Cardiovascular Hospital Admissions Among Older Adults (2026)](https://www.sciencedirect.com/science/article/pii/S0735109725106608) - Estudo de coorte sobre o impacto da exposição cumulativa à fumaça de incêndios florestais em internações cardiovasculares. (JACC)
+- [Extensive antibiotic use during early life and risk of frailty: a population-based cohort study in the UK Biobank (2026)](https://link.springer.com/article/10.1186/s12889-026-26612-0) - Uso extensivo de antibióticos na infância e risco de fragilidade na vida adulta. (BMC Public Health)
+- [Cohort Prevalence Estimates Are Sensitive to Prebaseline Mortality: HAALSI Cohort in Rural South Africa (2026)](https://read.dukeupress.edu/demography/article-pdf/doi/10.1215/00703370-12479730/2379471/12479730.pdf) - Nota metodológica sobre viés de mortalidade pré-baseline em estudos de coorte. (Demography)
+- [Severe infections, domain-specific cognitive vulnerability, and future infection risk in older adults (2026)](https://www.medrxiv.org/content/10.64898/2026.02.17.26346454.full.pdf) - Associação entre infecções graves e vulnerabilidade cognitiva em idosos. (medRxiv)
+- [Impact of the COVID-19 pandemic on the health situation of the Brazilian population (2026)](https://www.sciencedirect.com/science/article/pii/S1413867026011803) - Análise do impacto da pandemia de COVID-19 na situação de saúde da população brasileira. (Brazilian Journal of Infectious Diseases)
+- [Experiências adversas na infância e desempenho físico na vida adulta: ELSA-Brasil (2026)](https://www.scielo.br/j/csp/a/SPTpMqZV94sR5DhKfKYptkx/abstract/?lang=pt) - Associações entre experiências adversas na infância e desempenho físico em adultos brasileiros. (Cadernos de Saúde Pública)
 - [Sustained physical activity offers benefits beyond activity volume in chronic disease prevention (2026)](https://www.nature.com/articles/s41467-026-69552-4_reference.pdf) - Estudo longitudinal sobre os benefícios da atividade física sustentada na prevenção de doenças crônicas. (Nature Communications)
 - [Neonatal mortality trends in the 21st century: findings from the global burden of disease study 2021 (2026)](https://pubmed.ncbi.nlm.nih.gov/41688040/) - Análise de tendências e causas de mortalidade neonatal de 2000 a 2021. (Jornal de Pediatria)
 - [Impact of cooking with liquefied petroleum gas compared with traditional cooking practices on perinatal and early neonatal mortality (2026)](https://gh.bmj.com/content/11/2/e020391) - Ensaio clínico randomizado sobre o impacto do uso de gás de cozinha na mortalidade perinatal. (BMJ Global Health)
@@ -91,6 +100,7 @@
 
 ### Imagem Médica
 
+- [Are H&E-based computational models transforming molecular pathology diagnostics in cancer? (2025)](https://www.academia.edu/resource/work/145550860) - Revisão sistemática (PRISMA) sobre modelos computacionais baseados em H&E para predição de biomarcadores moleculares em câncer. (Academia Oncology)
 - [Deep learning-based image classification for integrating pathology and radiology (2025)](https://www.nature.com/articles/s41598-025-07883-w) - Framework para integrar dados multimodais de patologia e radiologia.
 - [Generative AI and Foundation Models in Radiology (2025)](https://pubs.rsna.org/doi/10.1148/radiol.242961) - Revisão sobre modelos de fundação em radiologia.
 - [A novel explainable AI framework for medical image classification (2025)](https://www.sciencedirect.com/science/article/pii/S1361841525002129) - Método de XAI para análise de imagens médicas com explicações estatísticas, visuais e baseadas em regras.
@@ -99,6 +109,7 @@
 
 ### NLP em Saúde
 
+- [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey (2026)](https://arxiv.org/abs/2602.06052) - Survey sobre mecanismos de memória em agentes de fundação com ênfase em avaliação no mundo real. (arXiv, James Zou group)
 - ["Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most (2026)](https://arxiv.org/pdf/2602.12249) - Análise de como modelos de reconhecimento de fala falham em capturar informações críticas. (arXiv)
 - [The Growing Impact of NLP in Healthcare (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11475376/) - Revisão narrativa sobre os usos atuais de PNL na saúde.
 - [BioBERT: a pre-trained biomedical language representation model (2020)](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - Modelo de linguagem pré-treinado em literatura biomédica.
@@ -138,6 +149,10 @@
 
 ### Repositórios e Tutoriais Gerais
 
+- [SPR 2026 - BERTimbau + Focal Loss v3 (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-focal-loss-v3) - Notebook com BERTimbau fine-tuned com Focal Loss para a competição SPR 2026 de NLP em português.
+- [SPR 2026 - BioBERTpt + Focal Loss v2 (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-biobertpt-focal-loss-v2) - Notebook com BioBERTpt para classificação de textos médicos em português.
+- [SPR 2026 - BERTimbau + LoRA Offline (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-lora-offline) - Notebook com BERTimbau + LoRA (Low-Rank Adaptation) para fine-tuning eficiente em modo offline.
+- [Webinar: Unlocking Causal Insights with TabPFN (Prior Labs, Mar 2026)](https://app.livestorm.co/prior-labs/unlocking-causal-insights-with-tabpfn) - Webinar com Bernhard Schölkopf e Frank Hutter sobre inferência causal a partir de dados observacionais com TabPFN.
 - [aws-samples/aws-healthcare-lifescience-ai-ml-sample-notebooks](https://github.com/aws-samples/aws-healthcare-lifescience-ai-ml-sample-notebooks) - Notebooks de exemplo para IA/ML em saúde e ciências da vida na AWS.
 - [NIGMS/AI-ML-For-Biomedical-Researchers](https://github.com/NIGMS/AI-ML-For-Biomedical-Researchers) - Módulo prático de IA/ML centrado em dados para pesquisadores biomédicos, cobrindo R, preparação de dados e construção de modelos.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - Notebooks Jupyter que percorrem os fundamentos de ML e DL em Python usando Scikit-Learn, Keras e TensorFlow.
@@ -167,6 +182,7 @@
 
 ### EHR e Dados Tabulares
 
+- [Prior Labs - TabPFN](https://priorlabs.ai/) - Plataforma de inferência causal e classificação tabular com Prior-data Fitted Networks, com aplicações em dados clínicos.
 - [sunlabuiuc/PyHealth](https://github.com/sunlabuiuc/PyHealth) - Biblioteca Python para construir modelos de ML em dados clínicos.
 - [baeseongsu/awesome-machine-learning-for-healthcare](https://github.com/baeseongsu/awesome-machine-learning-for-healthcare) - Coleção curada de pesquisas na interseção de ML e saúde.
 
@@ -354,6 +370,15 @@
 
 - [DrivenData](https://www.drivendata.org/) - Competições de ciência de dados para impacto social, incluindo saúde.
 - [ISBI Challenges](https://biomedicalimaging.org/) - Desafios de imagem biomédica do IEEE International Symposium on Biomedical Imaging.
+
+---
+
+## Eventos & Conferências
+
+### CHIL 2026 (Conference on Health, Inference, and Learning)
+
+- [CHIL Doctoral Symposium 2026](https://chil.ahli.cc/submit/doctoral-symposium/) - Programa para doutorandos apresentarem pesquisa e conectarem com mentores sêniors em IA na saúde. Prazo: 13 Mar 2026. (AHLI - Association for Health Learning and Inference)
+- [Health AI Builders Unconference 2.0 - CHIL 2026](https://chil.ahli.cc/submit/unconference/) - Evento full-day sobre implantação real de IA na saúde: segurança, compliance, integração e perspectiva clínica. 28 Jun 2026, Seattle.
 
 ---
 
