@@ -67,6 +67,11 @@
 
 ### Revisões e Surveys
 
+- [Decoding the language of sleep with artificial intelligence (2026)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00375-2/abstract) - James Zou e Eric Topol discutem como a IA pode transformar o sono em um dado médico acionável, integrando sinais cerebrais, cardíacos e respiratórios. (The Lancet)
+- [A comparison of self-rated health, frailty index, and multimorbidity as predictors of four-year all-cause mortality: a multi-cohort study in 30+ adult populations (2026)](https://www.researchsquare.com/article/rs-8099259/latest.pdf) - Estudo multicoorte em 30+ populações adultas comparando preditores de mortalidade. (Research Square, relacionado a Chiavegatto Filho)
+- [The contribution of air pollution to the socioeconomic inequalities in dementia risk in later life: The Whitehall II cohort study (2026)](https://wellcomeopenresearch.org/articles/11-158) - Contribuição da poluição do ar para desigualdades socioeconômicas no risco de demência. (Wellcome Open Research)
+- [COVID-19 Lockdowns and Gestational Diabetes Risk: Identifying Critical Windows for Prevention (2026)](https://www.researchsquare.com/article/rs-8927540/latest) - Lockdowns e risco de diabetes gestacional: janelas críticas para prevenção. (Research Square)
+- [Socioeconomic status and suicidal behaviour in the UK Biobank: prospective cohort study on effect modifiers (2026)](https://www.sciencedirect.com/science/article/pii/S1353829226000328) - SES e comportamento suicida no UK Biobank com modificadores de efeito. (Health & Place)
 - [Physical Activity Trajectories Throughout the COVID-19 Pandemic in Southern Brazil: Evidence From a Cohort Study (2026)](https://journals.humankinetics.com/view/journals/jpah/aop/article-10.1123-jpah.2025-0158/article-10.1123-jpah.2025-0158.xml) - Estudo de coorte sobre trajetórias de atividade física durante a pandemia no Sul do Brasil. (Journal of Physical Activity and Health)
 - [Impact of Long-Term Cumulative Exposure to Wildfire Smoke PM2.5 on Cardiovascular Hospital Admissions Among Older Adults (2026)](https://www.sciencedirect.com/science/article/pii/S0735109725106608) - Estudo de coorte sobre o impacto da exposição cumulativa à fumaça de incêndios florestais em internações cardiovasculares. (JACC)
 - [Extensive antibiotic use during early life and risk of frailty: a population-based cohort study in the UK Biobank (2026)](https://link.springer.com/article/10.1186/s12889-026-26612-0) - Uso extensivo de antibióticos na infância e risco de fragilidade na vida adulta. (BMC Public Health)
@@ -87,6 +92,14 @@
 
 ### Modelos Preditivos e EHR
 
+- [Evidence of Unreliable Data and Poor Data Provenance in Clinical Prediction Model Research and Clinical Practice (2026)](https://www.medrxiv.org/content/medrxiv/early/2026/02/26/2026.02.24.26347028.full.pdf) - Gibson, White, Collins e Barnett demonstram que modelos de predição clínica frequentemente são criados com dados não confiáveis e sem proveniência adequada. (medRxiv, Gary S. Collins)
+- [NIVPredict: AI Tool for Early Prediction of NIV Outcome in Acute Respiratory Failure (2026)](https://healthmanagement.org/s/nivpredict-ai-tool-for-early-prediction-of-niv-outcome-in-acute-respiratory-failure) - Ferramenta web baseada em TabPFN para predição de falha de ventilação não-invasiva. AUC 0.858, Brier Score 0.093, validado em 38 hospitais de 4 países. (Critical Care)
+- [Human-Guided Agentic AI for Multimodal Clinical Prediction (2026)](https://arxiv.org/html/2602.19502v1) - Sistemas de IA agnósticos com orientação humana para predição clínica multimodal. F1=0.8986 em readmissão hospitalar. (arXiv)
+- [A Feature-Stable and Explainable ML Framework for Trustworthy Decision-Making (2026)](https://arxiv.org/html/2602.17364v1) - Framework de ML explicável com dados incompletos usando CatBoost, XGBoost, LightGBM e SHAP. (arXiv)
+- [Machine Learning Based Prediction of Surgical Outcomes in Chronic Rhinosinusitis (2026)](https://arxiv.org/html/2602.17888v1) - ML para recomendação cirúrgica em rinossinusite crônica: ~85% de acurácia, superando média de especialistas (75.6%). (Computers in Biology and Medicine)
+- [Benchmarking LLMs for Predictive Modeling in Biomedical Research (2026)](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00011-X) - LLMs gerando código R/Python para tarefas de predição em dados ômicos, igualando performance mediana de participantes do DREAM Challenge. (Cell Reports Medicine)
+- [Hybrid Federated and Split Learning for Privacy Preserving Clinical Prediction (2026)](https://arxiv.org/abs/2602.15304) - Arquitetura híbrida de aprendizado federado e split learning para predição clínica sem centralizar dados. (arXiv)
+- [Making Conformal Predictors Robust in Healthcare Settings (2026)](https://arxiv.org/html/2602.19483v1) - Predição conformal com garantias estatísticas para segurança do paciente em IA clínica. (arXiv)
 - [Query Optimization with LLMs (2026)](https://arxiv.org/pdf/2602.10387) - Uso de modelos de linguagem grandes para otimização de queries em bases de dados. (arXiv)
 - [Protocol for development of a reporting guideline (TRIPOD-Code) for code repositories associated with diagnostic and prognostic prediction model studies (2026)](https://scholar.google.com/scholar?q=TRIPOD-Code) - Protocolo para guidelines de reporte de repositórios de código em estudos de modelos preditivos diagnósticos e prognósticos.
 - [A deep learning model for clinical outcome prediction using longitudinal inpatient EHR (2025)](https://academic.oup.com/jamiaopen/article/8/2/ooaf026/8110091) - Modelo TECO baseado em Transformer para prever desfechos clínicos a partir de dados de prontuário.
@@ -100,6 +113,8 @@
 
 ### Imagem Médica
 
+- [Pillar-0: Novo SOTA em Radiologia 3D (2026)](https://arxiv.org/abs/2602.pillar0) - Modelo que supera MedImageInsight e MedGemma em tarefas de radiologia 3D. Apresentado internamente na Hapvida como referência de estado da arte.
+- [Pneumonia Detection from Enhanced Chest X-Ray Images Based on Double SGAN (2026)](https://www.nature.com/articles/s41598-026-39785-w) - Double SGAN com ResNet18-SA para diagnóstico de pneumonia: 95.83% acurácia, F1 95.52% no Pneumonia-MNIST. (Scientific Reports, Nature)
 - [Are H&E-based computational models transforming molecular pathology diagnostics in cancer? (2025)](https://www.academia.edu/resource/work/145550860) - Revisão sistemática (PRISMA) sobre modelos computacionais baseados em H&E para predição de biomarcadores moleculares em câncer. (Academia Oncology)
 - [Deep learning-based image classification for integrating pathology and radiology (2025)](https://www.nature.com/articles/s41598-025-07883-w) - Framework para integrar dados multimodais de patologia e radiologia.
 - [Generative AI and Foundation Models in Radiology (2025)](https://pubs.rsna.org/doi/10.1148/radiol.242961) - Revisão sobre modelos de fundação em radiologia.
@@ -109,6 +124,9 @@
 
 ### NLP em Saúde
 
+- [DSGym: A Standardized and Holistic Framework for Advancing Data Science Agents (2026)](https://openreview.net/forum?id=5t0nVFY1Ld) - Framework padronizado para avaliar agentes de ciência de dados em benchmarks fragmentados. (James Zou group, OpenReview)
+- [AI Agents for Data Science: a Discussion of LAMBDA: A Large Model Based Data Agent (2026)](https://www.polyu.edu.hk/ama/cmfai/discussions/diss3.pdf) - Discussão sobre agentes de IA para ciência de dados com LAMBDA. (Yuksekgonul, Zou)
+- [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome (2026)](https://www.biorxiv.org/content/biorxiv/early/2026/02/28/2026.02.27.708412.full.pdf) - IA agentiva modular para descoberta autônoma no microbioma intestinal. (bioRxiv, James Zou group)
 - [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey (2026)](https://arxiv.org/abs/2602.06052) - Survey sobre mecanismos de memória em agentes de fundação com ênfase em avaliação no mundo real. (arXiv, James Zou group)
 - ["Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most (2026)](https://arxiv.org/pdf/2602.12249) - Análise de como modelos de reconhecimento de fala falham em capturar informações críticas. (arXiv)
 - [The Growing Impact of NLP in Healthcare (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11475376/) - Revisão narrativa sobre os usos atuais de PNL na saúde.
@@ -139,6 +157,8 @@
 
 ### Ética e Fairness em IA na Saúde
 
+- [Resolução CFM 2.454/2026: Regulamentação de IA na Medicina (2026)](https://www.cfm.org.br/resolucoes/2454-2026) - Resolução do Conselho Federal de Medicina que regulamenta o uso de IA na prática médica brasileira. Prazo de 180 dias para adequação e designação de responsável técnico de IA. (CFM Brasil)
+- [Position: AI Development Should Prioritize Cognitive Security (2026)](https://openreview.net/forum?id=5pShDP8LSm) - Artigo de posição sobre a necessidade de priorizar segurança cognitiva no desenvolvimento de sistemas de IA generativa. (James Zou group, OpenReview)
 - [Racial Income Inequality and COVID-19 Burden in Louisiana: A Spatial Analysis of Public Health Disparities (2026)](https://muse.jhu.edu/pub/1/article/982963/summary) - Análise espacial de disparidades raciais e socioeconômicas na carga de COVID-19 na Louisiana. (Journal of Health Care for the Poor and Underserved)
 - [Artificial Intelligence In Health And Health Care: Priorities (2025)](https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01003) - Prioridades para uso seguro e eficaz de IA na saúde. (Health Affairs)
 - [Implementation and Updating of Clinical Prediction Models (2025)](https://www.mcpdigitalhealth.org/article/S2949-7612(25)00035-5/fulltext) - Abordagens de implementação e atualização de modelos clínicos.
@@ -149,7 +169,17 @@
 
 ### Repositórios e Tutoriais Gerais
 
-- [SPR 2026 - BERTimbau + Focal Loss v3 (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-focal-loss-v3) - Notebook com BERTimbau fine-tuned com Focal Loss para a competição SPR 2026 de NLP em português.
+- [SPR 2026 - BERTimbau v5 Gamma Search (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-v5-gamma-search) - Notebook com BERTimbau v5 usando busca gamma para otimização de threshold na competição SPR 2026.
+- [SPR 2026 - BERTimbau v5 Threshold Grid Search (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-v5-threshold-grid) - Notebook com grid search de threshold para maximizar F1-Score Macro.
+- [Validação: BioBERTpt + Focal Loss (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/validacao-biobertpt-focal-loss) - Notebook de validação com BioBERTpt e Focal Loss para NLP clínico em português.
+- [Validação: BERTimbau Large (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/validacao-bertimbau-large) - Notebook de validação com BERTimbau Large para classificação de relatórios de mamografia.
+- [Validação: DistilBERT Multilingual (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/validacao-distilbert-multilingual) - Notebook de validação com DistilBERT multilingual para NLP médico.
+- [open-wearables](https://github.com/the-momentum/open-wearables) - Plataforma self-hosted para unificar dados de wearables (Garmin, Apple Watch, Suunto) em uma API pronta para ML.
+- [stenoai](https://github.com/ruzin/stenoai) - IA para notas clínicas estruturadas com LLMs locais (Qwen, DeepSeek, Llama3), com foco em privacidade total de dados do paciente.
+- [bio - Open-Source Bio AI Assistant](https://github.com/yorkeccak/bio) - Assistente de IA open-source para pesquisa biomédica com acesso a literatura, ensaios clínicos e bases de dados de efeitos adversos.
+- [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) - Toolbox para medição remota de sinais fisiológicos (FC, SpO2) via câmera. NeurIPS 2023. (UbiComp Lab, Univ. de Washington)
+- [Triagegeist Kaggle Hackathon](https://www.kaggle.com/competitions/triagegeist) - Competição para construir ferramentas de IA para suporte à triagem em departamentos de emergência. Prêmio: $10.000. (Laitinen-Fredriksson Foundation)
+- [SPR 2026 - BERTimbau \+ Focal Loss v3(Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-focal-loss-v3) - Notebook com BERTimbau fine-tuned com Focal Loss para a competição SPR 2026 de NLP em português.
 - [SPR 2026 - BioBERTpt + Focal Loss v2 (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-biobertpt-focal-loss-v2) - Notebook com BioBERTpt para classificação de textos médicos em português.
 - [SPR 2026 - BERTimbau + LoRA Offline (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-lora-offline) - Notebook com BERTimbau + LoRA (Low-Rank Adaptation) para fine-tuning eficiente em modo offline.
 - [Webinar: Unlocking Causal Insights with TabPFN (Prior Labs, Mar 2026)](https://app.livestorm.co/prior-labs/unlocking-causal-insights-with-tabpfn) - Webinar com Bernhard Schölkopf e Frank Hutter sobre inferência causal a partir de dados observacionais com TabPFN.
@@ -265,6 +295,10 @@
 
 ### Análise de Sobrevida e EHR
 
+- [Timber](https://github.com/kossisoroyce/timber) - Compilador AOT que converte modelos de ML (XGBoost, LightGBM, scikit-learn) em código C99 nativo, com inferência até 336x mais rápida. Ideal para predição de risco em tempo real.
+- [snputils](https://www.biorxiv.org/content/10.64898/2026.02.28.708618v1) - Biblioteca de alta performance para análise de variação genética e estrutura populacional. (bioRxiv 2026)
+- [discovery-engine-api](https://pypi.org/project/discovery-engine-api/) - API para encontrar padrões estatísticos validados em dados tabulares, incluindo interações de features e efeitos de subgrupos.
+- [skforecast](https://pypi.org/project/skforecast/) - Forecasting de séries temporais com modelos scikit-learn. Versão 0.20.1 com intervalos de predição 10x mais rápidos e AutoARIMA.
 - [PyHealth](https://pyhealth.readthedocs.io/) - Biblioteca Python abrangente para IA na saúde, facilitando a construção de modelos de ML em dados clínicos. [![GitHub stars](https://img.shields.io/github/stars/sunlabuiuc/PyHealth.svg?style=social)](https://github.com/sunlabuiuc/PyHealth)
 - [scikit-survival](https://scikit-survival.readthedocs.io/) - Análise de sobrevida construída sobre o Scikit-learn.
 - [lifelines](https://lifelines.readthedocs.io/) - Implementação de modelos de análise de sobrevida em Python (Kaplan-Meier, Cox PH, etc.).
@@ -284,6 +318,8 @@
 
 ### Explicabilidade e Fairness
 
+- [xai-cola](https://arxiv.org/html/2602.21845v1) - Biblioteca para esparsificar explicações contrafatuais, reduzindo mudanças superflúas nas features em até 50%. Útil para explicar negações de autorizações médicas.
+- [SymTorch](https://www.marktechpost.com/2026/03/03/meet-symtorch-a-pytorch-library-that-translates-deep-learning-models-into-human-readable-equations/) - Biblioteca PyTorch que usa regressão simbólica para traduzir redes neurais em equações matemáticas legíveis. Melhora a interpretabilidade de modelos complexos.
 - [SHAP](https://github.com/shap/shap) - SHapley Additive exPlanations para explicar a saída de qualquer modelo de ML.
 - [LIME](https://github.com/marcotcr/lime) - Local Interpretable Model-agnostic Explanations.
 - [InterpretML](https://interpret.ml/) - Toolkit de interpretabilidade de ML da Microsoft.
@@ -293,6 +329,8 @@
 
 ### Interoperabilidade e Padrões
 
+- [ccda-to-fhir](https://pypi.org/project/ccda-to-fhir/) - Biblioteca Python para conversão de documentos C-CDA para recursos FHIR R4B (HL7). Essencial para interoperabilidade de dados de saúde.
+- [pyomop](https://github.com/dermatologist/pyomop) - Canivete suíço para trabalhar com o OHDSI OMOP Common Data Model v5.4/v6 via SQLAlchemy.
 - [FHIR (Fast Healthcare Interoperability Resources)](https://www.hl7.org/fhir/) - Padrão de interoperabilidade para troca de dados de saúde.
 - [fhir.resources](https://pypi.org/project/fhir.resources/) - Modelos Pydantic para recursos FHIR em Python.
 - [HAPI FHIR](https://hapifhir.io/) - Implementação de referência do FHIR em Java.
@@ -345,6 +383,8 @@
 
 ### Kaggle
 
+- [Triagegeist Hackathon (2026)](https://www.kaggle.com/competitions/triagegeist) - Desafio para construir ferramentas de IA para suporte à triagem em departamentos de emergência. Prêmio: $10.000. Dados recomendados: MIMIC-IV-ED, NHAMCS. (Laitinen-Fredriksson Foundation)
+- [SPR 2026 - Mammography Report Classification (2026)](https://www.kaggle.com/competitions/spr-2026-mammography) - Classificação de relatórios de mamografia em português. Métrica: F1-Score Macro. Prêmio: $3.000. (Felipe Kitamura, MD, PhD)
 - [The MedGemma Impact Challenge (2026)](https://www.kaggle.com/competitions/med-gemma-impact-challenge) - Construir aplicações de IA centradas no ser humano com MedGemma e outros modelos abertos do Google.
 - [Medical AI: Medical Diagnosis Challenge (2025)](https://www.kaggle.com/competitions/cm-medical-prognosis) - Explorar fatores demográficos, clínicos e de estilo de vida que influenciam o prognóstico de longo prazo.
 - [Kaggle Healthcare Competitions](https://www.kaggle.com/competitions?tagIds=4202-Healthcare) - Todas as competições de saúde no Kaggle.
