@@ -429,3 +429,35 @@ Suas contribuições são sempre bem-vindas! Por favor, dê uma olhada nas [dire
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+## Atualização Semanal (14 de Março de 2026)
+
+### Papers
+
+- [A clinical environment simulator for dynamic AI evaluation (2026)](https://www.nature.com/articles/s41591-026-04252-6) - Simulação de ambiente hospitalar para avaliação dinâmica de IA em cenários realistas. (Nature)
+- [Can AI help predict which heart-failure patients will worsen within a year? (2026)](https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312) - Modelo de deep learning do MIT para prever a trajetória de insuficiência cardíaca com até um ano de antecedência.
+- [External Validation of a Commercially Available AI Tool for Nasogastric Tube Position Decision Support in the NHS (2026)](https://t.n.nejm.org/r/?id=hcb1c7be1,8d45159,3ee0cb9&cid=DM2441800_Non_Subscriber&bid=-887325727&p1=U2FsdGVkX1%2FQ43k6f9dTu7CKOmJPKUC4vS3qIgW0n8D7d5phuagMy7OT839g0Dgdij1fRavivnwDBa17BDBMqRVD8vcTqND995QuMffAYsznDrrkYpRjCIrEwIrWjSos08Q%2BNw7EaXDYSEary%2FMAu7AcXB%2B%2Fvz5nhYy6VfKPaiD9%2BehTSDo%2Fu2dOka6WJI1%2BoJVNf9uD1AcPemgvzgy3aA%3D%3D) - Estudo de validação prospectivo e multicêntrico sobre o desempenho de uma ferramenta de IA para detecção de posicionamento de sonda nasogástrica. (NEJM AI)
+- [Real World Human-LLM Interactions - Prospective blinded versus unblinded expert physician assessments of LLM responses to complex medical dilemmas (2026)](https://pubmed.ncbi.nlm.nih.gov/41818246/) - Avaliação prospectiva de respostas de LLMs a dilemas médicos complexos por médicos especialistas. (PubMed)
+- [Inteligência artificial identifica dor em bebês e pode auxiliar decisões médicas em UTI neonatal (2026)](https://www.google.com/url?rct=j&sa=t&url=https://revistagalileu.globo.com/saude/noticia/2026/03/inteligencia-artificial-identifica-dor-em-bebes-e-pode-auxiliar-decisoes-medicas-em-uti-neonatal.ghtml&ct=ga&cd=CAEYACoUMTY5NzAxNTA2ODU1MzQ1Nzk2NzgyHTQ4YzZmZDE0MWJhYWMwN2Q6Y29tLmJyOnB0OlVT&usg=AOvVaw3-KIP7ZaWN8npj6MNWkI8q) - Ferramenta desenvolvida por pesquisadores da FEI e da Unifesp que utiliza IA para interpretar expressões faciais de recém-nascidos. (Galileu - Globo)
+
+### Hands-On
+
+- [ISU-OSF Data Science Competition (2026)](https://news.illinoisstate.edu/2026/03/isu-osf-data-science-competition-returns-to-tackle-missed-medical-appointments/) - Competição de ciência de dados para aplicar técnicas de machine learning e modelagem preditiva para identificar potenciais faltas em consultas médicas.
+- [Longitudinal Ageing Study (2026)](https://www.kaggle.com/datasets/boidoingthings/longitudinal-ageing-study) - Dataset de um estudo longitudinal representativo sobre envelhecimento e saúde. (Kaggle)
+
+### Bibliotecas
+
+- [FreedomIntelligence/OpenClaw-Medical-Skills (2026)](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) - A maior biblioteca de skills médicos de IA de código aberto para OpenClaw, com 869 skills curados.
+- [LabClaw – Operating Layer for LabOS (2026)](https://github.com/wu-yc/LabClaw) - Pacote com 211 arquivos SKILL.md prontos para produção para workflows de IA biomédica. (Stanford-Princeton)
+- [Tuva Health (2026)](https://www.ycombinator.com/companies/industry/digital-health) - Software de código aberto que limpa e transforma dados de saúde desorganizados. (YC-funded)
+
+### Competições
+
+- [ISU-OSF Data Science Competition (2026)](https://news.illinoisstate.edu/2026/03/isu-osf-data-science-competition-returns-to-tackle-missed-medical-appointments/) - Desafio para identificar potenciais faltas em consultas médicas usando ML.
+
+### Ética
+
+- [TEMPO: Experimenting with AI Sandboxes in the United States (2026)](https://t.n.nejm.org/r/?id=hcb1c7be1,8d45159,3ee0cba&cid=DM2441800_Non_Subscriber&bid=-887325727&p1=U2FsdGVkX1%2FQ43k6f9dTu7CKOmJPKUC4vS3qIgW0n8D7d5phuagMy7OT839g0Dgdij1fRavivnwDBa17BDBMqRVD8vcTqND995QuMffAYsznDrrkYpRjCIrEwIrWjSos08Q%2BNw7EaXDYSEary%2FMAu7AcXB%2B%2Fvz5nhYy6VfKPaiD9%2BehTSDo%2Fu2dOka6WJI1%2BoJVNf9uD1AcPemgvzgy3aA%3D%3D) - Análise sobre o novo piloto TEMPO da FDA, que introduz sandboxes regulatórios para acelerar o uso de IA em saúde. (NEJM AI)
+- [Nova Resolução do CFM define regras para uso de inteligência artificial na saúde (2026)](https://www.google.com/url?rct=j&sa=t&url=https://diariodocomercio.com.br/opiniao/artigo/nova-resolucao-do-cfm-define-regras-para-uso-de-inteligencia-artificial-na-saude/&ct=ga&cd=CAEYACoTMzQ3ODUwMDI3MTE5NDk0NjI1MzIdNDhjNmZkMTQxYmFhYzA3ZDpjb20uYnI6cHQ6VVM&usg=AOvVaw3B6YDXX8ABKYXJQil96mwX) - Nova resolução do Conselho Federal de Medicina que orienta o uso da IA na medicina brasileira. (Diário do Comércio)
+- [Huntsman Mental Health Institute contributes to new framework for ethical AI (2026)](https://healthcare.utah.edu/press-releases/2026/03/huntsman-mental-health-institute-contributes-new-framework-ensuring-ethical) - Contribuição para um novo framework para garantir o desenvolvimento ético da IA para a saúde. (University of Utah)
