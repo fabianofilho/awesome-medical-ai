@@ -461,3 +461,28 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - [TEMPO: Experimenting with AI Sandboxes in the United States (2026)](https://t.n.nejm.org/r/?id=hcb1c7be1,8d45159,3ee0cba&cid=DM2441800_Non_Subscriber&bid=-887325727&p1=U2FsdGVkX1%2FQ43k6f9dTu7CKOmJPKUC4vS3qIgW0n8D7d5phuagMy7OT839g0Dgdij1fRavivnwDBa17BDBMqRVD8vcTqND995QuMffAYsznDrrkYpRjCIrEwIrWjSos08Q%2BNw7EaXDYSEary%2FMAu7AcXB%2B%2Fvz5nhYy6VfKPaiD9%2BehTSDo%2Fu2dOka6WJI1%2BoJVNf9uD1AcPemgvzgy3aA%3D%3D) - Análise sobre o novo piloto TEMPO da FDA, que introduz sandboxes regulatórios para acelerar o uso de IA em saúde. (NEJM AI)
 - [Nova Resolução do CFM define regras para uso de inteligência artificial na saúde (2026)](https://www.google.com/url?rct=j&sa=t&url=https://diariodocomercio.com.br/opiniao/artigo/nova-resolucao-do-cfm-define-regras-para-uso-de-inteligencia-artificial-na-saude/&ct=ga&cd=CAEYACoTMzQ3ODUwMDI3MTE5NDk0NjI1MzIdNDhjNmZkMTQxYmFhYzA3ZDpjb20uYnI6cHQ6VVM&usg=AOvVaw3B6YDXX8ABKYXJQil96mwX) - Nova resolução do Conselho Federal de Medicina que orienta o uso da IA na medicina brasileira. (Diário do Comércio)
 - [Huntsman Mental Health Institute contributes to new framework for ethical AI (2026)](https://healthcare.utah.edu/press-releases/2026/03/huntsman-mental-health-institute-contributes-new-framework-ensuring-ethical) - Contribuição para um novo framework para garantir o desenvolvimento ético da IA para a saúde. (University of Utah)
+
+
+## Atualização Semanal (21 de Março de 2026)
+
+### Papers
+
+- [Inteligência artificial na saúde pública brasileira: potencialidades, desafios e implicações éticas para o Sistema Único de Saúde (2026)](https://www.scielosp.org/article/rbepid/2026.v29/e260006/pt/) - Análise crítica sobre a incorporação da IA no SUS, à luz de seus princípios. (Revista Brasileira de Epidemiologia)
+- [CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation (2026)](https://arxiv.org/abs/2603.06183) - Framework de avaliação para laudos de radiologia gerados por IA, focado em correção diagnóstica, relevância contextual e segurança do paciente. (arXiv)
+- [Evaluation of SOFA-2 Score Performance Across Demographic Subgroups: An External Validation Study Using MIMIC-IV (2026)](https://www.medrxiv.org/content/10.64898/2026.03.10.26348061) - Validação externa do score SOFA-2 em subgrupos demográficos usando dados do MIMIC-IV. (medRxiv)
+- [Health care access by atherosclerotic cardiovascular disease status: a JACC data report on trends in the United States, 2019-2024 (2026)](https://www.jacc.org/doi/full/10.1016/j.jacc.2025.12.045) - Análise de tendências no acesso à saúde para pacientes com doença cardiovascular aterosclerótica nos EUA. (JACC)
+- [The Prime Diet Quality Score (PDQS), chronic disease and cause-specific mortality in UK Biobank: a prospective study (2026)](https://link.springer.com/article/10.1007/s00394-025-03877-6) - Avaliação do PDQS como métrica de qualidade da dieta em relação à mortalidade e doenças crônicas no UK Biobank. (European Journal of Nutrition)
+- [Innovating global regulatory frameworks for generative AI in healthcare (2026)](https://www.nature.com/articles/s41746-026-02552-2) - Discussão sobre as oportunidades e desafios da integração de GenAI e LLMs na saúde. (Nature)
+- [Machine learning analysis of CT scans can diagnose and predict disease risk (2026)](https://www.nih.gov/news-events/nih-research-matters/machine-learning-analysis-ct-scans) - Modelo de ML que interpreta tomografias abdominais para diagnóstico e predição de risco de doenças crônicas. (NIH Research Matters)
+- [Multimodal Deep Learning for Early Prediction of Patient Outcomes (2026)](https://arxiv.org/abs/2603.14719) - Abordagem de deep learning multimodal que combina dados estruturados e não estruturados para prever desfechos de pacientes. (arXiv)
+
+### Ferramentas & Bibliotecas
+
+- [Perplexity Health (2026)](https://www.perplexity.ai/hub/blog/introducing-perplexity-health) - Suite de conectores para dados de saúde pessoais que permite o uso do Perplexity Computer para responder a perguntas de saúde com base em seus próprios registros médicos.
+- [NVIDIA Healthcare AI Open Models (2026)](http://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai) - Expansão do ecossistema de modelos de IA abertos da NVIDIA para apoiar casos de uso em saúde e ciências da vida, incluindo descoberta de medicamentos e pesquisa biomédica.
+- [RightNow-AI/openfang (2026)](https://github.com/RightNow-AI/openfang) - Sistema operacional de agente (Agent Operating System) com lançamento da versão v0.3.30 focada em segurança.
+
+### Competições & Eventos
+
+- [Machine Learning for Healthcare (MLHC) 2026](https://www.mlforhc.org/) - Chamada de artigos para a conferência MLHC 2026, que ocorrerá de 12 a 14 de agosto de 2026 em Baltimore, EUA. Prazo de submissão: 17 de abril.
+- [Employee Mental Health & Burnout Dataset (Kaggle)](https://www.kaggle.com/datasets/suhanigupta04/employee-mental-health-and-burnout-dataset) - Novo dataset no Kaggle que cobre o pipeline completo de saúde mental no trabalho, incluindo estresse, estilo de vida, sono e acesso à terapia.
