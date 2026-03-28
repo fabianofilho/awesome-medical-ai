@@ -486,3 +486,36 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 - [Machine Learning for Healthcare (MLHC) 2026](https://www.mlforhc.org/) - Chamada de artigos para a conferência MLHC 2026, que ocorrerá de 12 a 14 de agosto de 2026 em Baltimore, EUA. Prazo de submissão: 17 de abril.
 - [Employee Mental Health & Burnout Dataset (Kaggle)](https://www.kaggle.com/datasets/suhanigupta04/employee-mental-health-and-burnout-dataset) - Novo dataset no Kaggle que cobre o pipeline completo de saúde mental no trabalho, incluindo estresse, estilo de vida, sono e acesso à terapia.
+
+
+## Atualização Semanal (28 de Março de 2026)
+
+### Papers
+
+- [Merlin: A Computed Tomography Vision–Language Foundation Model (2026)](https://www.nature.com/articles/s41586-026-10181-8) — Modelo de fundação 3D para TC abdominal treinado em +6M imagens, relatórios de radiologia e EHR. Valida em 44.098 TCs de 3 institutos externos; supera modelos 2D em classificação de achados, predição de doenças crônicas a 5 anos e geração de laudos. Código e dados disponíveis publicamente. (Nature, Stanford MIMI)
+- [Artificial Intelligence in Healthcare: 2025 Year in Review (2026)](https://www.medrxiv.org/content/10.64898/2026.02.23.26346888v1) — Revisão de 2.966 publicações de IA na saúde em 2025: imagem lidera (976 publicações), modelos multimodais de fundação saltaram de 25 para 144 publicações. Sinaliza maturação do campo. (medRxiv)
+- [Efficient Deep Learning for Medical Imaging: Bridging the Gap Between High-Performance AI and Clinical Deployment (2026)](https://arxiv.org/abs/2602.00910) — Revisão de arquiteturas leves (CNNs, Transformers lineares) e estratégias de compressão (pruning, quantização, destilação) para implantação clínica de modelos de imagem médica. (arXiv)
+- [Foundation Models – A Panacea for Artificial Intelligence in Pathology? (2026)](https://arxiv.org/abs/2502.21264) — Análise crítica sobre se modelos de fundação superam modelos tarefa-específicos em patologia. Mostra convergência de performance quando dados rotulados são suficientes; FMs consomem até 35x mais energia. (arXiv)
+- [State of Clinical AI 2026 (ARISE Network, Stanford/Harvard)](https://medicine.stanford.edu/news/current-news/standard-news/clinical-ai-has-boomed.html) — Relatório abrangente sobre o estado real da IA clínica: distingue performance em estudos controlados versus implantação real, onde riscos ainda são pouco examinados. (Stanford Medicine)
+- [A Comprehensive Survey of Agentic AI in Healthcare (2026)](https://www.techrxiv.org/users/994756/articles/1355990/master/file/data/agentic-ai-in-healthcare/agentic-ai-in-healthcare.pdf) — Survey sobre IA agentiva na saúde: autonomia, planejamento, memória e uso de ferramentas em ambientes clínicos dinâmicos. (TechRxiv)
+- [Explainable Artificial Intelligence in Healthcare: Current Landscape, Challenges, and Future Directions (2026)](https://onlinelibrary.wiley.com/doi/10.1002/hsr2.72172) — Revisão quantificando uso de XAI na saúde: 56% DL, 32% tree-based; SHAP (34%) e LIME (29%) dominam; apenas 16% abordam ética/regulação. (Health Science Reports)
+
+### Ferramentas & Bibliotecas
+
+- [TxGemma (2026)](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/) — Coleção de modelos abertos do Google (2B, 9B, 27B) baseados em Gemma 2 para previsão de propriedades terapêuticas: toxicidade, alvos, eficácia e resultados de trials. Fine-tuned com 7M exemplos do Therapeutic Data Commons. Disponível no Vertex AI e HuggingFace. (Google DeepMind)
+- [ChatGPT Health (2026)](https://openai.com/index/introducing-chatgpt-health/) — Tab dedicado do ChatGPT para saúde pessoal, com integração a prontuários eletrônicos (via b.well, 2.2M provedores nos EUA), Apple Health e apps de bem-estar. Desenvolvido com +260 médicos de 60 países, com 600.000 feedbacks clínicos. (OpenAI)
+- [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare (2026)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) — Lista curada dos últimos avanços em IA agentiva para saúde, incluindo papers aceitos no ICLR 2026 (CARE, ATPO), sistemas multi-agente para codificação clínica, oncologia e cardiologia.
+- [Merlin (GitHub/HuggingFace)](https://github.com/StanfordMIMI/Merlin) — Código e modelos públicos do modelo de fundação Merlin para TC (Stanford MIMI). Inclui dataset curado com 25.494 TCs abdominais com laudos. (Stanford MIMI)
+- [OpenNeuro](https://openneuro.org/) — Plataforma de dados de neuroimagem com +1.240 datasets públicos de +51.000 participantes (MRI, PET, MEG, EEG, iEEG). Segue princípios FAIR e o padrão BIDS. (OpenNeuro)
+
+### Competições & Eventos
+
+- [George B. Moody PhysioNet Challenge 2026 – Sono e Comprometimento Cognitivo](https://moody-challenge.physionet.org/2026/) — Desafio 2026 para desenvolver algoritmos que usem polissonografia (PSG) para prever diagnósticos futuros de comprometimento cognitivo. Fase não-oficial aberta desde fevereiro de 2026.
+- [PhysioNet – Digitization of ECG Images (Kaggle, 2026)](https://www.kaggle.com/competitions/physionet-ecg-image-digitization) — Competição para converter imagens de ECGs em papel em séries temporais digitais. Prêmio: $50.000. Organizado por PhysioNet, Emory University e Georgia Tech.
+- [IJCAI-ECAI 2026 – AI and Health Track](https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-ai-and-health/) — Trilha especial do IJCAI-ECAI 2026 para submissões de alto impacto em IA para saúde, biomedicina e saúde populacional.
+
+### Ética & Regulação
+
+- [EMA e FDA estabelecem Dez Princípios para IA no Ciclo de Vida de Medicamentos (2026)](https://www.ema.europa.eu/en/news/ema-fda-set-common-principles-ai-medicine-development-0) — Princípios conjuntos da Agência Europeia de Medicamentos (EMA) e da FDA para boas práticas de IA em pesquisa, ensaios clínicos, manufatura e farmacovigilância. (EMA/FDA)
+- [EU AI Act: Compliance para Dispositivos Médicos de Alto Risco (2026)](https://educolifesciences.com/the-eu-ai-act-and-medical-devices-what-medtech-companies-must-do-before-august-2026/) — Guia de conformidade: obrigações de agosto de 2026 (high-risk AI) para sistemas de diagnóstico e suporte clínico, incluindo governança de dados, supervisão humana e documentação técnica sob o AI Act da UE.
+- [FDA eases oversight for AI-enabled Clinical Decision Support and Wearables (2026)](https://www.orrick.com/en/Insights/2026/01/FDA-Eases-Oversight-for-AI-Enabled-Clinical-Decision-Support-Software-and-Wearables) — Análise da nova política da FDA que amplia discricionariedade para softwares de suporte clínico e wearables de baixo risco, mantendo supervisão plena para IA de alto risco. (Orrick)
