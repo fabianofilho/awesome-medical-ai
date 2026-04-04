@@ -67,6 +67,9 @@
 
 ### Revisões e Surveys
 
+- [Towards a Medical AI Scientist (2026)](https://arxiv.org/abs/2603.28589) — Framework autônomo de pesquisa clínica com IA capaz de formular hipóteses, desenhar experimentos e interpretar resultados. (arXiv, 30 Mar 2026)
+- [Foundation Models in Medical Imaging: Privacy Re-identification Risk (2026)](https://www.nature.com/articles/s41746-026-01423-0) — Modelos de fundação em imagem médica permitem re-identificação de pacientes em até 94% dos casos, levantando alertas sobre privacidade. (npj Digital Medicine, Abr 2026)
+- [The Scaffold Effect in Clinical VLM Evaluation (2026)](https://arxiv.org/abs/2603.28387) — 70–80% dos ganhos aparentes em modelos de linguagem-visão clínicos são artefatos de prompt, não raciocínio genuíno. (arXiv, 30 Mar 2026)
 - [Decoding the language of sleep with artificial intelligence (2026)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00375-2/abstract) - James Zou e Eric Topol discutem como a IA pode transformar o sono em um dado médico acionável, integrando sinais cerebrais, cardíacos e respiratórios. (The Lancet)
 - [A comparison of self-rated health, frailty index, and multimorbidity as predictors of four-year all-cause mortality: a multi-cohort study in 30+ adult populations (2026)](https://www.researchsquare.com/article/rs-8099259/latest.pdf) - Estudo multicoorte em 30+ populações adultas comparando preditores de mortalidade. (Research Square, relacionado a Chiavegatto Filho)
 - [The contribution of air pollution to the socioeconomic inequalities in dementia risk in later life: The Whitehall II cohort study (2026)](https://wellcomeopenresearch.org/articles/11-158) - Contribuição da poluição do ar para desigualdades socioeconômicas no risco de demência. (Wellcome Open Research)
@@ -92,6 +95,8 @@
 
 ### Modelos Preditivos e EHR
 
+- [CAMP: Case-Adaptive Multi-Agent Clinical Prediction (2026)](https://arxiv.org/abs/2604.00085) — Sistema multi-agente com deliberação colaborativa para predição clínica em MIMIC-IV, superando modelos tradicionais em tarefas de mortalidade e readmissão. (arXiv, 31 Mar 2026)
+- [Agentic AI for Outpatient Queue Optimization (2026)](https://arxiv.org/abs/2604.00215) — IA agentiva para otimização de filas ambulatoriais: 94,2% dos pacientes críticos atendidos em até 10 minutos. (arXiv, 31 Mar 2026)
 - [Evidence of Unreliable Data and Poor Data Provenance in Clinical Prediction Model Research and Clinical Practice (2026)](https://www.medrxiv.org/content/medrxiv/early/2026/02/26/2026.02.24.26347028.full.pdf) - Gibson, White, Collins e Barnett demonstram que modelos de predição clínica frequentemente são criados com dados não confiáveis e sem proveniência adequada. (medRxiv, Gary S. Collins)
 - [NIVPredict: AI Tool for Early Prediction of NIV Outcome in Acute Respiratory Failure (2026)](https://healthmanagement.org/s/nivpredict-ai-tool-for-early-prediction-of-niv-outcome-in-acute-respiratory-failure) - Ferramenta web baseada em TabPFN para predição de falha de ventilação não-invasiva. AUC 0.858, Brier Score 0.093, validado em 38 hospitais de 4 países. (Critical Care)
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction (2026)](https://arxiv.org/html/2602.19502v1) - Sistemas de IA agnósticos com orientação humana para predição clínica multimodal. F1=0.8986 em readmissão hospitalar. (arXiv)
@@ -113,6 +118,11 @@
 
 ### Imagem Médica
 
+- [PhysNet: Physics-Embedded Feature Learning for Tumor MRI (2026)](https://arxiv.org/abs/2603.28057) — Modelo de IA fundamentado em física para segmentação e caracterização de tumores em MRI, com melhor generalização em dados externos. (arXiv, 30 Mar 2026)
+- [Brain MR Synthesis with Multi-contrast Self-attention GAN (2026)](https://arxiv.org/abs/2604.00070) — GAN com autoatenção multicontraste para síntese de imagens de RM cerebral, reduzindo necessidade de múltiplos protocolos de aquisição. (arXiv, 31 Mar 2026)
+- [Feature-level Site Leakage Reduction for Chest X-ray Transfer (2026)](https://arxiv.org/abs/2604.00263) — Técnica para reduzir vazamento de site em transferência de aprendizado para raio-X de tórax, melhorando generalização entre hospitais. (arXiv, 31 Mar 2026)
+- [Terbium-149 PET/CT Quantitative Imaging (2026)](https://arxiv.org/abs/2604.02053) — IA para quantificação de imagens PET/CT com Térbio-149 em radioterapia dirigida por receptor. (arXiv, 2 Abr 2026)
+- [Interpretable AI for Coronary Artery Disease — multicenter PET study (2026)](https://www.nature.com/articles/s41746-026-01401-6) — IA interpretável para diagnóstico de doença arterial coronariana em estudo multicêntrico de PET cardíaco. (npj Digital Medicine, Abr 2026)
 - [Pillar-0: Novo SOTA em Radiologia 3D (2026)](https://arxiv.org/abs/2602.pillar0) - Modelo que supera MedImageInsight e MedGemma em tarefas de radiologia 3D. Apresentado internamente na Hapvida como referência de estado da arte.
 - [Pneumonia Detection from Enhanced Chest X-Ray Images Based on Double SGAN (2026)](https://www.nature.com/articles/s41598-026-39785-w) - Double SGAN com ResNet18-SA para diagnóstico de pneumonia: 95.83% acurácia, F1 95.52% no Pneumonia-MNIST. (Scientific Reports, Nature)
 - [Are H&E-based computational models transforming molecular pathology diagnostics in cancer? (2025)](https://www.academia.edu/resource/work/145550860) - Revisão sistemática (PRISMA) sobre modelos computacionais baseados em H&E para predição de biomarcadores moleculares em câncer. (Academia Oncology)
@@ -124,6 +134,8 @@
 
 ### NLP em Saúde
 
+- [Evaluating GPT-4o as a Multimodal Clinical Reasoner (2026)](https://arxiv.org/abs/2603.04763) — Avaliação abrangente do GPT-4o como raciocínio clínico multimodal em USMLE, VQA, neurorradiologia, patologia e mamografia. (arXiv, Mar 2026)
+- [LLM Clinical Reasoning Reliability in Reproductive Medicine (2026)](https://www.jmir.org/2026/1/e65847/) — Análise da confiabilidade de LLMs em raciocínio clínico aplicado à medicina reprodutiva, identificando limitações e riscos. (JMIR, 2026)
 - [DSGym: A Standardized and Holistic Framework for Advancing Data Science Agents (2026)](https://openreview.net/forum?id=5t0nVFY1Ld) - Framework padronizado para avaliar agentes de ciência de dados em benchmarks fragmentados. (James Zou group, OpenReview)
 - [AI Agents for Data Science: a Discussion of LAMBDA: A Large Model Based Data Agent (2026)](https://www.polyu.edu.hk/ama/cmfai/discussions/diss3.pdf) - Discussão sobre agentes de IA para ciência de dados com LAMBDA. (Yuksekgonul, Zou)
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome (2026)](https://www.biorxiv.org/content/biorxiv/early/2026/02/28/2026.02.27.708412.full.pdf) - IA agentiva modular para descoberta autônoma no microbioma intestinal. (bioRxiv, James Zou group)
@@ -157,6 +169,8 @@
 
 ### Ética e Fairness em IA na Saúde
 
+- [Algorithmic Bias in Medical AI: A Systematic Survey (2026)](https://www.jyi.org/2026-march/algorithmic-bias-medical-ai) — Revisão sistemática sobre viés algorítmico em sistemas de IA médica, cobrindo causas, impactos clínicos e estratégias de mitigação. (Journal of Young Investigators, Mar 2026)
+- [Bias Mitigation Strategies in Clinical AI: Evidence from Large-scale Deployments (2026)](https://www.nature.com/articles/s41746-026-01389-z) — Estratégias práticas para mitigar viés em sistemas de IA clínica implementados em larga escala. (npj Digital Medicine, Abr 2026)
 - [Resolução CFM 2.454/2026: Regulamentação de IA na Medicina (2026)](https://www.cfm.org.br/resolucoes/2454-2026) - Resolução do Conselho Federal de Medicina que regulamenta o uso de IA na prática médica brasileira. Prazo de 180 dias para adequação e designação de responsável técnico de IA. (CFM Brasil)
 - [Position: AI Development Should Prioritize Cognitive Security (2026)](https://openreview.net/forum?id=5pShDP8LSm) - Artigo de posição sobre a necessidade de priorizar segurança cognitiva no desenvolvimento de sistemas de IA generativa. (James Zou group, OpenReview)
 - [Racial Income Inequality and COVID-19 Burden in Louisiana: A Spatial Analysis of Public Health Disparities (2026)](https://muse.jhu.edu/pub/1/article/982963/summary) - Análise espacial de disparidades raciais e socioeconômicas na carga de COVID-19 na Louisiana. (Journal of Health Care for the Poor and Underserved)
@@ -169,6 +183,7 @@
 
 ### Repositórios e Tutoriais Gerais
 
+- [Awesome-AI-Agents-for-Healthcare](https://github.com/openmedlab/awesome-ai-agents-for-healthcare) — Lista curada de agentes de IA para saúde: diagnóstico, triagem, gestão hospitalar e pesquisa clínica. Atualizada em Abr 2026.
 - [SPR 2026 - BERTimbau v5 Gamma Search (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-v5-gamma-search) - Notebook com BERTimbau v5 usando busca gamma para otimização de threshold na competição SPR 2026.
 - [SPR 2026 - BERTimbau v5 Threshold Grid Search (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/spr-2026-bertimbau-v5-threshold-grid) - Notebook com grid search de threshold para maximizar F1-Score Macro.
 - [Validação: BioBERTpt + Focal Loss (Kaggle Notebook)](https://www.kaggle.com/code/fabianofilho/validacao-biobertpt-focal-loss) - Notebook de validação com BioBERTpt e Focal Loss para NLP clínico em português.
@@ -286,6 +301,8 @@
 
 ### Imagem Médica
 
+- [MONAI 1.5.2](https://monai.io/) - Toolkit de IA de código aberto para imagem médica, baseado em PyTorch — versão 1.5.2 lançada em Abr 2026 com melhorias em transformers e segmentação 3D. [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social)](https://github.com/Project-MONAI/MONAI)
+- [OpenMEDLab](https://github.com/openmedlab) — Plataforma open-source do Shanghai AI Laboratory com modelos de fundação para imagem médica, patologia, genômica e texto clínico. (Abr 2026)
 - [MONAI](https://monai.io/) - Toolkit de IA de código aberto para imagem médica, baseado em PyTorch. [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social)](https://github.com/Project-MONAI/MONAI)
 - [MONAI Label](https://github.com/Project-MONAI/MONAILabel) - Ferramenta inteligente de rotulagem de imagens e aprendizado para criar datasets anotados.
 - [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - Biblioteca para trabalhar com radiografias de tórax com modelos pré-treinados.
@@ -408,6 +425,7 @@
 
 ### Outros
 
+- [CXR-LT 2026 — ISBI Chest X-ray Long-tail Challenge (2026)](https://isbi.biomedicalimaging.org/2026/cxr-lt-challenge/) — Desafio de classificação de raio-X de tórax com distribuição de cauda longa: 145K+ imagens, 30+6 classes raras. (ISBI 2026, Abr 2026)
 - [DrivenData](https://www.drivendata.org/) - Competições de ciência de dados para impacto social, incluindo saúde.
 - [ISBI Challenges](https://biomedicalimaging.org/) - Desafios de imagem biomédica do IEEE International Symposium on Biomedical Imaging.
 
