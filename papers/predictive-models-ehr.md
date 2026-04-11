@@ -1,5 +1,10 @@
 # Papers — Modelos Preditivos e EHR
 
+- [Benchmark Evaluation of DeepSeek Large Language Models in Clinical Decision-Making (2026)](https://www.nature.com/articles/s41591-025-03727-2) — DeepSeek LLMs open-source equivalentes a modelos proprietários em diagnóstico e recomendação de tratamento. (Nature Medicine, 2026)
+- [Clinical Implementation of AI-Based Prediction Model for Colorectal Cancer Surgery (2026)](https://www.nature.com/articles/s41591-025-03942-x) — Modelo de predição de risco validado e implementado em prática clínica com 18.403 pacientes. (Nature Medicine, 2026)
+- [Clinical Validation of AI-Based Blood Testing Device for Acute Infection and Sepsis (2026)](https://www.nature.com/articles/s41591-025-03933-y) — Dispositivo de teste sanguíneo baseado em IA para diagnóstico e prognóstico de infecção aguda. (Nature Medicine, 2026)
+- [Scaling Medical AI Across Clinical Contexts (2026)](https://www.nature.com/articles/s41591-025-04184-7) — Desafios e estratégias para escalar IA médica através de diferentes contextos clínicos. (Nature Medicine, 2026)
+- [A Clinical Environment Simulator for Dynamic AI Evaluation (2026)](https://www.nature.com/articles/s41591-026-04252-6) — Framework de simulação para avaliar LLMs clínicos em ambientes de hospital digital onde cada decisão altera estados futuros. (Nature Medicine, 2026)
 - [CAMP: Case-Adaptive Multi-Agent Clinical Prediction (2026)](https://arxiv.org/abs/2604.00085) — Sistema multi-agente para predição clínica em MIMIC-IV. (arXiv, 31 Mar 2026)
 - [Agentic AI for Outpatient Queue Optimization (2026)](https://arxiv.org/abs/2604.00215) — 94,2% dos pacientes críticos atendidos em até 10 minutos. (arXiv, 31 Mar 2026)
 - [Evidence of Unreliable Data and Poor Data Provenance in Clinical Prediction Model Research (2026)](https://www.medrxiv.org/content/medrxiv/early/2026/02/26/2026.02.24.26347028.full.pdf) — Modelos de predição clínica frequentemente criados com dados não confiáveis. (medRxiv)

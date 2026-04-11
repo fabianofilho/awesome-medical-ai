@@ -1,5 +1,7 @@
 # Ferramentas — NLP em Saúde
 
+- [MedGemma: Google's Open Health AI Models (2026)](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/) — Modelos de linguagem abertos mais capazes para desenvolvimento de IA em saúde, fine-tunáveis localmente em hospitais. (Google Research, Abr 2026)
+- [MedCodER: Generative AI Assistant for Medical Coding (2026)](https://aclanthology.org/2025.naacl-industry.37.pdf) — Assistente de IA generativa para codificação médica automática com SNOMED CT e ICD codes. (NAACL 2025)
 - [John Snow Labs Spark NLP for Healthcare](https://www.johnsnowlabs.com/healthcare-nlp/) — NLP de estado da arte para saúde, com NER, de-identificação e extração de relações.
 - [spaCy](https://spacy.io/) — Biblioteca de PNL industrial com suporte a modelos biomédicos (scispaCy).
 - [scispaCy](https://allenai.github.io/scispacy/) — Modelos spaCy treinados em texto biomédico.

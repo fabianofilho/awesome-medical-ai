@@ -1,11 +1,12 @@
 # Papers — Imagem Médica
 
+- [Federated Learning for Large Models in Medical Imaging (2026)](https://arxiv.org/abs/2508.20414) — Framework de aprendizado federado para preservar privacidade em treinamento colaborativo de modelos de imagem. (arXiv, Abr 2026)
 - [PhysNet: Physics-Embedded Feature Learning for Tumor MRI (2026)](https://arxiv.org/abs/2603.28057) — Modelo fundamentado em física para segmentação de tumores em MRI. (arXiv, 30 Mar 2026)
 - [Brain MR Synthesis with Multi-contrast Self-attention GAN (2026)](https://arxiv.org/abs/2604.00070) — GAN com autoatenção multicontraste para síntese de RM cerebral. (arXiv, 31 Mar 2026)
 - [Feature-level Site Leakage Reduction for Chest X-ray Transfer (2026)](https://arxiv.org/abs/2604.00263) — Reduz vazamento de site em transferência de aprendizado para raio-X. (arXiv, 31 Mar 2026)
 - [Interpretable AI for Coronary Artery Disease — multicenter PET study (2026)](https://www.nature.com/articles/s41746-026-01401-6) — IA interpretável para diagnóstico de DAC em estudo multicêntrico. (npj Digital Medicine, Abr 2026)
 - [Merlin: A Computed Tomography Vision–Language Foundation Model (2026)](https://www.nature.com/articles/s41586-026-10181-8) — Modelo de fundação 3D para TC abdominal treinado em +6M imagens. (Nature, Stanford MIMI)
-- [Efficient Deep Learning for Medical Imaging (2026)](https://arxiv.org/abs/2602.00910) — Revisão de arquiteturas leves para implantação clínica. (arXiv)
+- [Efficient Deep Learning for Medical Imaging (2026)](https://arxiv.org/abs/2602.00910) — Revisão de arquiteturas leves para implantação clínica. Categoriza modelos eficientes em CNNs, Transformers leves e modelos com complexidade linear. (arXiv, Abr 2026)
 - [Foundation Models – A Panacea for Artificial Intelligence in Pathology? (2026)](https://arxiv.org/abs/2502.21264) — Análise crítica sobre FMs vs modelos tarefa-específicos em patologia. (arXiv)
 - [Pneumonia Detection from Enhanced Chest X-Ray Images Based on Double SGAN (2026)](https://www.nature.com/articles/s41598-026-39785-w) — 95.83% acurácia, F1 95.52% no Pneumonia-MNIST. (Scientific Reports)
 - [Machine learning analysis of CT scans can diagnose and predict disease risk (2026)](https://www.nih.gov/news-events/nih-research-matters/machine-learning-analysis-ct-scans) — Modelo de ML que interpreta tomografias abdominais. (NIH)

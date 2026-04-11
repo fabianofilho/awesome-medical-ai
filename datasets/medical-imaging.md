@@ -2,6 +2,7 @@
 
 | Dataset | Descrição | Link |
 |---------|-----------|------|
+| **Stanford AIMI Public Repository** | Repositório público do Stanford Center for AI in Medicine and Imaging com imagens de ecocardiogramas, TC cerebral, RM, radiografias e ultrassons cuidadosamente curadas e anotadas. | [Stanford AIMI](https://aimi.stanford.edu/) |
 | **CheXpert** | 224.316 radiografias de tórax com labels de 14 observações. | [Stanford ML Group](https://stanfordmlgroup.github.io/competitions/chexpert/) |
 | **MIMIC-CXR** | 227.835 estudos de imagem para 64.588 pacientes com relatórios de radiologia. | [PhysioNet](https://physionet.org/content/mimic-cxr/) |
 | **PadChest** | 160.000 imagens de raio-X de tórax com anotações de 170+ achados. | [BIMCV](http://bimcv.cipf.es/bimcv-projects/padchest/) |

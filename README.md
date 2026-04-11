@@ -15,24 +15,43 @@
 
 ---
 
-## Novidades -- Semana de 04 Abr 2026
+## Novidades -- Semana de 04-11 Abr 2026
 
 > Adicionados automaticamente pelo cron #07.
 
 ### Papers
 
-- **Merlin (Stanford MIMI)** -- Modelo de fundacao 3D para TC abdominal treinado em +6M imagens e relatorios.
-- **OpenMEDLab** -- Plataforma open-source com modelos de fundacao para imagem medica, patologia, genomica e texto clinico. (Abr 2026)
+**Imagem Medica:**
+- Federated Learning for Large Models in Medical Imaging -- Framework para aprendizado distribuido preservando privacidade
+- Efficient Deep Learning for Medical Imaging (atualizado) -- Revisao expandida de arquiteturas leves
 
-### Ferramentas
+**NLP & Decisao Clinica:**
+- Why Large Language Models' Clinical Reasoning Fails -- Analisa variabilidade inexplicada em raciocinio clinico
+- Medical Concept Understanding in Large Language Models -- Estudo sobre compreensao de conceitos medicos
+- Advancements in Multilingual Biomedical NLP -- Pipelines LLM para NER e BEL em narrativas clinicas
+- Benchmark Evaluation of DeepSeek LLMs in Clinical Decision-Making -- DeepSeek LLMs equivalentes a modelos proprietarios
+- Clinical Implementation of AI-Based Prediction Model for Colorectal Cancer Surgery -- 18K+ pacientes em pratica clinica
+- Clinical Validation of AI-Based Blood Testing Device for Sepsis -- Diagnostico de infeccao aguda
+- Scaling Medical AI Across Clinical Contexts -- Estrategias para escalar IA em contextos clinicos
+- A Clinical Environment Simulator for Dynamic AI Evaluation -- Simulacao de ambiente hospitalar digital
 
-- **MONAI 1.5.2** -- Versao 1.5.2 lancada em Abr 2026 com melhorias em transformers e segmentacao 3D.
-- **ccda-to-fhir** -- Biblioteca Python para conversao de documentos C-CDA para recursos FHIR R4B.
+**Drug Discovery:**
+- AI for Biologic Drug Discovery -- Design de proteinas, anticorpos e otimizacao
+- DrugCLIP: Virtual Screening at Scale -- Rastreamento de milhoes de compostos
+- From Algorithm to Medicine: AI in Drug Discovery -- Revisao de aplicacoes de IA em descoberta
 
-### Competicoes
+### Ferramentas & Modelos
 
-- **CXR-LT 2026** -- ISBI Chest X-ray Long-tail Challenge: 145K+ imagens, 30+6 classes raras. (Abr 2026)
-- **Triagegeist Hackathon** -- IA para triagem em emergencias. Premio: $10.000.
+- **MedGemma** -- Modelos abertos de linguagem do Google para IA em saude, fine-tunaveis localmente
+- **MedCodER** -- Assistente generativo para codificacao medica automatica com SNOMED CT e ICD
+
+### Datasets
+
+- **Stanford AIMI Public Repository** -- Ecocardiogramas, TC cerebral, RM, radiografias e ultrassons anotados
+
+### Eventos
+
+- **AI/ML for Early Drug Discovery** -- Conferencia em San Diego, 14-15 Abr 2026
 
 ---
 

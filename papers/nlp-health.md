@@ -1,5 +1,8 @@
 # Papers — NLP em Saúde
 
+- [Why Large Language Models' Clinical Reasoning Fails: Insights from Explainable Deep Learning (2026)](https://www.medrxiv.org/content/10.64898/2026.01.26.26344845v1.full) — Analisa falhas de raciocínio clínico em LLMs médicos com variabilidade inexplicada em tarefas clínicas. (medRxiv, 26 Jan 2026)
+- [Medical Concept Understanding in Large Language Models (2026)](https://www.medrxiv.org/content/10.64898/2026.03.03.26347552v1.full.pdf) — Estudo sobre compreensão de conceitos médicos em LLMs. (medRxiv, Mar 2026)
+- [Advancements in Multilingual Biomedical NLP: Exploring Large Language Models for Named Entity Recognition and Linking (2026)](https://www.medrxiv.org/content/10.64898/2026.01.22.26344605v1.full) — Pipelines de LLM multilíngues para NER e BEL em narrativas clínicas desestruturadas. (medRxiv, 22 Jan 2026)
 - [Evaluating GPT-4o as a Multimodal Clinical Reasoner (2026)](https://arxiv.org/abs/2603.04763) — Avaliação em USMLE, VQA, neurorradiologia, patologia e mamografia. (arXiv, Mar 2026)
 - [LLM Clinical Reasoning Reliability in Reproductive Medicine (2026)](https://www.jmir.org/2026/1/e65847/) — Limitações e riscos de LLMs em raciocínio clínico. (JMIR)
 - [CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation (2026)](https://arxiv.org/abs/2603.06183) — Framework de avaliação para laudos de radiologia gerados por IA. (arXiv)
