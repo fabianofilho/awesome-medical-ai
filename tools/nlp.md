@@ -1,5 +1,8 @@
 # Ferramentas — NLP em Saúde
 
+- [ClinicBot: A Guideline-Grounded Clinical Chatbot (2026)](https://arxiv.org/abs/) — Chatbot clínico com RAG priorizado por evidências e citações verificáveis. Desenvolvido por KIT, Helmholtz Ulm, TU Munich. (arXiv, 2026)
+- [BioMedArena: Toolkit for Biomedical Deep Research Agents (2026)](https://arxiv.org/abs/) — Toolkit open-source para construir e avaliar agentes de pesquisa biomédica baseados em IA profunda. (arXiv, 2026)
+- [LAOS System: Clinical Documentation with Voice Processing (2026)](https://www.nature.com/articles/s41746-025-02170-4) — Sistema de processamento de voz e LLMs para melhorar documentação clínica. (npj Digital Medicine, 2026)
 - [MedGemma: Google's Open Health AI Models (2026)](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/) — Modelos de linguagem abertos mais capazes para desenvolvimento de IA em saúde, fine-tunáveis localmente em hospitais. (Google Research, Abr 2026)
 - [MedCodER: Generative AI Assistant for Medical Coding (2026)](https://aclanthology.org/2025.naacl-industry.37.pdf) — Assistente de IA generativa para codificação médica automática com SNOMED CT e ICD codes. (NAACL 2025)
 - [John Snow Labs Spark NLP for Healthcare](https://www.johnsnowlabs.com/healthcare-nlp/) — NLP de estado da arte para saúde, com NER, de-identificação e extração de relações.

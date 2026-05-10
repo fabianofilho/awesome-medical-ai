@@ -4,7 +4,8 @@
 
 - [Triagegeist Hackathon (2026)](https://www.kaggle.com/competitions/triagegeist) -- Desafio para construir ferramentas de IA para suporte a triagem em departamentos de emergencia. Premio: $10.000. Dados recomendados: MIMIC-IV-ED, NHAMCS. (Laitinen-Fredriksson Foundation)
 - [SPR 2026 - Mammography Report Classification (2026)](https://www.kaggle.com/competitions/spr-2026-mammography) -- Classificacao de relatorios de mamografia em portugues. Metrica: F1-Score Macro. Premio: $3.000. (Felipe Kitamura, MD, PhD)
-- [The MedGemma Impact Challenge (2026)](https://www.kaggle.com/competitions/med-gemma-impact-challenge) -- Construir aplicacoes de IA centradas no ser humano com MedGemma e outros modelos abertos do Google.
+- [The MedGemma Impact Challenge (2026)](https://www.kaggle.com/competitions/med-gemma-impact-challenge) -- Construir aplicacoes de IA centradas no ser humano com MedGemma e outros modelos abertos do Google. Vencedores: aplicacoes em cuidado critico, saude mental, patologia e pneumonia. (Google, Fev 2026)
+- [AI-Med Future Competition (2026)](https://www.kaggle.com/competitions/aimedfuture) -- Desafio de IA para aplicacoes medicas.
 - [Medical AI: Medical Diagnosis Challenge (2025)](https://www.kaggle.com/competitions/cm-medical-prognosis) -- Explorar fatores demograficos, clinicos e de estilo de vida que influenciam o prognostico de longo prazo.
 - [Kaggle Healthcare Competitions](https://www.kaggle.com/competitions?tagIds=4202-Healthcare) -- Todas as competicoes de saude no Kaggle.
 - [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection) -- Deteccao de cancer de mama em mamografias.

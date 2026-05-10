@@ -1,6 +1,8 @@
 # Eventos & Conferencias
 
-- **MIDL 2026 (Medical Imaging with Deep Learning 2026)** — Conferência internacional sobre deep learning em análise de imagens biomédicas. [Site](https://2026.midl.io/)
+- **MIDL 2026 (Medical Imaging with Deep Learning 2026)** — Conferência internacional sobre deep learning em análise de imagens biomédicas. Acontece em Taipei, Taiwan com streaming online gratuito. [Site](https://2026.midl.io/)
+- **BioNLP 2026 Workshop** — Workshop sobre NLP biomédico e avaliação de LLMs para saúde. Foco em transparência, DEIA (Diversity, Equity, Inclusion, Accessibility) e desafios de alucinações e viés. [Site](https://www.aclweb.org/aclwiki/BioNLP_Workshop)
+- **Keystone Symposia: Computational Advances in Drug Discovery** — Conferência sobre avanços computacionais em drug discovery. [Site](https://www.keystonesymposia.org/conferences/conference-listing/meeting/g12026)
 - **MICAD 2026** — 7ª Conferência Internacional sobre Imagem Médica e Computer-Aided Diagnosis, 22-24 Out 2026, Edimburgo. [Site](https://www.micad.org/)
 - **Bio-IT World Expo 2026: AI for Drug Discovery & Development** — 18-20 Mai 2026, Boston & Virtual. [Site](https://www.bio-itworldexpo.com/ai-pharma-biotech)
 

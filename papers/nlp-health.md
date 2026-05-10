@@ -1,5 +1,8 @@
 # Papers — NLP em Saúde
 
+- [Scalable Micro-Credentials for AI Literacy in Healthcare (2026)](https://www.medrxiv.org/content/10.64898/2026.03.11.26348161v1.full.pdf) — Ciberinfrastrutura web baseada em LLMs para credenciamento e educação em IA para profissionais de saúde. (medRxiv, 13 Mar 2026)
+- [Benchmarking LLM-based Information Extraction Tools for Medical Documents (2026)](https://www.medrxiv.org/content/10.64898/2026.01.19.26344287v1.full) — Revisão de ferramentas baseadas em LLMs para digitização automatizada e extração de informações de documentos médicos. (medRxiv, Jan 2026)
+- [Authority Signals in AI Cited Health Sources: A Framework (2026)](https://www.medrxiv.org/content/10.64898/2026.01.22.26344576v1.full.pdf) — Análise de como sistemas de IA como ChatGPT citam fontes de informação em saúde. (medRxiv, Jan 2026)
 - [LLM-based Medical Dialogue Dataset Generation with Automated Instructions (2026)](https://www.nature.com/articles/s41598-025-34835-1) — Geração de datasets médicos de alta qualidade com instruções automatizadas, abordando escassez de dados e privacidade. (Scientific Reports, 2026)
 - [Transformer-based Relation Extraction and Concept Normalization Using Annotated Clinical Trials Corpus (2026)](https://www.nature.com/articles/s41597-026-06608-6) — Corpus CT-EBM-SP com anotações para extração de relações e normalização de conceitos médicos. (Scientific Data, Jan 2026)
 - [Lightweight Transformers for Clinical Natural Language Processing (2026)](https://github.com/nlpie-research/lightweight-clinical-transformers) — Modelos transformadores compactos (15-65M parâmetros) comparáveis a BioBERT e ClinicalBioBERT. (GitHub)

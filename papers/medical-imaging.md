@@ -1,5 +1,9 @@
 # Papers — Imagem Médica
 
+- [Measuring the Impact of AI on Report-Drafting Efficiency in Chest Computed Tomography Interpretation: Retrospective Analysis (2026)](https://www.jmir.org/2026/1/e77967) — Avaliação de como IA reduz tempo de elaboração de relatórios em TC de tórax. (JMIR, 2026)
+- [The Diagnostic Value of Image-Based Machine Learning for Osteoporosis: Systematic Review and Meta-Analysis (2026)](https://www.jmir.org/2026/1/e75965) — Modelos de DL em radiografia e TC mostram alta acurácia diagnóstica para osteoporose (>0.85 AUC em vários estudos). (JMIR, Jan 2026)
+- [From Intelligent Models to Clinical Tools: The Evolving Landscape of AI in Medical Imaging (2026)](https://www.nature.com/articles/s41598-026-49861-w) — Transição de modelos de pesquisa para ferramentas clínicas com exemplos de detecção de doenças retinianas. (Scientific Reports, 2026)
+- [Explainable Artificial Intelligence for Medical Imaging Systems Using Deep Learning: A Comprehensive Review (2025)](https://link.springer.com/article/10.1007/s10586-025-05281-5) — Revisão sobre XAI em imagem médica, foco em transparência e confiabilidade de modelos. (Cluster Computing, 2025)
 - [Federated Learning for Large Models in Medical Imaging (2026)](https://arxiv.org/abs/2508.20414) — Framework de aprendizado federado para preservar privacidade em treinamento colaborativo de modelos de imagem. (arXiv, Abr 2026)
 - [PhysNet: Physics-Embedded Feature Learning for Tumor MRI (2026)](https://arxiv.org/abs/2603.28057) — Modelo fundamentado em física para segmentação de tumores em MRI. (arXiv, 30 Mar 2026)
 - [Brain MR Synthesis with Multi-contrast Self-attention GAN (2026)](https://arxiv.org/abs/2604.00070) — GAN com autoatenção multicontraste para síntese de RM cerebral. (arXiv, 31 Mar 2026)

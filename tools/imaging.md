@@ -1,5 +1,7 @@
 # Ferramentas — Imagem Médica
 
+- [MedHorizon: Long-context Medical Video Understanding (2026)](https://arxiv.org/abs/) — Framework para compreensão de vídeos médicos em contextos longos. Aplicações em análise de procedimentos cirúrgicos. (arXiv, 2026)
+- [Bridging Visual Saliency and LLMs for Explainable Medical Imaging (2026)](https://arxiv.org/abs/) — Integração de saliência visual com LLMs para explicabilidade em aprendizado profundo em imagem médica. (arXiv, 2026)
 - [MONAI 1.5.2](https://monai.io/) — Toolkit de IA de código aberto para imagem médica, baseado em PyTorch. Versão 1.5.2 com melhorias em transformers e segmentação 3D. [![Stars](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social)](https://github.com/Project-MONAI/MONAI)
 - [OpenMEDLab](https://github.com/openmedlab) — Plataforma open-source com modelos de fundação para imagem médica, patologia, genômica e texto clínico. (Abr 2026)
 - [MONAI Label](https://github.com/Project-MONAI/MONAILabel) — Ferramenta inteligente de rotulagem de imagens para criar datasets anotados.

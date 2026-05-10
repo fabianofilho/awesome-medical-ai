@@ -15,43 +15,67 @@
 
 ---
 
-## Novidades -- Semana de 09-05 may 2026
+## Novidades -- Semana de 02-09 mai 2026
 
 > Adicionados automaticamente pelo cron #07 (awesome-medical-ai).
 
-### Papers
+### Papers (15 novos)
 
-**NLP & Conversação:**
-- LLM-based Medical Dialogue Dataset Generation with Automated Instructions -- Geração automatizada de datasets médicos conversacionais de alta qualidade
-- Transformer-based Relation Extraction and Concept Normalization -- Corpus CT-EBM-SP para extração de relações e normalização em ensaios clínicos
-- Lightweight Transformers for Clinical NLP -- Modelos transformadores compactos (15-65M params) comparáveis a BioBERT
+**ECG & Sinais:**
+- MEETI: Multimodal ECG Dataset (MIMIC-IV-ECG) com sinais, imagens e interpretações textuais (Scientific Data, Mai 2026)
+- Multimodal Transformer for Cardiovascular Comorbidity Detection via ECG (JMIR Formative Research, 2026)
 
-**ECG & Sinais Cardíacos:**
-- AI-Driven Real-Time Classification of ECG Signals Using i-AlexNet -- Classificação em tempo real otimizada para arritimias
-- Deep Learning Hybrid Model ECG Classification -- Modelo híbrido com network de fusão para melhor acurácia
-- FPGA-Accelerated ECG Analysis -- Implementações aceleradas em hardware para ECG em tempo real
-- AI for Direct-to-Physician Reporting of Ambulatory ECG -- Relatorios automáticos de EHR ambulatorial
+**NLP & Processamento de Linguagem:**
+- Scalable Micro-Credentials for AI Literacy in Healthcare com infraestrutura baseada em LLMs (medRxiv, Mar 2026)
+- Benchmarking LLM-based Information Extraction Tools for Medical Documents (medRxiv, Jan 2026)
+- Authority Signals in AI Cited Health Sources: A Framework (medRxiv, Jan 2026)
+
+**Imagem Médica:**
+- The Diagnostic Value of Image-Based Machine Learning for Osteoporosis: Systematic Review & Meta-Analysis (JMIR, 2026)
+- From Intelligent Models to Clinical Tools: AI in Medical Imaging transição pesquisa-clínica (Scientific Reports, 2026)
+- Explainable AI for Medical Imaging Systems Review com foco em transparência (Cluster Computing, 2025)
 
 **Drug Discovery:**
-- OpenBind: Open Drug-Target Binding Dataset and Benchmark -- Dataset público com 800 medições + modelo preditivo v1
+- Artificial Intelligence in Drug Discovery and Development: Pharmaceutical Innovation (Drug Development Research, 2026)
+- AI in Drug Discovery Predictions 2026: crescimento de 5-7B para 8-10B USD (Drug Target Review, 2026)
+- MSU Study: Faster Discovery of Therapeutic Drugs Through AI (MSUToday, Mar 2026)
 
-### Modelos & Ferramentas
+### Modelos & Ferramentas (10 novos)
 
-- **MedGemma 1.5** (Google) -- LLM aberto com suporte aprimorado para imagem médica e MedASR
-- **OpenBind v1** -- Modelo preditivo para afinidade drug-target
-- **Me-LLaMA** -- LLaMA médico com 129B tokens + 214k instruções
-- **Lightweight Clinical Transformers** -- Suite de transformadores eficientes para NLP clínico
+**Clinical & NLP:**
+- **ClinicBot** -- Chatbot clínico com RAG priorizado por evidências (KIT, Helmholtz Ulm, TU Munich, 2026)
+- **BioMedArena** -- Toolkit open-source para agentes de pesquisa biomédica (arXiv, 2026)
+- **LAOS System** -- Clinical documentation com voice processing e LLMs (npj Digital Medicine, 2026)
 
-### Datasets
+**Medical Imaging & Vision:**
+- **MedHorizon** -- Long-context medical video understanding para procedimentos cirúrgicos (arXiv, 2026)
+- **Bridging Visual Saliency and LLMs** -- Framework para XAI em imagem médica (arXiv, 2026)
 
-- **CT-EBM-SP Corpus** -- Corpus de ensaios clínicos em espanhol com anotações
-- **Swedish Medical LLM Benchmark (SMLB)** -- 4 datasets para avaliação de LLMs médicos
+**LLM Benchmarks & Modelos:**
+- **Gemini-2 & GPT-4o Clinical Benchmarks** -- Top performers em avaliações clínicas 2026 (Nature, 2026)
+- **BioELMo, BlueBERT, BioMegatron** -- Modelos BERT especializados para biomedicina
+
+**ECG & Sinais:**
+- **CaMPNet** -- Cross-attention fusion de sinais 12-derivações, métricas e demografia (MIMIC-IV-ECG, 2026)
+- **Multimodal Transformer for ECG** -- Integração de sinais brutos, imagens e metadados (Scientific Data, 2026)
+
+### Datasets (3 novos)
+
+- **MEETI (MIMIC-IV-ECG)** -- Dataset multimodal sincronizando ECG, imagens de alta resolução e interpretações (Scientific Data, 2026)
+- **EchoNext** -- Dataset curado de ECGs com diagnósticos estruturais confirmados (PhysioNet, 2026)
+- **Top 50+ Open-Source Healthcare Datasets** -- Curadoria atualizada de datasets públicos (Medium, 2026)
+
+### Competições
+
+- **AI-Med Future Competition** (2026)
+- **MedGemma Impact Challenge winners** -- Aplicações em cuidado crítico, saúde mental, patologia, pneumonia (Google, Fev 2026)
 
 ### Eventos
 
-- **MIDL 2026** -- Conferência internacional sobre deep learning em imagem biomédica
-- **MICAD 2026** -- Conferência de imagem médica, 22-24 Out 2026, Edimburgo
-- **Bio-IT World Expo: AI for Drug Discovery** -- 18-20 Mai 2026, Boston & Virtual
+- **MIDL 2026** -- Conferência internacional deep learning em imagem biomédica (Taipei, Taiwan)
+- **BioNLP 2026** -- Workshop sobre NLP biomédico, transparência e DEIA
+- **Keystone Symposia** -- Computational Advances in Drug Discovery
+- **Bio-IT World Expo** -- AI for Drug Discovery & Development (18-20 Mai 2026, Boston & Virtual)
 
 ---
 

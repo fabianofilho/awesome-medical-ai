@@ -1,5 +1,8 @@
 # Papers — Drug Discovery
 
+- [Artificial Intelligence in Drug Discovery and Development: Transforming Pharmaceutical Innovation (2026)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/ddr.70281) — Revisão sobre transformação de IA em inovação farmacêutica, aplicações em target identification, hit finding, lead optimization. (Drug Development Research, 2026)
+- [AI in Drug Discovery: Predictions for 2026 (2026)](https://www.drugtargetreview.com/article/192962/ai-in-drug-discovery-predictions-for-2026/) — Análise de tendências: 2026 é o ano em que IA deixa de ser opcional em drug discovery. Crescimento de 5-7B USD (2025) para 8-10B USD (2026). (Drug Target Review, 2026)
+- [MSU Study: Faster Discovery of Therapeutic Drugs Through AI (2026)](https://msutoday.msu.edu/news/2026/03/msu-study-demonstrates-faster-discovery-of-therapeutic-drugs-through-ai) — Estudo de Michigan State University demonstrando aceleração na descoberta de drogas terapêuticas com IA. (MSUToday, Mar 2026)
 - [OpenBind: Open Drug-Target Binding Dataset and Benchmark (2026)](https://lightsources.org/2026/05/06/openbinds-first-data-and-model-release-marks-a-milestone-for-ai-enabled-drug-discovery/) — Primeiro dataset público e modelo preditivo OpenBind v1 com 800 medições de alta qualidade. (May 2026)
 
 - [AI for Biologic Drug Discovery: Transforming Structure-Activity Relationships (2026)](https://themedicinemaker.com/issues/2026/articles/april/how-ai-is-reshaping-biologic-drug-discovery/) — Análise de como IA está reformulando descoberta de fármacos biológicos com design de proteínas, anticorpos e otimização de afinidade. (The Medicine Maker, Abr 2026)
