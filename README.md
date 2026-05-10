@@ -31,6 +31,7 @@
 - Authority Signals in AI Cited Health Sources: A Framework (medRxiv, Jan 2026)
 
 **Imagem Médica:**
+- Measuring the Impact of AI on Report-Drafting Efficiency in Chest Computed Tomography Interpretation (JMIR, 2026)
 - The Diagnostic Value of Image-Based Machine Learning for Osteoporosis: Systematic Review & Meta-Analysis (JMIR, 2026)
 - From Intelligent Models to Clinical Tools: AI in Medical Imaging transição pesquisa-clínica (Scientific Reports, 2026)
 - Explainable AI for Medical Imaging Systems Review com foco em transparência (Cluster Computing, 2025)
@@ -52,16 +53,24 @@
 - **Bridging Visual Saliency and LLMs** -- Framework para XAI em imagem médica (arXiv, 2026)
 
 **LLM Benchmarks & Modelos:**
+- **MedGemma 1.5** -- Versão aprimorada do Google com suporte para imagem médica e MedASR (2026)
+- **Me-LLaMA** -- LLaMA médico com 129B tokens e 214k instruções (2026)
 - **Gemini-2 & GPT-4o Clinical Benchmarks** -- Top performers em avaliações clínicas 2026 (Nature, 2026)
 - **BioELMo, BlueBERT, BioMegatron** -- Modelos BERT especializados para biomedicina
+
+**Visão & Multimodal:**
+- **Merlin** -- Modelo de fundação visão-linguagem 3D para TC abdominal, 6M+ imagens (Stanford MIMI, 2026)
 
 **ECG & Sinais:**
 - **CaMPNet** -- Cross-attention fusion de sinais 12-derivações, métricas e demografia (MIMIC-IV-ECG, 2026)
 - **Multimodal Transformer for ECG** -- Integração de sinais brutos, imagens e metadados (Scientific Data, 2026)
 
-### Datasets (3 novos)
+### Datasets (6 novos)
 
 - **MEETI (MIMIC-IV-ECG)** -- Dataset multimodal sincronizando ECG, imagens de alta resolução e interpretações (Scientific Data, 2026)
+- **EHRSHOT, INSPECT, MedAlign** -- 3 benchmarks EHR de-identificados com 25.991 pacientes, 441.680 visitas (Stanford HAI, 2026)
+- **CT-EBM-SP Corpus** -- Corpus anotado de ensaios clínicos em espanhol para extração de relações (Scientific Data, 2026)
+- **Swedish Medical LLM Benchmark (SMLB)** -- 4 datasets para avaliação de LLMs médicos (2026)
 - **EchoNext** -- Dataset curado de ECGs com diagnósticos estruturais confirmados (PhysioNet, 2026)
 - **Top 50+ Open-Source Healthcare Datasets** -- Curadoria atualizada de datasets públicos (Medium, 2026)
 
