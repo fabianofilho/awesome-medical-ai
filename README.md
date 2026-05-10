@@ -15,43 +15,45 @@
 
 ---
 
-## Novidades -- Semana de 04-11 Abr 2026
+## Novidades -- Semana de 09-05 may 2026
 
-> Adicionados automaticamente pelo cron #07.
+> Adicionados automaticamente pelo cron #07 (awesome-medical-ai).
 
 ### Papers
 
-**Imagem Medica:**
-- Federated Learning for Large Models in Medical Imaging -- Framework para aprendizado distribuido preservando privacidade
-- Efficient Deep Learning for Medical Imaging (atualizado) -- Revisao expandida de arquiteturas leves
+**NLP & Conversação:**
+- LLM-based Medical Dialogue Dataset Generation with Automated Instructions -- Geração automatizada de datasets médicos conversacionais de alta qualidade
+- Transformer-based Relation Extraction and Concept Normalization -- Corpus CT-EBM-SP para extração de relações e normalização em ensaios clínicos
+- Lightweight Transformers for Clinical NLP -- Modelos transformadores compactos (15-65M params) comparáveis a BioBERT
 
-**NLP & Decisao Clinica:**
-- Why Large Language Models' Clinical Reasoning Fails -- Analisa variabilidade inexplicada em raciocinio clinico
-- Medical Concept Understanding in Large Language Models -- Estudo sobre compreensao de conceitos medicos
-- Advancements in Multilingual Biomedical NLP -- Pipelines LLM para NER e BEL em narrativas clinicas
-- Benchmark Evaluation of DeepSeek LLMs in Clinical Decision-Making -- DeepSeek LLMs equivalentes a modelos proprietarios
-- Clinical Implementation of AI-Based Prediction Model for Colorectal Cancer Surgery -- 18K+ pacientes em pratica clinica
-- Clinical Validation of AI-Based Blood Testing Device for Sepsis -- Diagnostico de infeccao aguda
-- Scaling Medical AI Across Clinical Contexts -- Estrategias para escalar IA em contextos clinicos
-- A Clinical Environment Simulator for Dynamic AI Evaluation -- Simulacao de ambiente hospitalar digital
+**ECG & Sinais Cardíacos:**
+- AI-Driven Real-Time Classification of ECG Signals Using i-AlexNet -- Classificação em tempo real otimizada para arritimias
+- Deep Learning Hybrid Model ECG Classification -- Modelo híbrido com network de fusão para melhor acurácia
+- FPGA-Accelerated ECG Analysis -- Implementações aceleradas em hardware para ECG em tempo real
+- AI for Direct-to-Physician Reporting of Ambulatory ECG -- Relatorios automáticos de EHR ambulatorial
 
 **Drug Discovery:**
-- AI for Biologic Drug Discovery -- Design de proteinas, anticorpos e otimizacao
-- DrugCLIP: Virtual Screening at Scale -- Rastreamento de milhoes de compostos
-- From Algorithm to Medicine: AI in Drug Discovery -- Revisao de aplicacoes de IA em descoberta
+- OpenBind: Open Drug-Target Binding Dataset and Benchmark -- Dataset público com 800 medições + modelo preditivo v1
 
-### Ferramentas & Modelos
+### Modelos & Ferramentas
 
-- **MedGemma** -- Modelos abertos de linguagem do Google para IA em saude, fine-tunaveis localmente
-- **MedCodER** -- Assistente generativo para codificacao medica automatica com SNOMED CT e ICD
+- **MedGemma 1.5** (Google) -- LLM aberto com suporte aprimorado para imagem médica e MedASR
+- **OpenBind v1** -- Modelo preditivo para afinidade drug-target
+- **Me-LLaMA** -- LLaMA médico com 129B tokens + 214k instruções
+- **Lightweight Clinical Transformers** -- Suite de transformadores eficientes para NLP clínico
 
 ### Datasets
 
-- **Stanford AIMI Public Repository** -- Ecocardiogramas, TC cerebral, RM, radiografias e ultrassons anotados
+- **CT-EBM-SP Corpus** -- Corpus de ensaios clínicos em espanhol com anotações
+- **Swedish Medical LLM Benchmark (SMLB)** -- 4 datasets para avaliação de LLMs médicos
 
 ### Eventos
 
-- **AI/ML for Early Drug Discovery** -- Conferencia em San Diego, 14-15 Abr 2026
+- **MIDL 2026** -- Conferência internacional sobre deep learning em imagem biomédica
+- **MICAD 2026** -- Conferência de imagem médica, 22-24 Out 2026, Edimburgo
+- **Bio-IT World Expo: AI for Drug Discovery** -- 18-20 Mai 2026, Boston & Virtual
+
+---
 
 ---
 

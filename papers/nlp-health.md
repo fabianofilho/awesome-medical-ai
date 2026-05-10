@@ -1,5 +1,9 @@
 # Papers — NLP em Saúde
 
+- [LLM-based Medical Dialogue Dataset Generation with Automated Instructions (2026)](https://www.nature.com/articles/s41598-025-34835-1) — Geração de datasets médicos de alta qualidade com instruções automatizadas, abordando escassez de dados e privacidade. (Scientific Reports, 2026)
+- [Transformer-based Relation Extraction and Concept Normalization Using Annotated Clinical Trials Corpus (2026)](https://www.nature.com/articles/s41597-026-06608-6) — Corpus CT-EBM-SP com anotações para extração de relações e normalização de conceitos médicos. (Scientific Data, Jan 2026)
+- [Lightweight Transformers for Clinical Natural Language Processing (2026)](https://github.com/nlpie-research/lightweight-clinical-transformers) — Modelos transformadores compactos (15-65M parâmetros) comparáveis a BioBERT e ClinicalBioBERT. (GitHub)
+
 - [Why Large Language Models' Clinical Reasoning Fails: Insights from Explainable Deep Learning (2026)](https://www.medrxiv.org/content/10.64898/2026.01.26.26344845v1.full) — Analisa falhas de raciocínio clínico em LLMs médicos com variabilidade inexplicada em tarefas clínicas. (medRxiv, 26 Jan 2026)
 - [Medical Concept Understanding in Large Language Models (2026)](https://www.medrxiv.org/content/10.64898/2026.03.03.26347552v1.full.pdf) — Estudo sobre compreensão de conceitos médicos em LLMs. (medRxiv, Mar 2026)
 - [Advancements in Multilingual Biomedical NLP: Exploring Large Language Models for Named Entity Recognition and Linking (2026)](https://www.medrxiv.org/content/10.64898/2026.01.22.26344605v1.full) — Pipelines de LLM multilíngues para NER e BEL em narrativas clínicas desestruturadas. (medRxiv, 22 Jan 2026)

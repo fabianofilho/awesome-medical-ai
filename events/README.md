@@ -1,5 +1,10 @@
 # Eventos & Conferencias
 
+- **MIDL 2026 (Medical Imaging with Deep Learning 2026)** — Conferência internacional sobre deep learning em análise de imagens biomédicas. [Site](https://2026.midl.io/)
+- **MICAD 2026** — 7ª Conferência Internacional sobre Imagem Médica e Computer-Aided Diagnosis, 22-24 Out 2026, Edimburgo. [Site](https://www.micad.org/)
+- **Bio-IT World Expo 2026: AI for Drug Discovery & Development** — 18-20 Mai 2026, Boston & Virtual. [Site](https://www.bio-itworldexpo.com/ai-pharma-biotech)
+
+
 ## AI/ML para Descoberta de Drogas
 
 - [AI/Machine Learning for Early Drug Discovery Part 1 (2026)](https://www.drugdiscoverychemistry.com/artificial-intelligence) -- Conferência reunindo químicos, biólogos, bioinformáticos e cientistas de dados para discutir ferramentas computacionais em descoberta de drogas. Tópicos: design de moléculas, hit identification, PK/PD prediction, otimização de leads. San Diego, CA, 14-15 Abr 2026.
