@@ -1,5 +1,7 @@
 # Papers — Ética, Fairness e Regulação
 
+- [AI-Driven Healthcare: A Review on Ensuring Fairness and Mitigating Bias (2026)](https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000864) — Revisão abrangente com estratégias multi-facetadas para garantir equidade e mitigar viés em IA na saúde: dados diversificados, inovação algorítmica e intervenções regulatórias. (PLOS Digital Health, 2026)
+- [Ethical and Legal Considerations in Healthcare AI: Innovation and Policy for Safe and Fair Use (2026)](https://royalsocietypublishing.org/rsos/article/12/5/241873/235732) — Análise de considerações éticas e legais na IA em saúde: cinco áreas críticas (justiça, transparência, consentimento, responsabilidade, cuidado equitativo). (Royal Society Open Science, 2026)
 - [Algorithmic Bias in Medical AI: A Systematic Survey (2026)](https://www.jyi.org/2026-march/algorithmic-bias-medical-ai) — Revisão sistemática sobre viés algorítmico em sistemas de IA médica. (Journal of Young Investigators, Mar 2026)
 - [Bias Mitigation Strategies in Clinical AI (2026)](https://www.nature.com/articles/s41746-026-01389-z) — Estratégias práticas para mitigar viés em IA clínica em larga escala. (npj Digital Medicine, Abr 2026)
 - [Resolução CFM 2.454/2026: Regulamentação de IA na Medicina (2026)](https://www.cfm.org.br/resolucoes/2454-2026) — Resolução do CFM que regulamenta o uso de IA na prática médica brasileira. Prazo de 180 dias para adequação.
