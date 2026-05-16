@@ -15,6 +15,49 @@
 
 ---
 
+## Novidades -- Semana de 09-16 mai 2026
+
+> Adicionados automaticamente pelo cron #08 (awesome-medical-ai).
+
+### Papers & Benchmarks (8 novos)
+
+**Benchmarks de LLMs em Saúde:**
+- **HealthBench** (OpenAI, Mai 2026) -- Benchmark com 5.000 conversas médicas avaliadas por 262 médicos de 60 países; o3 atinge 60% (arXiv 2505.08775)
+- **HealthBench Professional** (OpenAI, 2026) -- Extensão do HealthBench para fluxos de trabalho clínicos (consulta, documentação, pesquisa médica)
+- **MedAgentBench** (Stanford/NEJM AI, 2026) -- Ambiente virtual FHIR-compatível para benchmark de agentes LLM em EHR; 300 tarefas, 100 pacientes, 700k+ elementos; Claude 3.5 Sonnet lidera com 69,67%
+
+**Drug Discovery:**
+- **IsoDDE $2.1B Series B** (Isomorphic Labs, Mai 2026) -- Motor de drug design com +2× a precisão do AlphaFold 3 em benchmarks de generalização; Isomorphic Labs capta US$ 2,1B (12 mai 2026) para levar primeiro candidato a fármaco à Fase I até 2026
+
+**NLP Clínico:**
+- **VeriFact** (NEJM AI, 2026) -- Sistema RAG + LLM-as-Judge para verificação automática de fatos em documentos de cuidado ao paciente; 93,2% de concordância com clínicos
+
+**Ética e Fairness:**
+- **AI-Driven Healthcare: Ensuring Fairness and Mitigating Bias** (PLOS Digital Health, 2026) -- Revisão abrangente sobre estratégias para garantir equidade e mitigar viés em IA na saúde
+
+**XAI e Imagem Médica:**
+- **Clinician-Centric Explainable AI for Medical Imaging** (PMC 2026) -- Revisão sistemática de frameworks XAI em diagnósticos por imagem com foco em adoção clínica; destaca detecção de pneumonia como caso de uso
+
+### Modelos & Ferramentas (3 novos)
+
+**LLMs para Ciências da Vida:**
+- **GPT-Rosalind** (OpenAI, Abr 2026) -- Modelo frontier especializado em drug discovery, genômica, raciocínio sobre proteínas e pesquisa científica; nomeado em homenagem a Rosalind Franklin; parcerias com Amgen, Moderna, Allen Institute
+
+**Agentes Clínicos:**
+- **DR. INFO** (2026) -- Assistente clínico RAG-based agentivo que supera LLMs frontier no HealthBench
+- **TissueLab** (2026) -- Sistema de IA agentivo para análise de imagens médicas; abstrai problemas de imagem em operações fundamentais (segmentação, classificação) sem necessidade de código
+
+### Datasets (1 novo)
+
+- **HealthBench Dataset** (OpenAI, Mai 2026) -- 5.000 conversas multi-turno com rubricas específicas por médico (48.562 critérios únicos); aberto para a comunidade de pesquisa
+
+### Eventos (em destaque esta semana)
+
+- **Bio-IT World Expo 2026** -- AI for Drug Discovery & Development (18-20 **mai** 2026, Boston & Virtual) — acontece **esta semana**
+- **IJCAI-ECAI 2026: AI and Health Track** -- Call for papers encerrado; conferência em Yokohama, jul 2026
+
+---
+
 ## Novidades -- Semana de 02-09 mai 2026
 
 > Adicionados automaticamente pelo cron #07 (awesome-medical-ai).

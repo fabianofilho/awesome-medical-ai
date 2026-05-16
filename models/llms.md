@@ -6,6 +6,7 @@
 | **BioELMo** | Representações de palavras contextualizadas para texto biomédico. | [GitHub](https://github.com/allenai/bioelmo) |
 | **BlueBERT** | BERT fine-tuned em notas clínicas e abstratos de PubMed (MIMIC-III + PubMed). | [GitHub](https://github.com/ncbi-nlp/BlueBERT) |
 | **BioMegatron** | Transformers escalados para literatura biomédica. | [NVIDIA](https://github.com/NVIDIA/apex) |
+| **GPT-Rosalind (2026)** | Modelo frontier da OpenAI especializado em ciências da vida: drug discovery, genômica, raciocínio sobre proteínas e fluxos de pesquisa científica multi-etapas. Nomeado em homenagem a Rosalind Franklin. Parcerias com Amgen, Moderna, Allen Institute, Thermo Fisher. Disponível via trusted access program. | [OpenAI](https://openai.com/index/introducing-gpt-rosalind/) |
 | **TxGemma (2026)** | Coleção de modelos abertos do Google (2B, 9B, 27B) para previsão de propriedades terapêuticas. Fine-tuned com 7M exemplos do Therapeutic Data Commons. | [HuggingFace](https://huggingface.co/google/txgemma-2b-predict) |
 | **Med-PaLM 2** | LLM do Google para responder perguntas médicas com qualidade de especialista. | [Google Research](https://sites.research.google/gr/med-palm/) |
 | **MedGemma 1.5 (2026)** | Versão aprimorada dos modelos abertos do Google com suporte melhorado para imagem médica e MedASR (Medical Automatic Speech Recognition). | [Google AI](https://ai.google.dev/gemma/) |

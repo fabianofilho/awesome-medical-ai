@@ -1,5 +1,6 @@
 # Papers — Revisões e Surveys
 
+- [HealthBench: Advancing AI Evaluation in Healthcare (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12547120/) — Análise crítica do HealthBench: destaca avanços em avaliação aberta e realista, mas nota que modelos ainda não atingem maturidade para uso clínico autônomo. (PMC, 2026)
 - [Towards a Medical AI Scientist (2026)](https://arxiv.org/abs/2603.28589) — Framework autônomo de pesquisa clínica com IA capaz de formular hipóteses, desenhar experimentos e interpretar resultados. (arXiv, 30 Mar 2026)
 - [Foundation Models in Medical Imaging: Privacy Re-identification Risk (2026)](https://www.nature.com/articles/s41746-026-01423-0) — Modelos de fundação em imagem médica permitem re-identificação de pacientes em até 94% dos casos. (npj Digital Medicine, Abr 2026)
 - [The Scaffold Effect in Clinical VLM Evaluation (2026)](https://arxiv.org/abs/2603.28387) — 70–80% dos ganhos aparentes em modelos de linguagem-visão clínicos são artefatos de prompt. (arXiv, 30 Mar 2026)

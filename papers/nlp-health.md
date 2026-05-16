@@ -1,5 +1,7 @@
 # Papers — NLP em Saúde
 
+- [HealthBench: Evaluating Large Language Models Towards Improved Human Health (2026)](https://arxiv.org/abs/2505.08775) — Benchmark com 5.000 conversas médicas multi-turno avaliadas por 262 médicos de 60 países; 48.562 critérios únicos; o3 lidera com 60%, GPT-4o 32%. (OpenAI / arXiv, Mai 2026)
+- [Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels? (2026)](https://arxiv.org/abs/2604.14892) — Júri de LLMs (3 modelos frontier) mostra melhor concordância com painéis primários de especialistas do que painéis humanos de re-avaliação; menor probabilidade de erros graves. (arXiv, 2026)
 - [Scalable Micro-Credentials for AI Literacy in Healthcare (2026)](https://www.medrxiv.org/content/10.64898/2026.03.11.26348161v1.full.pdf) — Ciberinfrastrutura web baseada em LLMs para credenciamento e educação em IA para profissionais de saúde. (medRxiv, 13 Mar 2026)
 - [Benchmarking LLM-based Information Extraction Tools for Medical Documents (2026)](https://www.medrxiv.org/content/10.64898/2026.01.19.26344287v1.full) — Revisão de ferramentas baseadas em LLMs para digitização automatizada e extração de informações de documentos médicos. (medRxiv, Jan 2026)
 - [Authority Signals in AI Cited Health Sources: A Framework (2026)](https://www.medrxiv.org/content/10.64898/2026.01.22.26344576v1.full.pdf) — Análise de como sistemas de IA como ChatGPT citam fontes de informação em saúde. (medRxiv, Jan 2026)
