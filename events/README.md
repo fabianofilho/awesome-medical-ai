@@ -1,5 +1,8 @@
 # Eventos & Conferencias
 
+- **Mayo Clinic AI Research Summit** — 4-5 Jun 2026, Rochester, MN. "A New Engine for Real-World Evidence Generation"; conferência premier do Dept. of AI & Informatics do Mayo Clinic, reunindo pesquisadores em IA em saúde. [Site](https://ai-summit.com/)
+- **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Research Track e Clinical Abstracts Track. [Site](https://mlhc.org/)
+- **AIiH 2026 (AI in Healthcare)** — 26-28 Ago 2026, Imperial College London. Late-breaking abstracts: prazo 30 Jun 2026. [Site](https://aiih.cc/)
 - **MIDL 2026 (Medical Imaging with Deep Learning 2026)** — Conferência internacional sobre deep learning em análise de imagens biomédicas. Acontece em Taipei, Taiwan com streaming online gratuito. [Site](https://2026.midl.io/)
 - **BioNLP 2026 Workshop** — Workshop sobre NLP biomédico e avaliação de LLMs para saúde. Foco em transparência, DEIA (Diversity, Equity, Inclusion, Accessibility) e desafios de alucinações e viés. [Site](https://www.aclweb.org/aclwiki/BioNLP_Workshop)
 - **Keystone Symposia: Computational Advances in Drug Discovery** — Conferência sobre avanços computacionais em drug discovery. [Site](https://www.keystonesymposia.org/conferences/conference-listing/meeting/g12026)

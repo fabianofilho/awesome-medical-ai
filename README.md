@@ -15,6 +15,36 @@
 
 ---
 
+## Novidades -- Semana de 16-23 Mai 2026
+
+> Adicionados automaticamente pelo cron #08 (awesome-medical-ai).
+
+### Papers (3 novos)
+
+**Imagem Médica:**
+- **Pillar-0** (UC Berkeley / UCSF, Abr 2026) — Foundation model open-source para radiologia 3D; AUC 0.87 em 350+ achados (CT tórax, abdome, encéfalo e RM mama); supera MedGemma, MI2 e Lingshu em 10-17%. [CDSS Berkeley](https://cdss.berkeley.edu/news/uc-berkeley-and-ucsf-researchers-release-top-performing-ai-model-medical-imaging)
+- **Advancing medical AI through benchmarking for specialty triage** (npj Digital Medicine, Mai 2026) — Dataset e protocolo de benchmark para triagem automatizada por especialidade usando IA. [Nature](https://www.nature.com/articles/s41746-026-02433-8)
+- **Foundation Models — Generalist Radiology AI Era** (GlobalRPH, Mai 2026) — Análise sobre a transição para modelos generalistas de fundação em radiologia. [GlobalRPH](https://globalrph.com/2026/05/foundation-models-for-imaging-are-we-entering-the-era-of-generalist-radiology-ai/)
+
+### Modelos & Ferramentas (3 novos)
+
+**Visão & Imagem Médica:**
+- **Pillar-0** (UC Berkeley / UCSF, Abr 2026) — Modelo de fundação 3D open-source para análise de TC e RM, treinado em 155k+ exames. Zero-shot e fine-tuning eficiente. [GitHub](https://github.com/YalaLab/pillar)
+
+**Apps & Ferramentas Clínicas:**
+- **MyLabcorp** (Labcorp, Mai 20 2026) — App HIPAA-compliant com IA para interpretar resultados laboratoriais; usa modelos de raciocínio da OpenAI para explicar exames de forma personalizada. [PR Newswire](https://www.prnewswire.com/news-releases/labcorp-launches-mylabcorp-a-new-ai-powered-mobile-app-designed-to-help-consumers-understand-lab-results-and-track-health-trends-over-time-302777006.html)
+
+**Infraestrutura de Drug Discovery:**
+- **LillyPod** (Eli Lilly, Fev 2026) — Primeiro DGX SuperPOD farmacêutico com 1.016 GPUs NVIDIA Blackwell Ultra; 9.000+ petaflops para genômica, design de moléculas e imaging. [HPCwire](https://www.hpcwire.com/aiwire/2026/02/27/lilly-launches-lillypod-nvidia-dgx-superpod-for-genomics-and-drug-discovery-ai/)
+
+### Eventos (3 novos)
+
+- **Mayo Clinic AI Research Summit** — 4-5 Jun 2026, Rochester, MN. "A New Engine for Real-World Evidence Generation"; conferência premier do Mayo Clinic Dept. of AI & Informatics.
+- **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026; Research Track e Clinical Abstracts Track.
+- **AIiH 2026 (AI in Healthcare)** — 26-28 Ago 2026, Imperial College London. Late-breaking abstracts: prazo 30 Jun 2026. [Site](https://aiih.cc/)
+
+---
+
 ## Novidades -- Semana de 02-09 mai 2026
 
 > Adicionados automaticamente pelo cron #07 (awesome-medical-ai).

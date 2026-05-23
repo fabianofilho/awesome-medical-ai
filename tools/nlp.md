@@ -1,5 +1,6 @@
 # Ferramentas — NLP em Saúde
 
+- [MyLabcorp (2026)](https://www.prnewswire.com/news-releases/labcorp-launches-mylabcorp-a-new-ai-powered-mobile-app-designed-to-help-consumers-understand-lab-results-and-track-health-trends-over-time-302777006.html) — App HIPAA-compliant da Labcorp (lançado Mai 20, 2026) que usa modelos de raciocínio da OpenAI para explicar resultados laboratoriais de forma personalizada e conversacional. (Labcorp, Mai 2026)
 - [ClinicBot: A Guideline-Grounded Clinical Chatbot (2026)](https://arxiv.org/abs/) — Chatbot clínico com RAG priorizado por evidências e citações verificáveis. Desenvolvido por KIT, Helmholtz Ulm, TU Munich. (arXiv, 2026)
 - [BioMedArena: Toolkit for Biomedical Deep Research Agents (2026)](https://arxiv.org/abs/) — Toolkit open-source para construir e avaliar agentes de pesquisa biomédica baseados em IA profunda. (arXiv, 2026)
 - [LAOS System: Clinical Documentation with Voice Processing (2026)](https://www.nature.com/articles/s41746-025-02170-4) — Sistema de processamento de voz e LLMs para melhorar documentação clínica. (npj Digital Medicine, 2026)
