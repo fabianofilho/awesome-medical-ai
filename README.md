@@ -15,76 +15,36 @@
 
 ---
 
-## Novidades -- Semana de 02-09 mai 2026
+## Novidades -- Semana de 19-25 mai 2026
 
-> Adicionados automaticamente pelo cron #07 (awesome-medical-ai).
+> Adicionados automaticamente pelo cron #08 (awesome-medical-ai).
 
-### Papers (15 novos)
+### Papers (10 novos)
 
-**ECG & Sinais:**
-- MEETI: Multimodal ECG Dataset (MIMIC-IV-ECG) com sinais, imagens e interpretações textuais (Scientific Data, Mai 2026)
-- Multimodal Transformer for Cardiovascular Comorbidity Detection via ECG (JMIR Formative Research, 2026)
-
-**NLP & Processamento de Linguagem:**
-- Scalable Micro-Credentials for AI Literacy in Healthcare com infraestrutura baseada em LLMs (medRxiv, Mar 2026)
-- Benchmarking LLM-based Information Extraction Tools for Medical Documents (medRxiv, Jan 2026)
-- Authority Signals in AI Cited Health Sources: A Framework (medRxiv, Jan 2026)
+**NLP & LLMs Clínicos:**
+- [Large Language Models for AI-Assisted Radiotherapy Scheduling: A Feasibility Study Under Realistic Operational Constraints](https://arxiv.org/abs/2605.12896) -- avalia LLMs para geração de agendas de radioterapia com restrições clínicas reais (arXiv 2605.12896, Mai 2026)
+- [Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1) -- análise sistemática de falhas de raciocínio clínico em modelos de fronteira com 10k casos sintéticos (medRxiv, Abr 2026)
+- [Forecasting Scientific Progress with Artificial Intelligence](https://arxiv.org/abs/2605.22681) -- Wu, Lu, Chen, Clark et al. — framework de avaliação temporal para previsão de progresso científico com IA (arXiv 2605.22681, Mai 2026)
 
 **Imagem Médica:**
-- Measuring the Impact of AI on Report-Drafting Efficiency in Chest Computed Tomography Interpretation (JMIR, 2026)
-- The Diagnostic Value of Image-Based Machine Learning for Osteoporosis: Systematic Review & Meta-Analysis (JMIR, 2026)
-- From Intelligent Models to Clinical Tools: AI in Medical Imaging transição pesquisa-clínica (Scientific Reports, 2026)
-- Explainable AI for Medical Imaging Systems Review com foco em transparência (Cluster Computing, 2025)
+- [Efficient Deep Learning for Medical Imaging: Bridging the Gap Between High-Performance AI and Clinical Deployment](https://arxiv.org/abs/2602.00910) -- revisão de arquiteturas leves (CNNs, Transformers, Linear Complexity) e estratégias de compressão para deploy clínico (arXiv 2602.00910, 2026)
 
-**Drug Discovery:**
-- Artificial Intelligence in Drug Discovery and Development: Pharmaceutical Innovation (Drug Development Research, 2026)
-- AI in Drug Discovery Predictions 2026: crescimento de 5-7B para 8-10B USD (Drug Target Review, 2026)
-- MSU Study: Faster Discovery of Therapeutic Drugs Through AI (MSUToday, Mar 2026)
+**Modelos Preditivos & EHR:**
+- [Machine Intelligence-Driven Forecasting for ED Triage and Dynamic Hospital Patient Routing](https://www.medrxiv.org/content/10.64898/2026.02.18.26346566v2.full) -- gradient boosting supera scoring clínico tradicional em triagem de pronto-socorro (medRxiv, 2026)
+- [Generalizing intensive care AI across time scales in resource-limited settings](https://www.medrxiv.org/content/10.64898/2026.04.23.26351588v1.full) -- limitações de generalização de modelos de UTI em ambientes com recursos limitados (medRxiv, Abr 2026)
 
-### Modelos & Ferramentas (10 novos)
+**Ética, Fairness & Causal AI:**
+- [Causal Machine Learning Is Not a Panacea: A Roadmap for Observational Causal Inference in Health](https://arxiv.org/abs/2605.20782) -- Tjandra, Chang, Parbhoo, Ranganath, Celi et al. — roadmap crítico para inferência causal observacional em saúde (arXiv 2605.20782, Mai 2026)
+- [Qualitative Framework for Evaluating Clinical Data Science Systems: Beyond Technical Validation](https://pmc.ncbi.nlm.nih.gov/articles/PMC13193742/) -- Heslin — framework qualitativo para avaliação de sistemas além de métricas técnicas (Healthcare Informatics Research, 2026)
 
-**Clinical & NLP:**
-- **ClinicBot** -- Chatbot clínico com RAG priorizado por evidências (KIT, Helmholtz Ulm, TU Munich, 2026)
-- **BioMedArena** -- Toolkit open-source para agentes de pesquisa biomédica (arXiv, 2026)
-- **LAOS System** -- Clinical documentation com voice processing e LLMs (npj Digital Medicine, 2026)
+**Saúde Digital & Policy:**
+- [A global call to action on the digital determinants of health](https://www.nature.com/articles/s41746-026-02765-5) -- Shaw, Atuire, Celi, Davis et al. — perspectiva sobre determinantes digitais da saúde e impacto das tecnologias emergentes (npj Digital Medicine, 2026)
+- [Artificial Intelligence in Healthcare: 2025 Year in Review](https://www.medrxiv.org/content/10.64898/2026.02.23.26346888v1) -- ML clássico em declínio pela primeira vez; foundation models dominando o campo (medRxiv, 2026)
 
-**Medical Imaging & Vision:**
-- **MedHorizon** -- Long-context medical video understanding para procedimentos cirúrgicos (arXiv, 2026)
-- **Bridging Visual Saliency and LLMs** -- Framework para XAI em imagem médica (arXiv, 2026)
+### Ética & Fairness
 
-**LLM Benchmarks & Modelos:**
-- **MedGemma 1.5** -- Versão aprimorada do Google com suporte para imagem médica e MedASR (2026)
-- **Me-LLaMA** -- LLaMA médico com 129B tokens e 214k instruções (2026)
-- **Gemini-2 & GPT-4o Clinical Benchmarks** -- Top performers em avaliações clínicas 2026 (Nature, 2026)
-- **BioELMo, BlueBERT, BioMegatron** -- Modelos BERT especializados para biomedicina
-
-**Visão & Multimodal:**
-- **Merlin** -- Modelo de fundação visão-linguagem 3D para TC abdominal, 6M+ imagens (Stanford MIMI, 2026)
-
-**ECG & Sinais:**
-- **CaMPNet** -- Cross-attention fusion de sinais 12-derivações, métricas e demografia (MIMIC-IV-ECG, 2026)
-- **Multimodal Transformer for ECG** -- Integração de sinais brutos, imagens e metadados (Scientific Data, 2026)
-
-### Datasets (6 novos)
-
-- **MEETI (MIMIC-IV-ECG)** -- Dataset multimodal sincronizando ECG, imagens de alta resolução e interpretações (Scientific Data, 2026)
-- **EHRSHOT, INSPECT, MedAlign** -- 3 benchmarks EHR de-identificados com 25.991 pacientes, 441.680 visitas (Stanford HAI, 2026)
-- **CT-EBM-SP Corpus** -- Corpus anotado de ensaios clínicos em espanhol para extração de relações (Scientific Data, 2026)
-- **Swedish Medical LLM Benchmark (SMLB)** -- 4 datasets para avaliação de LLMs médicos (2026)
-- **EchoNext** -- Dataset curado de ECGs com diagnósticos estruturais confirmados (PhysioNet, 2026)
-- **Top 50+ Open-Source Healthcare Datasets** -- Curadoria atualizada de datasets públicos (Medium, 2026)
-
-### Competições
-
-- **AI-Med Future Competition** (2026)
-- **MedGemma Impact Challenge winners** -- Aplicações em cuidado crítico, saúde mental, patologia, pneumonia (Google, Fev 2026)
-
-### Eventos
-
-- **MIDL 2026** -- Conferência internacional deep learning em imagem biomédica (Taipei, Taiwan)
-- **BioNLP 2026** -- Workshop sobre NLP biomédico, transparência e DEIA
-- **Keystone Symposia** -- Computational Advances in Drug Discovery
-- **Bio-IT World Expo** -- AI for Drug Discovery & Development (18-20 Mai 2026, Boston & Virtual)
+- **Causal ML roadmap** -- Celi et al. alerta: ML causal não é panaceia para inferência em dados observacionais de saúde
+- **Framework de avaliação qualitativa** -- Heslin propõe avaliação de sistemas de ciência de dados clínicos além das métricas técnicas convencionais
 
 ---
 
