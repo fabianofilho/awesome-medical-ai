@@ -2,6 +2,7 @@
 
 | Dataset | Descrição | Link |
 |---------|-----------|------|
+| **HISTAI (2026)** | 112.000 whole slide images (WSIs) de 46.000 casos únicos com metadados clínicos completos, anotações patológicas detalhadas e codificação diagnóstica padronizada. Open-source; um dos maiores datasets públicos de histopatologia. | [GitHub](https://github.com/HistAI/HISTAI) / [arXiv](https://arxiv.org/abs/2505.12120) |
 | **Stanford AIMI Public Repository** | Repositório público do Stanford Center for AI in Medicine and Imaging com imagens de ecocardiogramas, TC cerebral, RM, radiografias e ultrassons cuidadosamente curadas e anotadas. | [Stanford AIMI](https://aimi.stanford.edu/) |
 | **CheXpert** | 224.316 radiografias de tórax com labels de 14 observações. | [Stanford ML Group](https://stanfordmlgroup.github.io/competitions/chexpert/) |
 | **MIMIC-CXR** | 227.835 estudos de imagem para 64.588 pacientes com relatórios de radiologia. | [PhysioNet](https://physionet.org/content/mimic-cxr/) |
