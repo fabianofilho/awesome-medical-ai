@@ -1,5 +1,6 @@
 # Papers — Imagem Médica
 
+- [A Vision-Language Framework for Comparative Reasoning in Radiology (MedReCo) (2026)](https://arxiv.org/abs/2606.06407) — MedReCo-DB: 690k imagens de 160k pacientes em 8 instituições; VLM para interpretação generativa de mudanças intervalares; melhoria de 14,5–46,5 pp em raio-X de tórax e 13–27,9 pp em TC para seguimento longitudinal. (arXiv 2606.06407, Jun 2026)
 - [Measuring the Impact of AI on Report-Drafting Efficiency in Chest Computed Tomography Interpretation: Retrospective Analysis (2026)](https://www.jmir.org/2026/1/e77967) — Avaliação de como IA reduz tempo de elaboração de relatórios em TC de tórax. (JMIR, 2026)
 - [The Diagnostic Value of Image-Based Machine Learning for Osteoporosis: Systematic Review and Meta-Analysis (2026)](https://www.jmir.org/2026/1/e75965) — Modelos de DL em radiografia e TC mostram alta acurácia diagnóstica para osteoporose (>0.85 AUC em vários estudos). (JMIR, Jan 2026)
 - [From Intelligent Models to Clinical Tools: The Evolving Landscape of AI in Medical Imaging (2026)](https://www.nature.com/articles/s41598-026-49861-w) — Transição de modelos de pesquisa para ferramentas clínicas com exemplos de detecção de doenças retinianas. (Scientific Reports, 2026)

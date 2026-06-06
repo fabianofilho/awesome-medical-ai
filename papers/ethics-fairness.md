@@ -1,5 +1,8 @@
 # Papers — Ética, Fairness e Regulação
 
+- [What the AI era doctor should know: a scoping review of proposed AI competencies for medical education (2026)](https://www.nature.com/articles/s41746-026-02761-9) — Revisão PRISMA-ScR de competências de IA para graduação médica; busca global em PubMed, Embase, Web of Science, ERIC. Hunt, Sprehe, de Lomba et al. (npj Digital Medicine, Jun 2026)
+- [AI-PACE: a framework for integrating AI into medical education (2026)](https://www.nature.com/articles/s41746-026-02768-2) — Framework estruturado para integração de IA nos currículos de educação médica. (npj Digital Medicine, Jun 2026)
+- [Protecting clinical value judgment in the age of AI (2026)](https://www.nature.com/articles/s41746-026-02561-1) — Sistemas de IA adaptativa embarcados em workflows clínicos operacionalizam tradeoffs de valores ocultos em escala, gerando pressões distintas de responsabilidade. Patil, Myers, Dai. (npj Digital Medicine, Jun 2026)
 - [Algorithmic Bias in Medical AI: A Systematic Survey (2026)](https://www.jyi.org/2026-march/algorithmic-bias-medical-ai) — Revisão sistemática sobre viés algorítmico em sistemas de IA médica. (Journal of Young Investigators, Mar 2026)
 - [Bias Mitigation Strategies in Clinical AI (2026)](https://www.nature.com/articles/s41746-026-01389-z) — Estratégias práticas para mitigar viés em IA clínica em larga escala. (npj Digital Medicine, Abr 2026)
 - [Resolução CFM 2.454/2026: Regulamentação de IA na Medicina (2026)](https://www.cfm.org.br/resolucoes/2454-2026) — Resolução do CFM que regulamenta o uso de IA na prática médica brasileira. Prazo de 180 dias para adequação.
