@@ -12,3 +12,5 @@
 | **ROCO** | 81.000 imagens de radiologia com legendas correspondentes. | [GitHub](https://github.com/razorx89/roco-dataset) |
 | **PMC-OA** | 1.6M pares imagem-legenda de artigos do PubMed Central. | [HuggingFace](https://huggingface.co/datasets/axiong/pmc_oa_beta) |
 | **OpenI** | 3.7 milhões de imagens de cerca de 1.2 milhões de artigos. | [OpenI](https://openi.nlm.nih.gov/) |
+| **NCI IDC AI Annotations — Cancer Collections (2025–2026)** | Anotações AI-geradas para 11 coleções do NCI Imaging Data Commons; TC e RM de mama, cérebro, fígado, pulmões e próstata; modelos nnU-Net open-source treinados em dados públicos e validados por radiologistas certificados; conformidade DICOM. (AIMI Initiative / Scientific Data) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12307902/) |
+| **Project Imaging-X (2026)** | Survey de 1.000+ datasets públicos de imagem médica para desenvolvimento de foundation models; curadoria por modalidade, patologia e tipo de licença. (arXiv 2603.27460) | [arXiv](https://arxiv.org/abs/2603.27460) |
