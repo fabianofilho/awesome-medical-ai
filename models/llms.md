@@ -3,6 +3,9 @@
 | Modelo | Descrição | Link |
 |--------|-----------|------|
 | **Gemini-2 & GPT-4o (2026)** | Benchmarks clínicos 2026: Gemini-2 supera generalistas clínicos em média 0.83 pontos em todas as métricas; GPT-4o entre top performers. | [Nature](https://www.nature.com/articles/s44387-025-00047-1) |
+| **MedGemma 27B Multimodal (Jun 2026)** | Complementa família MedGemma com suporte a EHRs longitudinais e interpretação multimodal complexa; fine-tunável localmente em hospitais. | [Google Research](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/) |
+| **Google DeepMind AI Co-Clinician (Jun 2026)** | Agente clínico colaborativo preferido por médicos em 67% dos casos sobre ferramentas existentes; zero erros críticos em 97/98 consultas simuladas de atenção primária. | [DeepMind](https://deepmind.google/blog/ai-co-clinician/) |
+| **GPT-5.5 Instant para Saúde (Jun 2026)** | Melhora substancial em benchmarks de saúde em relação ao GPT-5.3 Instant; desempenho de fronteira em avaliações clínicas da OpenAI. | [OpenAI](https://openai.com/index/improving-health-intelligence-in-chatgpt/) |
 | **BioELMo** | Representações de palavras contextualizadas para texto biomédico. | [GitHub](https://github.com/allenai/bioelmo) |
 | **BlueBERT** | BERT fine-tuned em notas clínicas e abstratos de PubMed (MIMIC-III + PubMed). | [GitHub](https://github.com/ncbi-nlp/BlueBERT) |
 | **BioMegatron** | Transformers escalados para literatura biomédica. | [NVIDIA](https://github.com/NVIDIA/apex) |
