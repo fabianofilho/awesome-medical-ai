@@ -15,39 +15,29 @@
 
 ---
 
-## Novidades -- Semana de 23-30 mai 2026
+## Novidades -- Semana de 30 mai - 06 jun 2026
 
 > Adicionados automaticamente pelo cron #09 (awesome-medical-ai).
 
-### Papers (8 novos)
+### Papers (7 novos)
 
-**Oncologia & Patologia Computacional:**
-- [Artera Multimodal AI (MMAI) — ASCO 2026 Abstracts](https://www.businesswire.com/news/home/20260521757142/en/Artera-Presents-Multiple-ASCO-2026-Abstracts-on-Multimodal-AI-MMAI-Risk-Stratification-and-Treatment-Decisions-in-Cancer) -- IA multimodal para estratificacao de risco em cancer de mama (HR+ com 1-3 linfonodos positivos) e prostata; apresentacao oral no ASCO 2026 comparando MMAI vs. teste de 21 genes (Recurrence Score). (Chicago, Mai 2026)
-- [Translating Multimodal Foundation Models into Oncology](https://pmc.ncbi.nlm.nih.gov/articles/PMC12989828/) -- Revisao de FMs multimodais (MUSK, M3FM, MICE) integrando patologia, radiologia e dados genomicos; MICE: melhoria de C-index de 3,8-11,2% em 30 tipos de cancer. (PMC, 2026)
-- [What's New in Digital and Computational Pathology 2026](https://jpatholtm.org/journal/view.php?number=17219) -- Avancos em whole-slide imaging, modelos de IA (TITAN: 335k slides, 20 orgaos, self-supervised), integracao multimodal e infraestrutura clinica para patologia digital. (J Pathol TM, 2026)
-- [HISTAI: Open-Source Large-Scale Whole Slide Image Dataset](https://arxiv.org/abs/2505.12120) -- 112.000 WSIs de 46.000 casos com metadados clinicos completos; um dos maiores datasets publicos de histopatologia. (arXiv 2505.12120, Mai 2026)
+**NLP & Colaboração Humano-IA:**
+- [Human–large language model collaboration in clinical medicine: a systematic review and meta-analysis](https://www.nature.com/articles/s41746-026-02382-2) -- 10 estudos; melhoria de 4,88 pp em scores compostos de diagnóstico/manejo com colaboração humano-LLM (npj Digital Medicine, Jun 2026)
+- [Independent and collaborative performance of LLMs and healthcare professionals in diagnosis and triage](https://www.nature.com/articles/s41746-026-02409-8) -- 50 estudos, 25 LLMs; acurácia relativa LLM vs. profissionais evolui de 0,89 (top-1) a 1,17 (top-10) (npj Digital Medicine, Jun 2026)
+- [From tool to teammate: RCT of clinician-AI collaborative workflows for diagnosis](https://www.nature.com/articles/s41746-026-02545-1) -- RCT com 70 clínicos testando IA como primeira vs. segunda opinião em raciocínio diagnóstico (npj Digital Medicine, Jun 2026)
+- [AutoMedBench: Towards Medical AutoResearch with Agentic AI Models](https://arxiv.org/abs/2606.01961) -- benchmark de pesquisa médica autônoma em 5 tracks (segmentação, VQA, geração de laudo, detecção de lesão); média 33 turnos de agente (arXiv 2606.01961, Jun 2026)
 
-**NLP & IA Generativa:**
-- [Towards a Medical AI Scientist](https://arxiv.org/abs/2603.28589) -- Primeiro framework autonomo de pesquisa clinica: geracao de hipoteses, experimentos e manuscritos com qualidade proxima a MICCAI em revisao cega por especialistas. (arXiv 2603.28589, 2026)
-- [Barriers and Opportunities of Scaling Ambient AI Scribes](https://www.nature.com/articles/s41746-026-02554-0) -- Analise de desafios de escala de assistentes de documentacao clinica com IA em cenarios ambulatorial, hospitalar e de baixa renda. (npj Digital Medicine, 2026)
-- [Generative AI in Medicine -- Evaluating Progress and Challenges](https://www.nejm.org/doi/abs/10.1056/NEJMsb2503956) -- Estado atual da IA generativa em medicina: geracao de evidencias em tempo real, estudos dinamicos e suporte personalizado. (NEJM, 2026)
-- [Bedside to Bench: AI and the New Science of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMp2510203) -- Como IA reorganiza o ciclo translacional da pesquisa medica, da beira do leito ao laboratorio, com implicacoes para sistemas autonomos de conhecimento clinico. (NEJM, 2026)
+**Imagem Médica:**
+- [A Vision-Language Framework for Comparative Reasoning in Radiology (MedReCo)](https://arxiv.org/abs/2606.06407) -- MedReCo-DB: 690k imagens, 160k pacientes, 8 instituições; melhoria de 14,5–46,5 pp em raio-X e 13–27,9 pp em TC para seguimento longitudinal (arXiv 2606.06407, Jun 2026)
 
-### Modelos & Ferramentas (2 novos)
+**Ética & Educação Médica em IA:**
+- [What the AI era doctor should know: a scoping review of AI competencies for medical education](https://www.nature.com/articles/s41746-026-02761-9) -- revisão PRISMA-ScR de competências de IA para graduação médica; Hunt, Sprehe, de Lomba et al. (npj Digital Medicine, Jun 2026)
+- [Protecting clinical value judgment in the age of AI](https://www.nature.com/articles/s41746-026-02561-1) -- sistemas de IA adaptativa operacionalizam tradeoffs de valores ocultos em escala e criam pressões de responsabilidade; Patil, Myers, Dai (npj Digital Medicine, Jun 2026)
 
-- **Chai-2** (Chai Discovery, 2026) -- Primeiro sistema de IA para design de anticorpos funcionais de novo sem triagem laboratorial; taxa de sucesso 16-20% (100x melhor que metodos anteriores); parceria com Eli Lilly, US$130M Series B
-- **MedASR** (Google Research, 2026) -- Primeiro modelo open-weight de reconhecimento de fala medica otimizado para ditado clinico, lancado junto ao MedGemma 1.5
+### Eventos (2 realizados)
 
-### Dataset (1 novo)
-
-- **HISTAI** (2026) -- 112.000 WSIs de 46.000 casos com metadados clinicos; open-source via [GitHub](https://github.com/HistAI/HISTAI)
-
-### Eventos (4 novos)
-
-- **ASCO Annual Meeting 2026** -- 29/05-02/06/2026, Chicago, IL -- maior conferencia de oncologia clinica com forte presenca de IA em abstracts
-- **WHA79 -- OMS, Genebra** -- 22-28/05/2026 -- resolucao aprovada integrando teleradiologia e IA em estrategias nacionais de saude digital
-- **FDA RFI: AI Early-Phase Clinical Trials** -- Prazo 28/05/2026 -- comentarios sobre piloto de IA para otimizacao de ensaios clinicos de fase inicial
-- **3rd International Webinar on AI for Health 2026** -- 30/05/2026, virtual -- tema: IA agentica e generativa na assistencia ao paciente em tempo real
+- **Health AI Summit 2026** (2ª ed.) — 1-2 Jun 2026, San Francisco — automação por IA, GenAI para workflow e aplicações hospitalares reais
+- **Mayo Clinic AI Research Summit** — 4-5 Jun 2026, Rochester, MN — geração de evidências do mundo real em IA na saúde
 
 ---
 
