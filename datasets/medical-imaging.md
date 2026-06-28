@@ -13,3 +13,4 @@
 | **ROCO** | 81.000 imagens de radiologia com legendas correspondentes. | [GitHub](https://github.com/razorx89/roco-dataset) |
 | **PMC-OA** | 1.6M pares imagem-legenda de artigos do PubMed Central. | [HuggingFace](https://huggingface.co/datasets/axiong/pmc_oa_beta) |
 | **OpenI** | 3.7 milhões de imagens de cerca de 1.2 milhões de artigos. | [OpenI](https://openi.nlm.nih.gov/) |
+| **NVIDIA Open-H** | Primeiro dataset aberto de robótica cirúrgica: 776h de vídeo cirúrgico anonimizado, 35 organizações, 9 sistemas robóticos, >4,9M frames vídeo-cinemática sincronizados. Inclui Open-H-Embodiment (32 datasets). Acompanha o modelo Isaac GR00T-H (VLA aberto para robótica hospitalar) e simulador Cosmos-H para dados sintéticos. (NVIDIA + CMR Surgical, Jun 2026) | [HuggingFace](https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics) |

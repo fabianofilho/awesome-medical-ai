@@ -7,6 +7,9 @@
 - **BioNLP 2026 Workshop** — Workshop sobre NLP biomédico e avaliação de LLMs para saúde. Foco em transparência, DEIA (Diversity, Equity, Inclusion, Accessibility) e desafios de alucinações e viés. [Site](https://www.aclweb.org/aclwiki/BioNLP_Workshop)
 - **Keystone Symposia: Computational Advances in Drug Discovery** — Conferência sobre avanços computacionais em drug discovery. [Site](https://www.keystonesymposia.org/conferences/conference-listing/meeting/g12026)
 - **MICAD 2026** — 7ª Conferência Internacional sobre Imagem Médica e Computer-Aided Diagnosis, 22-24 Out 2026, Edimburgo. [Site](https://www.micad.org/)
+- **DHAI 2026 (Digital Health & AI Innovation Summit)** — 8-9 Jun 2026, Boston — 2000+ participantes, 150+ palestrantes focados em IA clínica, decisão hospitalar e regulação. [Site](https://worldbigroup.com/digital-health-summit-2026/)
+- **Medica AI – The Conference 2026** — 16 Jul 2026, Lisboa (Champalimaud Foundation) — profissionais, pesquisadores, reguladores e inovadores discutem IA como transformação sistêmica na saúde. [Site](https://www.fchampalimaud.org/events/medica-ai-conference-2026)
+- **HIMSS Chile Executive Summit 2026** — 21 Jul 2026, Santiago (Hotel Sheraton Convention Center) — líderes de saúde digital da América Latina. [Site](https://www.himss.org/events-overview/)
 - **Bio-IT World Expo 2026: AI for Drug Discovery & Development** — 18-20 Mai 2026, Boston & Virtual. [Site](https://www.bio-itworldexpo.com/ai-pharma-biotech)
 
 

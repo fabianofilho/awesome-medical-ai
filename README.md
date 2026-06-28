@@ -15,7 +15,32 @@
 
 ---
 
-## Novidades -- Semana de 30 mai - 06 jun 2026
+## Novidades -- Semana de 07-13 jun 2026
+
+> Adicionados automaticamente pelo cron #09 (awesome-medical-ai).
+
+### Papers (4 novos)
+
+**Benchmarks & IA Agentiva Clínica:**
+- [MedCTA: A Benchmark for Clinical Tool Agents](https://arxiv.org/abs/2606.11702) -- Ashraf, Jeong, Thoker, Ghanem (KAUST + MIT) — 107 tarefas clínicas reais, 5 ferramentas implantadas, 18 modelos; melhor acurácia: 31,54%; nenhum modelo atinge sucesso de trajetória estrita (arXiv 2606.11702, Jun 2026)
+- [AgentClinic: a multimodal benchmark for tool-using clinical AI agents](https://www.nature.com/articles/s41746-026-02674-7) -- benchmark multimodal em 9 especialidades e 7 idiomas; Claude 3.5 supera demais backbones; acurácia diagnóstica pode cair a <10% vs. QA estático (npj Digital Medicine, 2026)
+
+**NLP & Triagem Especializada:**
+- [Advancing medical AI through benchmarking and competition for specialty triage](https://www.nature.com/articles/s41746-026-02433-8) -- MedGPT-Guide com estratégia "10 Relevant + 10 Random + Ensemble" para triagem de especialidade; novo benchmark MedTriage (npj Digital Medicine, Jun 2026)
+- [Benchmarking LLM-based agent systems for clinical decision tasks](https://pmc.ncbi.nlm.nih.gov/articles/PMC13031301/) -- avaliação de sistemas agentes baseados em LLMs em tarefas clínicas complexas de decisão (npj Digital Medicine / PMC, 2026)
+
+### Datasets & Ferramentas (1 novo)
+
+- **NVIDIA Open-H + Cosmos-H** -- primeiro dataset aberto de robótica cirúrgica: 776h de vídeo cirúrgico, 35 organizações, 9 sistemas robóticos; acompanha Isaac GR00T-H (primeiro VLA model aberto para robótica hospitalar) e simulador Cosmos-H para dados sintéticos [Hugging Face](https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics) (Jun 2026)
+
+### Eventos (2 novos)
+
+- **DHAI 2026 (Digital Health & AI Innovation Summit)** — 8-9 Jun 2026, Boston — 2000+ participantes, 150+ palestrantes, foco em IA clínica e decisão hospitalar
+- **Medica AI – The Conference 2026** — 16 Jul 2026, Lisboa (Champalimaud Foundation) — IA como transformação sistêmica na saúde, não apenas tecnológica
+
+---
+
+## Novidades -- Semana de 19-25 mai 2026
 
 > Adicionados automaticamente pelo cron #09 (awesome-medical-ai).
 
