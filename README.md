@@ -15,36 +15,39 @@
 
 ---
 
-## Novidades -- Semana de 19-25 mai 2026
+## Novidades -- Semana de 23-30 mai 2026
 
-> Adicionados automaticamente pelo cron #08 (awesome-medical-ai).
+> Adicionados automaticamente pelo cron #09 (awesome-medical-ai).
 
-### Papers (10 novos)
+### Papers (8 novos)
 
-**NLP & LLMs Clínicos:**
-- [Large Language Models for AI-Assisted Radiotherapy Scheduling: A Feasibility Study Under Realistic Operational Constraints](https://arxiv.org/abs/2605.12896) -- avalia LLMs para geração de agendas de radioterapia com restrições clínicas reais (arXiv 2605.12896, Mai 2026)
-- [Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1) -- análise sistemática de falhas de raciocínio clínico em modelos de fronteira com 10k casos sintéticos (medRxiv, Abr 2026)
-- [Forecasting Scientific Progress with Artificial Intelligence](https://arxiv.org/abs/2605.22681) -- Wu, Lu, Chen, Clark et al. — framework de avaliação temporal para previsão de progresso científico com IA (arXiv 2605.22681, Mai 2026)
+**Oncologia & Patologia Computacional:**
+- [Artera Multimodal AI (MMAI) — ASCO 2026 Abstracts](https://www.businesswire.com/news/home/20260521757142/en/Artera-Presents-Multiple-ASCO-2026-Abstracts-on-Multimodal-AI-MMAI-Risk-Stratification-and-Treatment-Decisions-in-Cancer) -- IA multimodal para estratificacao de risco em cancer de mama (HR+ com 1-3 linfonodos positivos) e prostata; apresentacao oral no ASCO 2026 comparando MMAI vs. teste de 21 genes (Recurrence Score). (Chicago, Mai 2026)
+- [Translating Multimodal Foundation Models into Oncology](https://pmc.ncbi.nlm.nih.gov/articles/PMC12989828/) -- Revisao de FMs multimodais (MUSK, M3FM, MICE) integrando patologia, radiologia e dados genomicos; MICE: melhoria de C-index de 3,8-11,2% em 30 tipos de cancer. (PMC, 2026)
+- [What's New in Digital and Computational Pathology 2026](https://jpatholtm.org/journal/view.php?number=17219) -- Avancos em whole-slide imaging, modelos de IA (TITAN: 335k slides, 20 orgaos, self-supervised), integracao multimodal e infraestrutura clinica para patologia digital. (J Pathol TM, 2026)
+- [HISTAI: Open-Source Large-Scale Whole Slide Image Dataset](https://arxiv.org/abs/2505.12120) -- 112.000 WSIs de 46.000 casos com metadados clinicos completos; um dos maiores datasets publicos de histopatologia. (arXiv 2505.12120, Mai 2026)
 
-**Imagem Médica:**
-- [Efficient Deep Learning for Medical Imaging: Bridging the Gap Between High-Performance AI and Clinical Deployment](https://arxiv.org/abs/2602.00910) -- revisão de arquiteturas leves (CNNs, Transformers, Linear Complexity) e estratégias de compressão para deploy clínico (arXiv 2602.00910, 2026)
+**NLP & IA Generativa:**
+- [Towards a Medical AI Scientist](https://arxiv.org/abs/2603.28589) -- Primeiro framework autonomo de pesquisa clinica: geracao de hipoteses, experimentos e manuscritos com qualidade proxima a MICCAI em revisao cega por especialistas. (arXiv 2603.28589, 2026)
+- [Barriers and Opportunities of Scaling Ambient AI Scribes](https://www.nature.com/articles/s41746-026-02554-0) -- Analise de desafios de escala de assistentes de documentacao clinica com IA em cenarios ambulatorial, hospitalar e de baixa renda. (npj Digital Medicine, 2026)
+- [Generative AI in Medicine -- Evaluating Progress and Challenges](https://www.nejm.org/doi/abs/10.1056/NEJMsb2503956) -- Estado atual da IA generativa em medicina: geracao de evidencias em tempo real, estudos dinamicos e suporte personalizado. (NEJM, 2026)
+- [Bedside to Bench: AI and the New Science of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMp2510203) -- Como IA reorganiza o ciclo translacional da pesquisa medica, da beira do leito ao laboratorio, com implicacoes para sistemas autonomos de conhecimento clinico. (NEJM, 2026)
 
-**Modelos Preditivos & EHR:**
-- [Machine Intelligence-Driven Forecasting for ED Triage and Dynamic Hospital Patient Routing](https://www.medrxiv.org/content/10.64898/2026.02.18.26346566v2.full) -- gradient boosting supera scoring clínico tradicional em triagem de pronto-socorro (medRxiv, 2026)
-- [Generalizing intensive care AI across time scales in resource-limited settings](https://www.medrxiv.org/content/10.64898/2026.04.23.26351588v1.full) -- limitações de generalização de modelos de UTI em ambientes com recursos limitados (medRxiv, Abr 2026)
+### Modelos & Ferramentas (2 novos)
 
-**Ética, Fairness & Causal AI:**
-- [Causal Machine Learning Is Not a Panacea: A Roadmap for Observational Causal Inference in Health](https://arxiv.org/abs/2605.20782) -- Tjandra, Chang, Parbhoo, Ranganath, Celi et al. — roadmap crítico para inferência causal observacional em saúde (arXiv 2605.20782, Mai 2026)
-- [Qualitative Framework for Evaluating Clinical Data Science Systems: Beyond Technical Validation](https://pmc.ncbi.nlm.nih.gov/articles/PMC13193742/) -- Heslin — framework qualitativo para avaliação de sistemas além de métricas técnicas (Healthcare Informatics Research, 2026)
+- **Chai-2** (Chai Discovery, 2026) -- Primeiro sistema de IA para design de anticorpos funcionais de novo sem triagem laboratorial; taxa de sucesso 16-20% (100x melhor que metodos anteriores); parceria com Eli Lilly, US$130M Series B
+- **MedASR** (Google Research, 2026) -- Primeiro modelo open-weight de reconhecimento de fala medica otimizado para ditado clinico, lancado junto ao MedGemma 1.5
 
-**Saúde Digital & Policy:**
-- [A global call to action on the digital determinants of health](https://www.nature.com/articles/s41746-026-02765-5) -- Shaw, Atuire, Celi, Davis et al. — perspectiva sobre determinantes digitais da saúde e impacto das tecnologias emergentes (npj Digital Medicine, 2026)
-- [Artificial Intelligence in Healthcare: 2025 Year in Review](https://www.medrxiv.org/content/10.64898/2026.02.23.26346888v1) -- ML clássico em declínio pela primeira vez; foundation models dominando o campo (medRxiv, 2026)
+### Dataset (1 novo)
 
-### Ética & Fairness
+- **HISTAI** (2026) -- 112.000 WSIs de 46.000 casos com metadados clinicos; open-source via [GitHub](https://github.com/HistAI/HISTAI)
 
-- **Causal ML roadmap** -- Celi et al. alerta: ML causal não é panaceia para inferência em dados observacionais de saúde
-- **Framework de avaliação qualitativa** -- Heslin propõe avaliação de sistemas de ciência de dados clínicos além das métricas técnicas convencionais
+### Eventos (4 novos)
+
+- **ASCO Annual Meeting 2026** -- 29/05-02/06/2026, Chicago, IL -- maior conferencia de oncologia clinica com forte presenca de IA em abstracts
+- **WHA79 -- OMS, Genebra** -- 22-28/05/2026 -- resolucao aprovada integrando teleradiologia e IA em estrategias nacionais de saude digital
+- **FDA RFI: AI Early-Phase Clinical Trials** -- Prazo 28/05/2026 -- comentarios sobre piloto de IA para otimizacao de ensaios clinicos de fase inicial
+- **3rd International Webinar on AI for Health 2026** -- 30/05/2026, virtual -- tema: IA agentica e generativa na assistencia ao paciente em tempo real
 
 ---
 

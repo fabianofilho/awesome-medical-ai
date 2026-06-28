@@ -2,6 +2,7 @@
 
 | Modelo | Descrição | Link |
 |--------|-----------|------|
+| **MedASR (2026)** | Primeiro modelo open-weight de reconhecimento de fala médica da Google, otimizado para ditado clínico em ambientes hospitalares. Lançado junto ao MedGemma 1.5. | [Google Research](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/) |
 | **Gemini-2 & GPT-4o (2026)** | Benchmarks clínicos 2026: Gemini-2 supera generalistas clínicos em média 0.83 pontos em todas as métricas; GPT-4o entre top performers. | [Nature](https://www.nature.com/articles/s44387-025-00047-1) |
 | **BioELMo** | Representações de palavras contextualizadas para texto biomédico. | [GitHub](https://github.com/allenai/bioelmo) |
 | **BlueBERT** | BERT fine-tuned em notas clínicas e abstratos de PubMed (MIMIC-III + PubMed). | [GitHub](https://github.com/ncbi-nlp/BlueBERT) |
