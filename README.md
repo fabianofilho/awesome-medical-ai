@@ -15,29 +15,33 @@
 
 ---
 
-## Novidades -- Semana de 14-20 jun 2026
+## Novidades -- Semana de 20-27 jun 2026
 
-> Adicionados automaticamente pelo cron #10 (awesome-medical-ai).
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers & Benchmarks (2 novos)
+### Papers (5 novos)
 
-**Benchmarks de IA para Ciências da Vida:**
-- [LifeSciBench](https://openai.com/index/introducing-life-sci-bench/) (OpenAI, Jun 17, 2026) — 750 tarefas de pesquisa em ciências da vida elaboradas por 173 cientistas PhD de biotech/pharma; rubrics com 25 critérios cada (19.020 critérios no total); melhor modelo passa apenas 36,1%; principal gargalo: processamento de artefatos (sequências genômicas, estruturas químicas, figuras experimentais)
-- [GPT-5.4 como Agente Autônomo em Química Medicinal](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/) (OpenAI + Molecule.one, Jun 17, 2026) — primeira instância documentada publicamente de modelo frontier como agente quase-autônomo em workflow de laboratório úmido; melhoria de Chan-Lam coupling em 10.080 reações; TEMPO como oxidante inesperado para sulfonamidas primárias (farmacóforo em >91 medicamentos aprovados pela FDA)
+**NLP & LLMs Clínicos:**
+- [LLMs de Propósito Geral Superam Ferramentas Clínicas Aprovadas pela FDA](https://www.nature.com/articles/s41591-026-04329-2) -- GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6 superam OpenEvidence e UpToDate Expert AI em todos os benchmarks; médicos praticantes como avaliadores (Nature Medicine, 23 Jun 2026)
+- [Advancing Conversational Diagnostic AI with Multimodal Reasoning](https://www.nature.com/articles/s41591-026-04371-0) -- IA diagnóstica conversacional com capacidades multimodais avançadas para atenção primária (Nature Medicine, Jun 2026)
+- [Automation Bias in LLM-Assisted Diagnostic Reasoning Among AI-Trained Physicians](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2) -- médicos treinados com IA são vulneráveis a viés de automação mesmo quando usam LLMs voluntariamente (medRxiv, Jun 2026)
 
-### Ferramentas (2 novas)
+**Imagem Médica & Cirurgia:**
+- [Decentralized Privacy-Preserving Pipeline for Laparoscopic Appendectomy Videos](https://ai.nejm.org/) -- Saldanha et al. — Swarm Learning com supervisão fraca para prever desfechos em apendicectomias, sem centralizar dados sensíveis (NEJM AI, 23 Jun 2026)
 
-- **[ChatGPT for Clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians/)** (OpenAI, Abr 22, 2026) — acesso gratuito para médicos, NPs, PAs e farmacêuticos americanos verificados; assistência em documentação, pesquisa médica e raciocínio clínico com GPT-5
-- **[MUSE](https://news.cuanschutz.edu/dbmi/health-ai-tools-support-clinicians)** — Multi-LLM Uncertainty via Subset Ensemble (CU/DBMI); identifica subconjunto confiável de LLMs para cada questão clínica, auxiliando clínicos a interpretar a confiança das predições
+**Modelos Preditivos & EHR:**
+- [EHR-Based Model Identifies Type 2 Diabetes Risk up to 10 Years Earlier](https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/news/55382584/ehr-based-prediction-model-identifies-diabetes-risk) -- Kaiser Permanente — modelo preditivo validado apresentado no ADA 2026 em Nova Orleans (Jun 2026)
 
-### Datasets (2 novos)
+### Modelos & Ferramentas (3 novos)
 
-- **[NCI IDC AI Annotations — Cancer Collections](https://pmc.ncbi.nlm.nih.gov/articles/PMC12307902/)** (Scientific Data, 2025–2026) — anotações AI-geradas para 11 coleções do NCI Imaging Data Commons; TC e RM de mama, cérebro, fígado, pulmões e próstata; modelos nnU-Net validados por radiologistas certificados; conformidade DICOM
-- **[Project Imaging-X](https://arxiv.org/abs/2603.27460)** (arXiv 2603.27460, 2026) — survey de 1.000+ datasets públicos de imagem médica para desenvolvimento de foundation models; curadoria por modalidade, patologia e licença
+- **[MedGemma 27B Multimodal](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/)** (Google, Jun 16, 2026) -- complementa linha MedGemma com suporte a EHRs longitudinais e interpretação multimodal complexa
+- **[Google DeepMind AI Co-Clinician](https://deepmind.google/blog/ai-co-clinician/)** (DeepMind, Jun 2026) -- preferido por médicos em 67% dos casos vs. ferramentas existentes; zero erros críticos em 97/98 consultas simuladas de atenção primária
+- **[GPT-5.5 Instant para Saúde](https://openai.com/index/improving-health-intelligence-in-chatgpt/)** (OpenAI, Jun 2026) -- melhora substancial em benchmarks de saúde em relação ao GPT-5.3 Instant
 
-### Arquivos Atualizados
+### Regulação & FDA
 
-`README.md` · `papers/nlp-health.md` · `papers/drug-discovery.md` · `tools/nlp.md` · `datasets/medical-imaging.md`
+- **[EchoNext — Primeiro Dispositivo de IA para ECG de 12 Derivações Aprovado pela FDA](https://lasvegassun.com/news/2026/jun/23/pathway-labs-announces-worlds-first-fda-clearance-/)** (Pathway Labs, 23 Jun 2026) -- seis indicações cardiovasculares: IC direita/esquerda, doença valvar, cardiomiopatia infiltrativa e hipertensão pulmonar
+- **[FDA Controles Anti-Viés para Dispositivos de IA](https://www.mddionline.com/artificial-intelligence/fda-s-ai-device-regulations-key-updates-compliance-strategies-for-medtech-success)** -- novas regras em vigor a partir de 30 Jun 2026: fornecedores devem publicar fontes de viés potencial e limites de explicabilidade
 
 ---
 
