@@ -15,54 +15,29 @@
 
 ---
 
-## Novidades -- Semana de 07-13 jun 2026
+## Novidades -- Semana de 14-20 jun 2026
 
-> Adicionados automaticamente pelo cron #09 (awesome-medical-ai).
+> Adicionados automaticamente pelo cron #10 (awesome-medical-ai).
 
-### Papers (4 novos)
+### Papers & Benchmarks (2 novos)
 
-**Benchmarks & IA Agentiva Clínica:**
-- [MedCTA: A Benchmark for Clinical Tool Agents](https://arxiv.org/abs/2606.11702) -- Ashraf, Jeong, Thoker, Ghanem (KAUST + MIT) — 107 tarefas clínicas reais, 5 ferramentas implantadas, 18 modelos; melhor acurácia: 31,54%; nenhum modelo atinge sucesso de trajetória estrita (arXiv 2606.11702, Jun 2026)
-- [AgentClinic: a multimodal benchmark for tool-using clinical AI agents](https://www.nature.com/articles/s41746-026-02674-7) -- benchmark multimodal em 9 especialidades e 7 idiomas; Claude 3.5 supera demais backbones; acurácia diagnóstica pode cair a <10% vs. QA estático (npj Digital Medicine, 2026)
+**Benchmarks de IA para Ciências da Vida:**
+- [LifeSciBench](https://openai.com/index/introducing-life-sci-bench/) (OpenAI, Jun 17, 2026) — 750 tarefas de pesquisa em ciências da vida elaboradas por 173 cientistas PhD de biotech/pharma; rubrics com 25 critérios cada (19.020 critérios no total); melhor modelo passa apenas 36,1%; principal gargalo: processamento de artefatos (sequências genômicas, estruturas químicas, figuras experimentais)
+- [GPT-5.4 como Agente Autônomo em Química Medicinal](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/) (OpenAI + Molecule.one, Jun 17, 2026) — primeira instância documentada publicamente de modelo frontier como agente quase-autônomo em workflow de laboratório úmido; melhoria de Chan-Lam coupling em 10.080 reações; TEMPO como oxidante inesperado para sulfonamidas primárias (farmacóforo em >91 medicamentos aprovados pela FDA)
 
-**NLP & Triagem Especializada:**
-- [Advancing medical AI through benchmarking and competition for specialty triage](https://www.nature.com/articles/s41746-026-02433-8) -- MedGPT-Guide com estratégia "10 Relevant + 10 Random + Ensemble" para triagem de especialidade; novo benchmark MedTriage (npj Digital Medicine, Jun 2026)
-- [Benchmarking LLM-based agent systems for clinical decision tasks](https://pmc.ncbi.nlm.nih.gov/articles/PMC13031301/) -- avaliação de sistemas agentes baseados em LLMs em tarefas clínicas complexas de decisão (npj Digital Medicine / PMC, 2026)
+### Ferramentas (2 novas)
 
-### Datasets & Ferramentas (1 novo)
+- **[ChatGPT for Clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians/)** (OpenAI, Abr 22, 2026) — acesso gratuito para médicos, NPs, PAs e farmacêuticos americanos verificados; assistência em documentação, pesquisa médica e raciocínio clínico com GPT-5
+- **[MUSE](https://news.cuanschutz.edu/dbmi/health-ai-tools-support-clinicians)** — Multi-LLM Uncertainty via Subset Ensemble (CU/DBMI); identifica subconjunto confiável de LLMs para cada questão clínica, auxiliando clínicos a interpretar a confiança das predições
 
-- **NVIDIA Open-H + Cosmos-H** -- primeiro dataset aberto de robótica cirúrgica: 776h de vídeo cirúrgico, 35 organizações, 9 sistemas robóticos; acompanha Isaac GR00T-H (primeiro VLA model aberto para robótica hospitalar) e simulador Cosmos-H para dados sintéticos [Hugging Face](https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics) (Jun 2026)
+### Datasets (2 novos)
 
-### Eventos (2 novos)
+- **[NCI IDC AI Annotations — Cancer Collections](https://pmc.ncbi.nlm.nih.gov/articles/PMC12307902/)** (Scientific Data, 2025–2026) — anotações AI-geradas para 11 coleções do NCI Imaging Data Commons; TC e RM de mama, cérebro, fígado, pulmões e próstata; modelos nnU-Net validados por radiologistas certificados; conformidade DICOM
+- **[Project Imaging-X](https://arxiv.org/abs/2603.27460)** (arXiv 2603.27460, 2026) — survey de 1.000+ datasets públicos de imagem médica para desenvolvimento de foundation models; curadoria por modalidade, patologia e licença
 
-- **DHAI 2026 (Digital Health & AI Innovation Summit)** — 8-9 Jun 2026, Boston — 2000+ participantes, 150+ palestrantes, foco em IA clínica e decisão hospitalar
-- **Medica AI – The Conference 2026** — 16 Jul 2026, Lisboa (Champalimaud Foundation) — IA como transformação sistêmica na saúde, não apenas tecnológica
+### Arquivos Atualizados
 
----
-
-## Novidades -- Semana de 19-25 mai 2026
-
-> Adicionados automaticamente pelo cron #09 (awesome-medical-ai).
-
-### Papers (7 novos)
-
-**NLP & Colaboração Humano-IA:**
-- [Human–large language model collaboration in clinical medicine: a systematic review and meta-analysis](https://www.nature.com/articles/s41746-026-02382-2) -- 10 estudos; melhoria de 4,88 pp em scores compostos de diagnóstico/manejo com colaboração humano-LLM (npj Digital Medicine, Jun 2026)
-- [Independent and collaborative performance of LLMs and healthcare professionals in diagnosis and triage](https://www.nature.com/articles/s41746-026-02409-8) -- 50 estudos, 25 LLMs; acurácia relativa LLM vs. profissionais evolui de 0,89 (top-1) a 1,17 (top-10) (npj Digital Medicine, Jun 2026)
-- [From tool to teammate: RCT of clinician-AI collaborative workflows for diagnosis](https://www.nature.com/articles/s41746-026-02545-1) -- RCT com 70 clínicos testando IA como primeira vs. segunda opinião em raciocínio diagnóstico (npj Digital Medicine, Jun 2026)
-- [AutoMedBench: Towards Medical AutoResearch with Agentic AI Models](https://arxiv.org/abs/2606.01961) -- benchmark de pesquisa médica autônoma em 5 tracks (segmentação, VQA, geração de laudo, detecção de lesão); média 33 turnos de agente (arXiv 2606.01961, Jun 2026)
-
-**Imagem Médica:**
-- [A Vision-Language Framework for Comparative Reasoning in Radiology (MedReCo)](https://arxiv.org/abs/2606.06407) -- MedReCo-DB: 690k imagens, 160k pacientes, 8 instituições; melhoria de 14,5–46,5 pp em raio-X e 13–27,9 pp em TC para seguimento longitudinal (arXiv 2606.06407, Jun 2026)
-
-**Ética & Educação Médica em IA:**
-- [What the AI era doctor should know: a scoping review of AI competencies for medical education](https://www.nature.com/articles/s41746-026-02761-9) -- revisão PRISMA-ScR de competências de IA para graduação médica; Hunt, Sprehe, de Lomba et al. (npj Digital Medicine, Jun 2026)
-- [Protecting clinical value judgment in the age of AI](https://www.nature.com/articles/s41746-026-02561-1) -- sistemas de IA adaptativa operacionalizam tradeoffs de valores ocultos em escala e criam pressões de responsabilidade; Patil, Myers, Dai (npj Digital Medicine, Jun 2026)
-
-### Eventos (2 realizados)
-
-- **Health AI Summit 2026** (2ª ed.) — 1-2 Jun 2026, San Francisco — automação por IA, GenAI para workflow e aplicações hospitalares reais
-- **Mayo Clinic AI Research Summit** — 4-5 Jun 2026, Rochester, MN — geração de evidências do mundo real em IA na saúde
+`README.md` · `papers/nlp-health.md` · `papers/drug-discovery.md` · `tools/nlp.md` · `datasets/medical-imaging.md`
 
 ---
 
