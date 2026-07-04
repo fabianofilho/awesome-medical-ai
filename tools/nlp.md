@@ -1,5 +1,7 @@
 # Ferramentas — NLP em Saúde
 
+- [PhysicianBench (2026)](https://github.com/HealthRex/PhysicianBench) -- Stanford HealthRex — harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1); open-source. (arXiv 2605.02240, Mai 2026)
+- [Awesome-AI-Agents-for-Healthcare (2026)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) -- Lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais, benchmarks e frameworks. (AgenticHealthAI, 2026)
 - [ClinicBot: A Guideline-Grounded Clinical Chatbot (2026)](https://arxiv.org/abs/) — Chatbot clínico com RAG priorizado por evidências e citações verificáveis. Desenvolvido por KIT, Helmholtz Ulm, TU Munich. (arXiv, 2026)
 - [BioMedArena: Toolkit for Biomedical Deep Research Agents (2026)](https://arxiv.org/abs/) — Toolkit open-source para construir e avaliar agentes de pesquisa biomédica baseados em IA profunda. (arXiv, 2026)
 - [LAOS System: Clinical Documentation with Voice Processing (2026)](https://www.nature.com/articles/s41746-025-02170-4) — Sistema de processamento de voz e LLMs para melhorar documentação clínica. (npj Digital Medicine, 2026)

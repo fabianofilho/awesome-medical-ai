@@ -1,5 +1,8 @@
 # Eventos & Conferencias
 
+- **HealthAI2026 — Precision Medicine & AI Healthcare** — 27-28 Jul 2026, Praga, Republica Tcheca. Reuniao global de clinicos, pesquisadores, lideres em saude, inovadores em IA e formuladores de politicas para debater medicina de precisao e IA clinica. [Site](https://healthai.pagesconferences.org/)
+- **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Principal venue academico para ML aplicado a saude; proceedings arquivais; decisoes de aceitacao notificadas em Jul 2026. [Site](https://mlhc.org/)
+- **AIiH 2026 (International Conference on Artificial Intelligence in Healthcare)** — 26-28 Ago 2026, Imperial College Londres. Plataforma proeminente para pesquisadores e praticantes que aplicam IA moderna na saude. [Site](https://aiih.cc/)
 - **Medica AI — The Conference 2026** — 16 Jul 2026, Fundação Champalimaud, Lisboa. Design de saúde impulsionada por IA para 2050: diagnóstico, terapia, operações hospitalares e ética. [Site](https://www.fchampalimaud.org/events/medica-ai-conference-2026)
 - **AI4 Conference 2026 (Healthcare Track)** — 4-6 Ago 2026, The Venetian, Las Vegas. Sessões sobre clinical decision support, drug discovery, medical imaging e regulatory compliance. [Site](https://ai4.io/)
 - **IJCAI-ECAI 2026 — AI and Health Special Track** — 15-21 Ago 2026. Track especial sobre aplicações de IA em saúde no principal congresso de IA do mundo. [Site](https://2026.ijcai.org/)

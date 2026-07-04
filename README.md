@@ -15,33 +15,31 @@
 
 ---
 
-## Novidades -- Semana de 20-27 jun 2026
+## Novidades -- Semana de 27 jun - 04 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (5 novos)
+### Papers (2 novos)
 
-**NLP & LLMs Clínicos:**
-- [LLMs de Propósito Geral Superam Ferramentas Clínicas Aprovadas pela FDA](https://www.nature.com/articles/s41591-026-04329-2) -- GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6 superam OpenEvidence e UpToDate Expert AI em todos os benchmarks; médicos praticantes como avaliadores (Nature Medicine, 23 Jun 2026)
-- [Advancing Conversational Diagnostic AI with Multimodal Reasoning](https://www.nature.com/articles/s41591-026-04371-0) -- IA diagnóstica conversacional com capacidades multimodais avançadas para atenção primária (Nature Medicine, Jun 2026)
-- [Automation Bias in LLM-Assisted Diagnostic Reasoning Among AI-Trained Physicians](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2) -- médicos treinados com IA são vulneráveis a viés de automação mesmo quando usam LLMs voluntariamente (medRxiv, Jun 2026)
+**NLP & LLMs Clinicos:**
+- [MedGellan: LLM-Generated Medical Guidance to Support Physicians](https://arxiv.org/abs/2507.04431) -- Framework leve com prompting bayesiano que gera orientacao clinica a partir de prontuarios brutos para apoio diagnostico; melhora recall e F1 sem substituir o medico. (arXiv 2507.04431, Jul 2026)
+- [VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards](https://arxiv.org/abs/2606.22692) -- Kiiskinen et al. (Stanford) — arquitetura em dois niveis (MEDS Graph + Timeline Object Architecture) para fornecer contexto clinico longitudinal completo a LLMs em tumor boards. (arXiv 2606.22692, Jun 2026)
 
-**Imagem Médica & Cirurgia:**
-- [Decentralized Privacy-Preserving Pipeline for Laparoscopic Appendectomy Videos](https://ai.nejm.org/) -- Saldanha et al. — Swarm Learning com supervisão fraca para prever desfechos em apendicectomias, sem centralizar dados sensíveis (NEJM AI, 23 Jun 2026)
+### Ferramentas e Repositorios (3 novos)
 
-**Modelos Preditivos & EHR:**
-- [EHR-Based Model Identifies Type 2 Diabetes Risk up to 10 Years Earlier](https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/news/55382584/ehr-based-prediction-model-identifies-diabetes-risk) -- Kaiser Permanente — modelo preditivo validado apresentado no ADA 2026 em Nova Orleans (Jun 2026)
+- **[UniMedVL](https://github.com/uni-medical/UniMedVL)** (ICML 2026) -- modelo fundacional unificado de visao e linguagem medica; suporta VQA, geracao de laudos, sintese de imagens e traducao cross-modal em 9 modalidades de imagem. Aceito no ICML 2026.
+- **[PhysicianBench](https://github.com/HealthRex/PhysicianBench)** (Stanford HealthRex, 2026) -- harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1).
+- **[Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)** (AgenticHealthAI, 2026) -- lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais e agenticos.
 
-### Modelos & Ferramentas (3 novos)
+### Datasets (1 novo)
 
-- **[MedGemma 27B Multimodal](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/)** (Google, Jun 16, 2026) -- complementa linha MedGemma com suporte a EHRs longitudinais e interpretação multimodal complexa
-- **[Google DeepMind AI Co-Clinician](https://deepmind.google/blog/ai-co-clinician/)** (DeepMind, Jun 2026) -- preferido por médicos em 67% dos casos vs. ferramentas existentes; zero erros críticos em 97/98 consultas simuladas de atenção primária
-- **[GPT-5.5 Instant para Saúde](https://openai.com/index/improving-health-intelligence-in-chatgpt/)** (OpenAI, Jun 2026) -- melhora substancial em benchmarks de saúde em relação ao GPT-5.3 Instant
+- **[UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M)** (HuggingFace, Jun 2026) -- primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais; disponivel para pesquisa academica nao-comercial.
 
-### Regulação & FDA
+### Eventos (3 novos)
 
-- **[EchoNext — Primeiro Dispositivo de IA para ECG de 12 Derivações Aprovado pela FDA](https://lasvegassun.com/news/2026/jun/23/pathway-labs-announces-worlds-first-fda-clearance-/)** (Pathway Labs, 23 Jun 2026) -- seis indicações cardiovasculares: IC direita/esquerda, doença valvar, cardiomiopatia infiltrativa e hipertensão pulmonar
-- **[FDA Controles Anti-Viés para Dispositivos de IA](https://www.mddionline.com/artificial-intelligence/fda-s-ai-device-regulations-key-updates-compliance-strategies-for-medtech-success)** -- novas regras em vigor a partir de 30 Jun 2026: fornecedores devem publicar fontes de viés potencial e limites de explicabilidade
+- **[HealthAI2026](https://healthai.pagesconferences.org/)** -- 27-28 Jul 2026, Praga, Republica Tcheca. Conferencia sobre medicina de precisao e IA em saude com clinicos, pesquisadores e reguladores.
+- **[MLHC 2026](https://mlhc.org/)** -- 12-14 Ago 2026, Machine Learning for Healthcare Conference. Principal venue para ML aplicado a saude; decisoes de aceitacao em Jul 2026.
+- **[AIiH 2026](https://aiih.cc/)** -- 26-28 Ago 2026, Imperial College Londres. Conferencia internacional sobre IA em saude clinica.
 
 ---
 

@@ -2,6 +2,7 @@
 
 | Dataset | Descrição | Link |
 |---------|-----------|------|
+| **UniMedVL-5M (2026)** | Primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais (VQA, geracao de laudos, sintese de imagens, traducao cross-modal e coloracao virtual). Disponivel no HuggingFace para pesquisa academica nao-comercial. | [HuggingFace](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M) |
 | **HISTAI (2026)** | 112.000 whole slide images (WSIs) de 46.000 casos únicos com metadados clínicos completos, anotações patológicas detalhadas e codificação diagnóstica padronizada. Open-source; um dos maiores datasets públicos de histopatologia. | [GitHub](https://github.com/HistAI/HISTAI) / [arXiv](https://arxiv.org/abs/2505.12120) |
 | **Stanford AIMI Public Repository** | Repositório público do Stanford Center for AI in Medicine and Imaging com imagens de ecocardiogramas, TC cerebral, RM, radiografias e ultrassons cuidadosamente curadas e anotadas. | [Stanford AIMI](https://aimi.stanford.edu/) |
 | **CheXpert** | 224.316 radiografias de tórax com labels de 14 observações. | [Stanford ML Group](https://stanfordmlgroup.github.io/competitions/chexpert/) |
