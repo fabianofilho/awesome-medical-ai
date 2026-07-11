@@ -1,5 +1,7 @@
 # Ferramentas — NLP em Saúde
 
+- [OpenMed (2026)](https://github.com/maziyarpanahi/openmed) -- IA clinica local-first com NER biomedico e de-identificacao HIPAA que roda 100% on-device; 1.000+ modelos medicos em 12 linguas; suporte a Apple MLX, Python, iOS/Android; sem dados enviados para nuvem; Apache-2.0.
+- [MedAgentGym (2026)](https://github.com/wshi83/MedAgentGym) -- Ambiente de treinamento escalavel para agentes LLM em raciocinio biomedico orientado a codigo; 72.413 instancias em 129 categorias derivadas de 12 cenarios biomedicos reais; Med-Copilot atinge +43% via RL offline; aceito no ICLR 2026. (arXiv 2506.04405)
 - [PhysicianBench (2026)](https://github.com/HealthRex/PhysicianBench) -- Stanford HealthRex — harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1); open-source. (arXiv 2605.02240, Mai 2026)
 - [Awesome-AI-Agents-for-Healthcare (2026)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) -- Lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais, benchmarks e frameworks. (AgenticHealthAI, 2026)
 - [ClinicBot: A Guideline-Grounded Clinical Chatbot (2026)](https://arxiv.org/abs/) — Chatbot clínico com RAG priorizado por evidências e citações verificáveis. Desenvolvido por KIT, Helmholtz Ulm, TU Munich. (arXiv, 2026)

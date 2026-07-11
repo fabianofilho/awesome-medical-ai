@@ -15,31 +15,28 @@
 
 ---
 
-## Novidades -- Semana de 27 jun - 04 jul 2026
+## Novidades -- Semana de 04 jul - 11 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (2 novos)
+### Papers (4 novos)
 
-**NLP & LLMs Clinicos:**
-- [MedGellan: LLM-Generated Medical Guidance to Support Physicians](https://arxiv.org/abs/2507.04431) -- Framework leve com prompting bayesiano que gera orientacao clinica a partir de prontuarios brutos para apoio diagnostico; melhora recall e F1 sem substituir o medico. (arXiv 2507.04431, Jul 2026)
-- [VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards](https://arxiv.org/abs/2606.22692) -- Kiiskinen et al. (Stanford) — arquitetura em dois niveis (MEDS Graph + Timeline Object Architecture) para fornecer contexto clinico longitudinal completo a LLMs em tumor boards. (arXiv 2606.22692, Jun 2026)
+**NLP, LLMs e Agentes Clinicos:**
+- [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) -- Framework multi-agente dinamico que modela o diagnostico como um loop interativo multi-rodada; inclui MIMIC-Patient, dataset estruturado de pacientes virtuais derivado do MIMIC-III. (arXiv 2507.02616, Jul 2026)
+- [Large Language Models for Automating Clinical Data Standardization: HL7 FHIR Use Case](https://arxiv.org/abs/2507.03067) -- Demonstra a viabilidade de LLMs para transformar dados clinicos heterogeneos no padrao HL7 FHIR de forma automatizada. (arXiv 2507.03067, Jul 2026)
+- [Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications](https://arxiv.org/abs/2507.05517) -- Avaliacao de LLMs para estruturacao de transcricoes de fala clinica em dois cenarios reais de uso hospitalar. (arXiv 2507.05517, Jul 2026)
+- [PhysAssistBench: Are LLMs Ready to Assist Physicians?](https://arxiv.org/abs/2606.18613) -- Benchmark para assistencia interativa medico-paciente-EHR com 1.296 turnos validados por clinicos extraidos de casos MIMIC-IV; modelos atuais mostram desempenho insatisfatorio. (arXiv 2606.18613, Jun 2026)
 
-### Ferramentas e Repositorios (3 novos)
+### Ferramentas e Repositorios (2 novos)
 
-- **[UniMedVL](https://github.com/uni-medical/UniMedVL)** (ICML 2026) -- modelo fundacional unificado de visao e linguagem medica; suporta VQA, geracao de laudos, sintese de imagens e traducao cross-modal em 9 modalidades de imagem. Aceito no ICML 2026.
-- **[PhysicianBench](https://github.com/HealthRex/PhysicianBench)** (Stanford HealthRex, 2026) -- harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1).
-- **[Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)** (AgenticHealthAI, 2026) -- lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais e agenticos.
+- **[OpenMed](https://github.com/maziyarpanahi/openmed)** (2026) -- IA clinica local-first com NER biomedico e de-identificacao HIPAA 100% on-device; suporta 1.000+ modelos em 12 linguas; Apple MLX, Python, sem dados enviados para nuvem; Apache-2.0.
+- **[MedAgentGym](https://github.com/wshi83/MedAgentGym)** (ICLR 2026) -- Ambiente de treinamento escalavel para agentes LLM em raciocinio biomedico orientado a codigo; 72.413 instancias em 129 categorias de 12 cenarios reais; Med-Copilot atinge +43% via RL. (arXiv 2506.04405)
 
-### Datasets (1 novo)
+### Eventos (3 novos ou atualizados)
 
-- **[UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M)** (HuggingFace, Jun 2026) -- primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais; disponivel para pesquisa academica nao-comercial.
-
-### Eventos (3 novos)
-
-- **[HealthAI2026](https://healthai.pagesconferences.org/)** -- 27-28 Jul 2026, Praga, Republica Tcheca. Conferencia sobre medicina de precisao e IA em saude com clinicos, pesquisadores e reguladores.
-- **[MLHC 2026](https://mlhc.org/)** -- 12-14 Ago 2026, Machine Learning for Healthcare Conference. Principal venue para ML aplicado a saude; decisoes de aceitacao em Jul 2026.
-- **[AIiH 2026](https://aiih.cc/)** -- 26-28 Ago 2026, Imperial College Londres. Conferencia internacional sobre IA em saude clinica.
+- **[AIME 2026 — 24th International Conference on AI in Medicine](https://aime26.aimedicine.info/)** -- 7-10 Jul 2026, Universidade de Ottawa, Canada. Tema: conhecimento, raciocinio e integracao semantica. Proceedings publicados pela Springer Nature.
+- **[AIMed26](https://www.aimed26.com/)** -- 10-13 Nov 2026, Orlando, FL (Renaissance Orlando at Seaworld). Principal encontro de IA e medicina com keynotes, workshops e networking entre clinicos e cientistas de dados.
+- **[DoctorsAI Global Summit 2026](https://www.doctorsaiglobalsummit.com/)** -- Tema: Precision, Partnership, Possibility. Aplicacoes de ago 20 a set 10, 2026. Evento voltado para medicos e pesquisadores que aplicam IA na pratica clinica.
 
 ---
 
