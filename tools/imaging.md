@@ -1,5 +1,6 @@
 # Ferramentas — Imagem Médica
 
+- [NeuroVFM (2026)](https://github.com/MLNeurosurg/neurovfm) -- Modelo visual de fundacao para neuroimagem da University of Michigan publicado na Nature Medicine; pre-treinado em 5,24M volumes clinicos via self-supervised Vol-JEPA; open-source; alcanca estado da arte em diagnostico, geracao de laudos e triagem sem dados anotados. Paper: [Nature Medicine, Jul 2026](https://www.nature.com/articles/s41591-026-04497-1). [![Stars](https://img.shields.io/github/stars/MLNeurosurg/neurovfm.svg?style=social)](https://github.com/MLNeurosurg/neurovfm)
 - [MedHorizon: Long-context Medical Video Understanding (2026)](https://arxiv.org/abs/) — Framework para compreensão de vídeos médicos em contextos longos. Aplicações em análise de procedimentos cirúrgicos. (arXiv, 2026)
 - [Bridging Visual Saliency and LLMs for Explainable Medical Imaging (2026)](https://arxiv.org/abs/) — Integração de saliência visual com LLMs para explicabilidade em aprendizado profundo em imagem médica. (arXiv, 2026)
 - [MONAI 1.5.2](https://monai.io/) — Toolkit de IA de código aberto para imagem médica, baseado em PyTorch. Versão 1.5.2 com melhorias em transformers e segmentação 3D. [![Stars](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social)](https://github.com/Project-MONAI/MONAI)

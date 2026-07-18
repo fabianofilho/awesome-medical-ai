@@ -15,6 +15,34 @@
 
 ---
 
+## Novidades -- Semana de 11 jul - 18 jul 2026
+
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
+
+### Papers (3 novos)
+
+**Imagem Medica:**
+- [Health system learning enables generalist neuroimaging models (NeuroVFM)](https://www.nature.com/articles/s41591-026-04497-1) -- Modelo de fundacao para neuroimagem treinado em 5,24 milhoes de volumes clinicos de RM e TC da University of Michigan via "health system learning"; alcanca desempenho de estado da arte em diagnostico, geracao de laudos e triagem sem dados anotados. GitHub: [MLNeurosurg/neurovfm](https://github.com/MLNeurosurg/neurovfm). (Nature Medicine, 10 Jul 2026)
+- [OvAi Focus: AI-based Multi-class Segmentation of Functional Ovaries and Adnexal Masses in Gynecological Ultrasound](https://arxiv.org/abs/2607.14179) -- Primeiro dispositivo medico de software de IA validado para segmentacao multiclasse de ovarios funcionais e massas anexiais em ultrassonografia ginecologica; treinado em 1.081 mulheres de 6 centros na Italia e Israel; DICE 0,87 para lesao completa. (arXiv 2607.14179, 15 Jul 2026)
+
+**NLP & LLMs Clinicos:**
+- [Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations](https://arxiv.org/abs/2607.12884) -- Munnangi e Savage (Northeastern) avaliam como LLMs lidam com concepcoes erroneas em conversas medicas multiplas-turno; introduz o dataset ThReadMed-QA; aceito no MLHC 2026. (arXiv 2607.12884, 14 Jul 2026)
+
+### Ferramentas e Repositorios (2 novos)
+
+- **[Biomni](https://github.com/snap-stanford/Biomni)** (Stanford SNAP, Science 2026) -- Agente de IA biomedico de proposito geral capaz de executar tarefas de pesquisa de forma autonoma em campos biomedicos heterogeneos sem ajuste especifico de tarefa; integra 150+ ferramentas de bioinformatica, 59 bancos de dados e 100+ pacotes de modelagem molecular; usado por 10.000+ laboratorios. Paper: [doi:10.1126/science.adz4351](https://www.science.org/doi/10.1126/science.adz4351). (Science, Jul 2026)
+- **[NeuroVFM](https://github.com/MLNeurosurg/neurovfm)** (University of Michigan / Nature Medicine, 2026) -- Modelo visual de fundacao para neuroimagem publicado junto ao paper na Nature Medicine; open-source; pre-treinado em dados clinicos reais via self-supervised Vol-JEPA.
+
+### Datasets
+
+Sem novidades confirmadas nesta semana.
+
+### Eventos (1 novo)
+
+- **[Redefining Healthcare in the Age of AI](https://www.nature.com/naturecareers/event/12850875/redefining-healthcare-in-the-age-of-ai/)** (Nature Conference) -- 8-10 Set 2026, Sorbonne, Paris. Congresso organizado pela Nature com 28 especialistas internacionais, incluindo dois laureados do Nobel e editores-chefes de Nature Medicine, Nature Health e Nature Reviews. Inscricoes ate 17 ago 2026.
+
+---
+
 ## Novidades -- Semana de 27 jun - 04 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
