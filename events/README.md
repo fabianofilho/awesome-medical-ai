@@ -1,5 +1,6 @@
 # Eventos & Conferencias
 
+- **Sprint HHS/OSTP/FDA/ONC sobre Padroes de IA Clinica** — Lancado em 23 Jul 2026. Casa Branca (OSTP), FDA e ONC convocam especialistas para um "sprint" de um mes (fase escrita + discussao) para definir principios consensuais de benchmarking e avaliacao de IA clinica. [Cobertura STAT News](https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/)
 - **HealthAI2026 — Precision Medicine & AI Healthcare** — 27-28 Jul 2026, Praga, Republica Tcheca. Reuniao global de clinicos, pesquisadores, lideres em saude, inovadores em IA e formuladores de politicas para debater medicina de precisao e IA clinica. [Site](https://healthai.pagesconferences.org/)
 - **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Principal venue academico para ML aplicado a saude; proceedings arquivais; decisoes de aceitacao notificadas em Jul 2026. [Site](https://mlhc.org/)
 - **AIiH 2026 (International Conference on Artificial Intelligence in Healthcare)** — 26-28 Ago 2026, Imperial College Londres. Plataforma proeminente para pesquisadores e praticantes que aplicam IA moderna na saude. [Site](https://aiih.cc/)

@@ -1,5 +1,6 @@
 # Papers — Ética, Fairness e Regulação
 
+- [The Regulation of Clinical Artificial Intelligence (2026)](https://ai.nejm.org/doi/abs/10.1056/AIpc2400545) — Agarwal et al. — editorial que examina limitacoes das abordagens regulatorias atuais para IA clinica e defende supervisao continua pos-implantacao como parte de um framework regulatorio em evolucao. (NEJM AI, 20 Jul 2026)
 - [What the AI era doctor should know: a scoping review of proposed AI competencies for medical education (2026)](https://www.nature.com/articles/s41746-026-02761-9) — Revisão PRISMA-ScR de competências de IA para graduação médica; busca global em PubMed, Embase, Web of Science, ERIC. Hunt, Sprehe, de Lomba et al. (npj Digital Medicine, Jun 2026)
 - [AI-PACE: a framework for integrating AI into medical education (2026)](https://www.nature.com/articles/s41746-026-02768-2) — Framework estruturado para integração de IA nos currículos de educação médica. (npj Digital Medicine, Jun 2026)
 - [Protecting clinical value judgment in the age of AI (2026)](https://www.nature.com/articles/s41746-026-02561-1) — Sistemas de IA adaptativa embarcados em workflows clínicos operacionalizam tradeoffs de valores ocultos em escala, gerando pressões distintas de responsabilidade. Patil, Myers, Dai. (npj Digital Medicine, Jun 2026)
