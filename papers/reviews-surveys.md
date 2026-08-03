@@ -1,5 +1,7 @@
 # Papers — Revisões e Surveys
 
+- [Toward a test of medical AI superintelligence (2026)](https://www.nature.com/articles/s41591-026-04539-8) — Goh, Wu, Walton et al. — propoe criterios formais para definir superinteligencia medica em IA; introduz o MAST v1.0, benchmark multidominio com leaderboard; LLMs marcam 92% em exames de licenciamento mas apenas 44,8% em tarefas clinicas reais (BRIDGE benchmark). (Nature Medicine, 27 Jul 2026)
+- [Medical AI has a measurement problem (2026)](https://www.nature.com/articles/d41586-026-02125-z) — Perspectiva sobre a dificuldade de avaliar ferramentas de IA medica de forma confiavel; evidencia descompasso entre benchmarks padrao e impacto clinico real. (Nature, 28 Jul 2026)
 - [Towards a Medical AI Scientist (2026)](https://arxiv.org/abs/2603.28589) — Framework autônomo de pesquisa clínica com IA capaz de formular hipóteses, desenhar experimentos e interpretar resultados. (arXiv, 30 Mar 2026)
 - [Foundation Models in Medical Imaging: Privacy Re-identification Risk (2026)](https://www.nature.com/articles/s41746-026-01423-0) — Modelos de fundação em imagem médica permitem re-identificação de pacientes em até 94% dos casos. (npj Digital Medicine, Abr 2026)
 - [The Scaffold Effect in Clinical VLM Evaluation (2026)](https://arxiv.org/abs/2603.28387) — 70–80% dos ganhos aparentes em modelos de linguagem-visão clínicos são artefatos de prompt. (arXiv, 30 Mar 2026)

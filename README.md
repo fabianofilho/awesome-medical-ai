@@ -15,31 +15,27 @@
 
 ---
 
-## Novidades -- Semana de 27 jun - 04 jul 2026
+## Novidades -- Semana de 27 jul - 03 ago 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (2 novos)
+### Papers (3 novos)
 
-**NLP & LLMs Clinicos:**
-- [MedGellan: LLM-Generated Medical Guidance to Support Physicians](https://arxiv.org/abs/2507.04431) -- Framework leve com prompting bayesiano que gera orientacao clinica a partir de prontuarios brutos para apoio diagnostico; melhora recall e F1 sem substituir o medico. (arXiv 2507.04431, Jul 2026)
-- [VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards](https://arxiv.org/abs/2606.22692) -- Kiiskinen et al. (Stanford) — arquitetura em dois niveis (MEDS Graph + Timeline Object Architecture) para fornecer contexto clinico longitudinal completo a LLMs em tumor boards. (arXiv 2606.22692, Jun 2026)
+- [Toward a test of medical AI superintelligence (Goh et al., Nature Medicine, 27 Jul 2026)](https://www.nature.com/articles/s41591-026-04539-8) -- Propoe criterios formais para definir e medir "superinteligencia medica" em IA; introduz o MAST v1.0 (Medical AI Superintelligence Test), benchmark multidominio; LLMs marcam 92% em exames de licenciamento medico, mas apenas 44,8% em tarefas clinicas reais (BRIDGE benchmark). (Nature Medicine, Jul 2026)
+- [Medical AI has a measurement problem (Nature, 28 Jul 2026)](https://www.nature.com/articles/d41586-026-02125-z) -- Perspectiva sobre a dificuldade estrutural de avaliar ferramentas de IA medica de forma confiavel; questiona se os benchmarks atuais capturam desempenho real e como isso afeta adocao clinica. (Nature, Jul 2026)
+- [Rethinking Artificial Intelligence in Medical Imaging: Assumptions, Reality, and Reframing (arXiv 2607.27428, 29 Jul 2026)](https://arxiv.org/abs/2607.27428) -- Rahmim, Bayasi, Li, Saboury, Yousefirizi — identifica seis dimensoes de desalinhamento estrutural entre como sistemas de IA sao projetados e avaliados versus como decisoes clinicas sao tomadas em imagem medica. (arXiv, Jul 2026)
 
-### Ferramentas e Repositorios (3 novos)
+### Ferramentas e Repositorios (1 novo)
 
-- **[UniMedVL](https://github.com/uni-medical/UniMedVL)** (ICML 2026) -- modelo fundacional unificado de visao e linguagem medica; suporta VQA, geracao de laudos, sintese de imagens e traducao cross-modal em 9 modalidades de imagem. Aceito no ICML 2026.
-- **[PhysicianBench](https://github.com/HealthRex/PhysicianBench)** (Stanford HealthRex, 2026) -- harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1).
-- **[Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)** (AgenticHealthAI, 2026) -- lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais e agenticos.
+- **[MAST — Medical AI Superintelligence Test](https://github.com/HealthRex-ARISE/mast)** (Stanford ARISE Network, 27 Jul 2026) -- Framework open-source para avaliar modelos de IA medica em diagnostico, raciocinio, seguranca e fluxos agentivos; leaderboard live em arise-ai.org/mast/technical; lancado junto ao paper na Nature Medicine.
 
-### Datasets (1 novo)
+### Datasets
 
-- **[UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M)** (HuggingFace, Jun 2026) -- primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais; disponivel para pesquisa academica nao-comercial.
+Sem novidades nesta semana.
 
-### Eventos (3 novos)
+### Eventos
 
-- **[HealthAI2026](https://healthai.pagesconferences.org/)** -- 27-28 Jul 2026, Praga, Republica Tcheca. Conferencia sobre medicina de precisao e IA em saude com clinicos, pesquisadores e reguladores.
-- **[MLHC 2026](https://mlhc.org/)** -- 12-14 Ago 2026, Machine Learning for Healthcare Conference. Principal venue para ML aplicado a saude; decisoes de aceitacao em Jul 2026.
-- **[AIiH 2026](https://aiih.cc/)** -- 26-28 Ago 2026, Imperial College Londres. Conferencia internacional sobre IA em saude clinica.
+Sem novidades nesta semana.
 
 ---
 
