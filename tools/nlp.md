@@ -1,5 +1,6 @@
 # Ferramentas — NLP em Saúde
 
+- [MAST — Medical AI Superintelligence Test (2026)](https://github.com/HealthRex-ARISE/mast) -- Stanford ARISE Network — framework open-source para avaliar modelos de IA medica em diagnostico, raciocinio, seguranca e fluxos agentivos contra baselines de medicos reais; leaderboard live em arise-ai.org; lancado junto ao paper na Nature Medicine de 27 Jul 2026. (Stanford ARISE, Jul 2026)
 - [PhysicianBench (2026)](https://github.com/HealthRex/PhysicianBench) -- Stanford HealthRex — harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1); open-source. (arXiv 2605.02240, Mai 2026)
 - [Awesome-AI-Agents-for-Healthcare (2026)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) -- Lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais, benchmarks e frameworks. (AgenticHealthAI, 2026)
 - [ClinicBot: A Guideline-Grounded Clinical Chatbot (2026)](https://arxiv.org/abs/) — Chatbot clínico com RAG priorizado por evidências e citações verificáveis. Desenvolvido por KIT, Helmholtz Ulm, TU Munich. (arXiv, 2026)
