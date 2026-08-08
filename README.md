@@ -15,31 +15,35 @@
 
 ---
 
-## Novidades -- Semana de 27 jun - 04 jul 2026
+## Novidades -- Semana de 01 ago - 08 ago 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (2 novos)
+### Papers (6 novos)
 
-**NLP & LLMs Clinicos:**
-- [MedGellan: LLM-Generated Medical Guidance to Support Physicians](https://arxiv.org/abs/2507.04431) -- Framework leve com prompting bayesiano que gera orientacao clinica a partir de prontuarios brutos para apoio diagnostico; melhora recall e F1 sem substituir o medico. (arXiv 2507.04431, Jul 2026)
-- [VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards](https://arxiv.org/abs/2606.22692) -- Kiiskinen et al. (Stanford) — arquitetura em dois niveis (MEDS Graph + Timeline Object Architecture) para fornecer contexto clinico longitudinal completo a LLMs em tumor boards. (arXiv 2606.22692, Jun 2026)
+**Patologia e Imagem Medica:**
+- [PRISM2: End-to-end multimodal pathology foundation model with clinical dialogue](https://www.nature.com/articles/s41591-026-04521-4) -- Tempus; treinado em 2,3 milhoes de whole-slide images e 14 milhoes de pares de QA clinicos; atinge acuracia clinica para deteccao de cancer de prostata e mama sem ajuste de tarefa. (Nature Medicine, 4 Ago 2026)
+- [OncoTriad-QA: A Patient-Level Radiology-Pathology-Genomics Benchmark for Pan-Cancer Reasoning](https://arxiv.org/abs/2608.02615) -- benchmark com 86,1 mil questoes em 9.281 casos TCGA de 32 tipos de cancer alinhando radiologia, histopatologia e dados genomicos; testa modelos multimodais em raciocinio oncologico integrado. (arXiv 2608.02615, Ago 2026)
 
-### Ferramentas e Repositorios (3 novos)
+**NLP e Raciocinio Clinico:**
+- [MedUPS: Towards Diagnostic Assistance in Uncommon Medical Cases with Large Language Models](https://arxiv.org/abs/2608.01012) -- dataset MedUPSQA com 21.874 pontos de decisao clinica de 5.535 casos raros; treina modelos com GRPO em decisoes intermediarias ao longo da trajetoria do paciente. (arXiv 2608.01012, 2 Ago 2026)
+- [From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems](https://arxiv.org/abs/2608.06112) -- analisa por que 70-80% dos pilotos de IA hospitalar falham ao escalar; propoe arquitetura multi-camada orientada a governanca para sistemas agentivos em hospitais. (arXiv 2608.06112, 6 Ago 2026)
 
-- **[UniMedVL](https://github.com/uni-medical/UniMedVL)** (ICML 2026) -- modelo fundacional unificado de visao e linguagem medica; suporta VQA, geracao de laudos, sintese de imagens e traducao cross-modal em 9 modalidades de imagem. Aceito no ICML 2026.
-- **[PhysicianBench](https://github.com/HealthRex/PhysicianBench)** (Stanford HealthRex, 2026) -- harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1).
-- **[Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)** (AgenticHealthAI, 2026) -- lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais e agenticos.
+**IA Explicavel e Etica:**
+- [Divergent impacts of explainable AI for dermatological diagnosis on clinicians versus lay people](https://www.nature.com/articles/s41591-026-04553-w) -- experimento com 623 leigos e 153 medicos; XAI melhora acuracia de nao-especialistas mas prejudica clinicos de atencao primaria, que se saem melhor sem explicacoes do modelo. (Nature Medicine, 4 Ago 2026)
+- [A clinically validated framework for auditing AI chatbot behavior in mental health interactions](https://www.nature.com/articles/s41591-026-04577-2) -- framework SIM-VAIL avalia Claude, ChatGPT, Gemini, Grok e Llama em 810 conversas; modelos frequentemente amplificam vulnerabilidades psicologicas de usuarios em contextos de saude mental. (Nature Medicine, 7 Ago 2026)
 
-### Datasets (1 novo)
+### Ferramentas e Repositorios
 
-- **[UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M)** (HuggingFace, Jun 2026) -- primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais; disponivel para pesquisa academica nao-comercial.
+Sem novidades esta semana.
 
-### Eventos (3 novos)
+### Datasets
 
-- **[HealthAI2026](https://healthai.pagesconferences.org/)** -- 27-28 Jul 2026, Praga, Republica Tcheca. Conferencia sobre medicina de precisao e IA em saude com clinicos, pesquisadores e reguladores.
-- **[MLHC 2026](https://mlhc.org/)** -- 12-14 Ago 2026, Machine Learning for Healthcare Conference. Principal venue para ML aplicado a saude; decisoes de aceitacao em Jul 2026.
-- **[AIiH 2026](https://aiih.cc/)** -- 26-28 Ago 2026, Imperial College Londres. Conferencia internacional sobre IA em saude clinica.
+Sem novidades esta semana.
+
+### Eventos
+
+Sem novidades esta semana.
 
 ---
 
