@@ -15,31 +15,30 @@
 
 ---
 
-## Novidades -- Semana de 27 jun - 04 jul 2026
+## Novidades -- Semana de 09 ago - 15 ago 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (2 novos)
+### Papers (3 novos)
 
-**NLP & LLMs Clinicos:**
-- [MedGellan: LLM-Generated Medical Guidance to Support Physicians](https://arxiv.org/abs/2507.04431) -- Framework leve com prompting bayesiano que gera orientacao clinica a partir de prontuarios brutos para apoio diagnostico; melhora recall e F1 sem substituir o medico. (arXiv 2507.04431, Jul 2026)
-- [VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards](https://arxiv.org/abs/2606.22692) -- Kiiskinen et al. (Stanford) — arquitetura em dois niveis (MEDS Graph + Timeline Object Architecture) para fornecer contexto clinico longitudinal completo a LLMs em tumor boards. (arXiv 2606.22692, Jun 2026)
+**Infraestrutura e Dados em Saude:**
+- [An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment](https://www.nature.com/articles/s41591-026-04575-4) -- Andreassen, Heimer, Brunak, Kallioniemi et al. -- Proposta de infraestrutura federada de IA em saude conectando 6 paises nordicos com grandes coortes longitudinais multimodais; modelos computacionais viajam entre ambientes seguros nacionais sem mover dados de pacientes; compativel com European Health Data Space (EHDS). (Nature Medicine, 14 Ago 2026)
 
-### Ferramentas e Repositorios (3 novos)
+**Imagem Medica:**
+- [Auditable Agentic AI for Evidence-Grounded Thyroid Ultrasound Diagnosis and Reporting (ThyroidXAgent)](https://arxiv.org/abs/2608.12590) -- Sistema agentivo multicentrico para ultrassom de tireoide com coordenacao de ferramentas e trilha auditavel; treinado em ~300k imagens (OpenThyroidDB, 35 centros); Dice 87,21% em segmentacao, AUROC 0,9466 em classificacao benigno-maligno; reducao de 27,4% no tempo de laudagem e aumento de consistencia diagnostica de 70,3% para 86,2%. (arXiv 2608.12590, 12 Ago 2026)
+- [An Information Theory Analysis of Whole Slide Image Pathology AI Under Limited Resources](https://arxiv.org/abs/2608.10846) -- Tsuruyama -- Compara WSI-AI (compressao automatica da lamina inteira) versus Diagnostic Field Selection AI (expert seleciona regioes primeiro); orienta alocacao de recursos computacionais em patologia digital com base em principios de teoria da informacao. (arXiv 2608.10846, 11 Ago 2026)
 
-- **[UniMedVL](https://github.com/uni-medical/UniMedVL)** (ICML 2026) -- modelo fundacional unificado de visao e linguagem medica; suporta VQA, geracao de laudos, sintese de imagens e traducao cross-modal em 9 modalidades de imagem. Aceito no ICML 2026.
-- **[PhysicianBench](https://github.com/HealthRex/PhysicianBench)** (Stanford HealthRex, 2026) -- harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1).
-- **[Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)** (AgenticHealthAI, 2026) -- lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais e agenticos.
+### Ferramentas e Repositorios
 
-### Datasets (1 novo)
+Sem novidades nesta semana.
 
-- **[UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M)** (HuggingFace, Jun 2026) -- primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais; disponivel para pesquisa academica nao-comercial.
+### Datasets
 
-### Eventos (3 novos)
+Sem novidades nesta semana.
 
-- **[HealthAI2026](https://healthai.pagesconferences.org/)** -- 27-28 Jul 2026, Praga, Republica Tcheca. Conferencia sobre medicina de precisao e IA em saude com clinicos, pesquisadores e reguladores.
-- **[MLHC 2026](https://mlhc.org/)** -- 12-14 Ago 2026, Machine Learning for Healthcare Conference. Principal venue para ML aplicado a saude; decisoes de aceitacao em Jul 2026.
-- **[AIiH 2026](https://aiih.cc/)** -- 26-28 Ago 2026, Imperial College Londres. Conferencia internacional sobre IA em saude clinica.
+### Eventos
+
+Sem novidades nesta semana.
 
 ---
 
