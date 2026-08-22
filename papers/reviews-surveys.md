@@ -1,5 +1,6 @@
 # Papers — Revisões e Surveys
 
+- [Safety and security of large language models in healthcare (2026)](https://www.nature.com/articles/s41586-026-10687-1) -- Clusmann, Freyer, Ostermann et al. (TU Dresden / Kather group) -- framework unificado de riscos, camadas de proteção e estratégias de mitigação para uso seguro de LLMs em cuidados clínicos; integra evidências de IA médica, cibersegurança, ética e psicologia comportamental. (Nature, 19 ago 2026)
 - [Towards a Medical AI Scientist (2026)](https://arxiv.org/abs/2603.28589) — Framework autônomo de pesquisa clínica com IA capaz de formular hipóteses, desenhar experimentos e interpretar resultados. (arXiv, 30 Mar 2026)
 - [Foundation Models in Medical Imaging: Privacy Re-identification Risk (2026)](https://www.nature.com/articles/s41746-026-01423-0) — Modelos de fundação em imagem médica permitem re-identificação de pacientes em até 94% dos casos. (npj Digital Medicine, Abr 2026)
 - [The Scaffold Effect in Clinical VLM Evaluation (2026)](https://arxiv.org/abs/2603.28387) — 70–80% dos ganhos aparentes em modelos de linguagem-visão clínicos são artefatos de prompt. (arXiv, 30 Mar 2026)
