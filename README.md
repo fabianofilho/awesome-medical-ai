@@ -15,6 +15,30 @@
 
 ---
 
+## Novidades -- Semana de 15-22 ago 2026
+
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
+
+### Papers (2 novos)
+
+**Segurança e Revisões:**
+- [Safety and security of large language models in healthcare](https://www.nature.com/articles/s41586-026-10687-1) -- Clusmann, Freyer, Ostermann et al. (TU Dresden / Kather group) -- revisão em Nature integrando evidências de IA médica, cibersegurança, ética e psicologia comportamental; apresenta framework unificado de ameaças relevantes, camadas de proteção e responsabilidades de mitigação para uso seguro de LLMs na prática clínica. (Nature, 19 ago 2026)
+- [90% dos papers biomédicos mostram sinais de uso de IA em escrita](https://www.nature.com/articles/d41586-026-02551-z) -- Nature News sobre preprint (arXiv, 12 ago): estima 77% de uso de LLMs nos artigos do PubMed Central de 2025 e 90% nos artigos de dezembro de 2025; uso mais frequente em resumo, introdução e discussão do que em métodos e resultados. (Nature, 20 ago 2026)
+
+### Ferramentas e Repositórios
+
+Sem novidades nesta semana.
+
+### Datasets
+
+Sem novidades nesta semana.
+
+### Eventos
+
+Sem novidades nesta semana.
+
+---
+
 ## Novidades -- Semana de 27 jun - 04 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
