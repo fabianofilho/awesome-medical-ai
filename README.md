@@ -15,6 +15,33 @@
 
 ---
 
+## Novidades -- Semana de 23-29 ago 2026
+
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
+
+### Papers (3 novos)
+
+**Imagem Medica:**
+- [Label-Free Foundational Model Selection for Medical Image Classification under Distribution Shift via Pseudo Label Discrepancy](https://arxiv.org/abs/2608.25810) -- Larrea et al. -- criterio sem rotulos para selecionar o melhor modelo fundacional em classificacao de imagem medica com distribuicao diferente do treino, usando discrepancia de pseudo-rotulos (SUDO). (arXiv 2608.25810, 26 Ago 2026)
+- [Parameter-Efficient CT-to-MRI Transfer for Rectal Cancer Segmentation](https://arxiv.org/abs/2608.27178) -- adaptacao de dominio parametricamente eficiente de TC para RM em segmentacao de cancer retal; aceito no MICCAI 2026 MIART Workshop. (arXiv 2608.27178, 27 Ago 2026)
+
+**NLP e Oncologia:**
+- [Evaluating AI Generated Summaries for Cancer Patients](https://arxiv.org/abs/2608.26154) -- Ahmad, Shyu, Oliver, Sleight, Landau -- avalia resumos gerados por LLMs em aplicacao de cuidado oncologico via avaliacao dupla: clinicos de oncologia e LLM-as-judge. (arXiv 2608.26154, 26 Ago 2026)
+
+### Ferramentas e Repositorios
+
+Sem novidades nesta semana.
+
+### Datasets
+
+Sem novidades nesta semana.
+
+### Eventos
+
+Sem novidades nesta semana.
+
+---
+
 ## Novidades -- Semana de 27 jun - 04 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
