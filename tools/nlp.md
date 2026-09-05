@@ -1,5 +1,6 @@
 # Ferramentas — NLP em Saúde
 
+- [Interlay (2026)](https://www.prnewswire.com/news-releases/htd-health-launches-interlay-to-bring-healthcare-context-to-ai-powered-software-development-302866676.html) -- HTD Health — Plataforma que incorpora contexto especifico de saude (requisitos regulatorios, seguranca, fluxos clinicos) nas ferramentas de IA usadas por times de desenvolvimento de software hospitalar; lanamento em 2 Set 2026.
 - [PhysicianBench (2026)](https://github.com/HealthRex/PhysicianBench) -- Stanford HealthRex — harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1); open-source. (arXiv 2605.02240, Mai 2026)
 - [Awesome-AI-Agents-for-Healthcare (2026)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) -- Lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais, benchmarks e frameworks. (AgenticHealthAI, 2026)
 - [ClinicBot: A Guideline-Grounded Clinical Chatbot (2026)](https://arxiv.org/abs/) — Chatbot clínico com RAG priorizado por evidências e citações verificáveis. Desenvolvido por KIT, Helmholtz Ulm, TU Munich. (arXiv, 2026)
