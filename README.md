@@ -15,6 +15,33 @@
 
 ---
 
+## Novidades -- Semana de 30 ago - 05 set 2026
+
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
+
+### Papers (3 novos)
+
+**Seguranca e Privacidade em IA Medica:**
+- [Examining the Vulnerability of Multi-Agent Medical Systems to Human Interventions for Clinical Reasoning](https://arxiv.org/abs/2609.02191) -- Liu et al. — Analisa como intervencoes humanas em pontos de falha alteram a acuracia diagnostica de sistemas multi-agente; intervencoes corretas melhoram a acuracia em ate 40%; intervencoes incorretas degradam o desempenho em ate 6%. (arXiv 2609.02191, 2 Set 2026)
+- [Auditing Patient Privacy in Medical Generative Models: Scalable Memorization Detection with DeepSSIM++](https://arxiv.org/abs/2609.03615) -- Scardace, Guarnera, Battiato, Ravi — Propoe DeepSSIM++, metrica auto-supervisionada para detectar memorizacao de dados de treinamento em modelos generativos medicos em escala, sem necessidade de registro pixel a pixel. (arXiv 2609.03615, 3 Set 2026)
+
+**Interpretabilidade em Imagem Medica:**
+- [Generating Medical Image Counterfactuals using Causal Explanations](https://arxiv.org/abs/2609.02697) -- Metodo baseado em causalidade para gerar imagens contrafatuais em contexto medico, permitindo explicar decisoes de modelos de IA por meio de alteracoes causalmente plausíveis. (arXiv 2609.02697, 2 Set 2026)
+
+### Ferramentas e Repositorios (1 novo)
+
+- **[Interlay](https://www.prnewswire.com/news-releases/htd-health-launches-interlay-to-bring-healthcare-context-to-ai-powered-software-development-302866676.html)** (HTD Health, 2 Set 2026) -- Plataforma que incorpora contexto especifico de saude (regulatorio, clinico, seguranca) nas ferramentas de IA usadas por times de desenvolvimento de software hospitalar; visa reduzir erros de conformidade no ciclo de vida de software em saude.
+
+### Datasets
+
+Sem novidades nesta semana.
+
+### Eventos
+
+Sem novidades nesta semana.
+
+---
+
 ## Novidades -- Semana de 27 jun - 04 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
