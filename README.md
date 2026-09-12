@@ -15,6 +15,33 @@
 
 ---
 
+## Novidades -- Semana de 06 set - 12 set 2026
+
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
+
+### Papers (3 novos)
+
+**Imagem Medica:**
+- [MedDream: A radiographic world model for clinical reasoning and evidence generation](https://arxiv.org/abs/2609.07719) -- Modelo de mundo radiografico pre-treinado em 2,65 milhoes de pares radiografia/texto controlados para vazamento; supera os principais comparadores diagnosticos em 8 datasets clinicos; revisao com suporte de MedDream aumentou concordancia media dos residentes com o consenso radiologico independente de 56,3% para 63,0%. (arXiv 2609.07719, 7 set 2026)
+
+**NLP e IA Clinica:**
+- [Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics](https://arxiv.org/abs/2609.09070) -- Doctorina, sistema de IA clinica com scaffold multi-agente em torno de LLMs, superou 8 medicos e 4 LLMs frontier em 150 consultas sinteticas em lingua polonesa de atencao primaria: 82,0% de concordancia Top-1 versus 57,0% dos medicos (diferenca de 25 pp; IC 95% 17,7-32,7); Kimi K3 ficou em segundo lugar entre os LLMs avaliados. (arXiv 2609.09070, 8 set 2026)
+- [Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training](https://arxiv.org/abs/2609.10939) -- Plataforma AI-SP multi-agente orientada a scaffolding com agente-paciente, agente-tutor (prompts socraticos sem revelar diagnostico) e avaliador turno-a-turno; estudo controlado randomizado com 100 estudantes de medicina mostrou melhora em escores de exame final, comunicacao e expressao empatica. (arXiv 2609.10939, 10 set 2026)
+
+### Ferramentas e Repositorios
+
+Sem novidades nesta semana.
+
+### Datasets
+
+Sem novidades nesta semana.
+
+### Eventos
+
+Sem novidades nesta semana.
+
+---
+
 ## Novidades -- Semana de 27 jun - 04 jul 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
