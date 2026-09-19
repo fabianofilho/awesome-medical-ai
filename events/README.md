@@ -1,5 +1,7 @@
 # Eventos & Conferencias
 
+- **[AI in Health Conference 2026](https://kenkennedy.rice.edu/aihealthconference)** (Ken Kennedy Institute, Rice University) — 15-17 Set 2026, Houston, TX. 5a edicao anual com mais de 400 participantes; temas: robotica medica, IA interpretavel em saude, genomica de doencas e impacto etico-legal; palestrantes de Rice, Johns Hopkins, Microsoft Research, NVIDIA e MD Anderson Cancer Center.
+- **[AI Health Summit NYC 2026](https://events.newsweek.com/ai-health-nyc-2026)** (Newsweek) — 23 Set 2026, One World Trade Center, 72o andar, Nova York. Lideres hospitalares e de healthtech debatem como transformar experimentacao com IA em impacto clinico real; participacao gratuita para executivos de sistemas de saude.
 - **HealthAI2026 — Precision Medicine & AI Healthcare** — 27-28 Jul 2026, Praga, Republica Tcheca. Reuniao global de clinicos, pesquisadores, lideres em saude, inovadores em IA e formuladores de politicas para debater medicina de precisao e IA clinica. [Site](https://healthai.pagesconferences.org/)
 - **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Principal venue academico para ML aplicado a saude; proceedings arquivais; decisoes de aceitacao notificadas em Jul 2026. [Site](https://mlhc.org/)
 - **AIiH 2026 (International Conference on Artificial Intelligence in Healthcare)** — 26-28 Ago 2026, Imperial College Londres. Plataforma proeminente para pesquisadores e praticantes que aplicam IA moderna na saude. [Site](https://aiih.cc/)
