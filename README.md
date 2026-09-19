@@ -15,31 +15,29 @@
 
 ---
 
-## Novidades -- Semana de 27 jun - 04 jul 2026
+## Novidades -- Semana de 13-19 set 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (2 novos)
+### Papers (3 novos)
 
-**NLP & LLMs Clinicos:**
-- [MedGellan: LLM-Generated Medical Guidance to Support Physicians](https://arxiv.org/abs/2507.04431) -- Framework leve com prompting bayesiano que gera orientacao clinica a partir de prontuarios brutos para apoio diagnostico; melhora recall e F1 sem substituir o medico. (arXiv 2507.04431, Jul 2026)
-- [VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards](https://arxiv.org/abs/2606.22692) -- Kiiskinen et al. (Stanford) — arquitetura em dois niveis (MEDS Graph + Timeline Object Architecture) para fornecer contexto clinico longitudinal completo a LLMs em tumor boards. (arXiv 2606.22692, Jun 2026)
+**Avaliacao e Informtica Clinica:**
+- [Scaling Clinical Judgment to Evaluate Medical AI (PrecepTron)](https://arxiv.org/abs/2609.12822) -- Buckley, Kanjee et al. — introduz PrecepTron, LLM ajustado para avaliacao em nivel medico de respostas abertas de IA clinica, escalando alem de pequenos paineis de especialistas. (arXiv 2609.12822, Set 2026)
+- [GAVEL: Grounded Adjudication of Variations across Extracted TimeLines](https://arxiv.org/abs/2609.13475) -- Cummins, Kumar, Tamirsia, Weiss (Princeton/NLM/Wash U) — protocolo de juiz LLM que compara timelines clinicas extraidas contra relatos de caso originais, classificando discrepancias por tipo, veredicto e trecho fonte; avaliado em seis extratores LLM e dois anotadores humanos. (arXiv 2609.13475, Set 2026, AMIA Informatics Summit 2027)
+- [Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication](https://arxiv.org/abs/2609.13062) -- NIH/Princeton — framework UID-preserving que ancora cada ocorrencia narrativa de evento clinico a seu trecho fonte e retém identidade ao longo de estimativas texto-only, recuperacao de evidencias estruturadas e revisao conjunta. (arXiv 2609.13062, Set 2026, ML4H 2026)
 
-### Ferramentas e Repositorios (3 novos)
+### Ferramentas e Repositorios
 
-- **[UniMedVL](https://github.com/uni-medical/UniMedVL)** (ICML 2026) -- modelo fundacional unificado de visao e linguagem medica; suporta VQA, geracao de laudos, sintese de imagens e traducao cross-modal em 9 modalidades de imagem. Aceito no ICML 2026.
-- **[PhysicianBench](https://github.com/HealthRex/PhysicianBench)** (Stanford HealthRex, 2026) -- harness de avaliacao de agentes LLM em ambientes EHR reais via FHIR; 100 tarefas de longo horizonte em 21 especialidades; melhor modelo atinge apenas 46% de sucesso (pass@1).
-- **[Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)** (AgenticHealthAI, 2026) -- lista curada e atualizada de avancos em IA agentiva para saude, com papers de 2026 sobre agentes medicos multimodais e agenticos.
+Sem novidades verificadas nesta semana.
 
-### Datasets (1 novo)
+### Datasets
 
-- **[UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M)** (HuggingFace, Jun 2026) -- primeiro dataset medico em grande escala com mais de 5,6 milhoes de instancias em 8 modalidades de imagem para tarefas multimodais; disponivel para pesquisa academica nao-comercial.
+Sem novidades verificadas nesta semana.
 
-### Eventos (3 novos)
+### Eventos (2 novos)
 
-- **[HealthAI2026](https://healthai.pagesconferences.org/)** -- 27-28 Jul 2026, Praga, Republica Tcheca. Conferencia sobre medicina de precisao e IA em saude com clinicos, pesquisadores e reguladores.
-- **[MLHC 2026](https://mlhc.org/)** -- 12-14 Ago 2026, Machine Learning for Healthcare Conference. Principal venue para ML aplicado a saude; decisoes de aceitacao em Jul 2026.
-- **[AIiH 2026](https://aiih.cc/)** -- 26-28 Ago 2026, Imperial College Londres. Conferencia internacional sobre IA em saude clinica.
+- **[AI in Health Conference 2026](https://kenkennedy.rice.edu/aihealthconference)** (Ken Kennedy Institute, Rice University) -- 15-17 Set 2026, Houston, TX. 5a edicao anual; mais de 400 participantes de academia e industria; temas: robotica medica, IA interpretavel, genomica de doencas e impacto etico-legal; palestrantes de Rice, Johns Hopkins, Microsoft Research, NVIDIA e MD Anderson.
+- **[AI Health Summit NYC 2026](https://events.newsweek.com/ai-health-nyc-2026)** (Newsweek) -- 23 Set 2026, One World Trade Center, Nova York. Executives e lideres de tecnologia em saude debatem como transformar experimentacao com IA em impacto clinico real; cobertura gratuita para lideres de sistemas hospitalares (CEO, CIO, CTO, Chief AI Officer).
 
 ---
 
