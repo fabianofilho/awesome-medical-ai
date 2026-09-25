@@ -62,6 +62,7 @@
   - [NLP](tools/nlp.md)
   - [Explicabilidade e Fairness](tools/explainability-fairness.md)
   - [Interoperabilidade](tools/interoperability.md)
+  - [Apoio à Decisão Clínica](tools/clinical-decision-support.md)
 - [Datasets](datasets/) -- conjuntos de dados por modalidade
   - [EHR](datasets/ehr.md)
   - [Imagem Medica](datasets/medical-imaging.md)
