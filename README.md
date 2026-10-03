@@ -15,19 +15,18 @@
 
 ---
 
-## Novidades -- Semana de 19-26 set 2026
+## Novidades -- Semana de 26 set - 03 out 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (1 novo)
+### Papers (2 novos)
 
-**Imagem Medica e Colaboracao Humano-IA:**
-- [Learning to Defer with Guidance on Real World Medical Data](https://arxiv.org/abs/2609.26384) -- Sun, Strong, Noble (Oxford) — primeiro estudo de Learning to Defer (L2D) em dados reais de imagem medica com multiplas anotacoes humanas; avalia o roteamento automatico entre predicao autonoma e especialista humano no dataset Collab-CXR de raio-X de torax multirrótulo. (arXiv 2609.26384, 22 Set 2026)
+- [MedRouter: Demystifying Knowledge Differences Across Medical LLMs for Routing-Based Reasoning](https://arxiv.org/abs/2609.33119) -- Cao, Lu, Shen, Guo -- framework de roteamento de LLMs medicos que identifica diferencas de conhecimento entre modelos e direciona cada consulta ao mais adequado; supera a melhor baseline de roteamento em 8% de acuracia media em oito benchmarks de QA medico texto e multimodal; aceito no Workshop de Alinhamento Pluralistico de LLMs @ AACL-IJCNLP 2026. (arXiv 2609.33119, 27 Set 2026)
+- [AI-assisted mitotic counting improves reproducibility and efficiency across multiple tumour types](https://arxiv.org/abs/2610.01813) -- MitPro, ferramenta de IA que direciona patologistas para regioes com maior atividade mitotica prevista e destaca figuras mitoticas para revisao, mantendo o controle humano sobre a contagem final; estudo retrospectivo com 385 laminas inteiras de 7 tipos tumorais em 3 paises; melhora reproducibilidade e eficiencia de contagem mitotica. (arXiv 2610.01813, 1 Out 2026)
 
-### Ferramentas e Repositorios (2 novos)
+### Ferramentas e Repositorios (1 novo)
 
-- **[Abridge — VA Enterprise Contract](https://www.abridge.com/press-release/va-enterprise-contract)** (22 Set 2026) -- VA dos EUA selecionou Abridge para contrato de scribe ambient de IA de ate US$775,7 milhoes por cinco anos, cobrindo mais de 75 centros medicos; ja operacional em atencao primaria e 12 especialidades cirurgicas no sistema VA.
-- **[Heidi Health — $340M](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/)** (22 Set 2026) -- startup de AI scribe/care partner levantou US$340 milhoes (Series C $100M + $240M growth investment pela General Catalyst) atingindo valorizacao de US$900 milhoes; 2,8 milhoes de interacoes de pacientes por semana em 110 linguas; expansao para agentes clinicos alem da documentacao.
+- **[ARPA-H SURPASS — Plataforma de Ensaios Clinicos com IA](https://arpa-h.gov/)** (1 Out 2026) -- HHS e ARPA-H lancaram o programa SURPASS (Simulation-augmented, Real-time Platform Adaptive Seamless Trials): tres componentes (motor de design com gemeos digitais, analise em tempo real de dados do ensaio e camada de IA para automacao operacional) visando acelerar ensaios clinicos adaptativos continuos nos EUA.
 
 ### Datasets
 
