@@ -15,27 +15,34 @@
 
 ---
 
-## Novidades -- Semana de 19-26 set 2026
+## Novidades -- Semana de 03-10 out 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (1 novo)
+### Papers (3 novos)
 
-**Imagem Medica e Colaboracao Humano-IA:**
-- [Learning to Defer with Guidance on Real World Medical Data](https://arxiv.org/abs/2609.26384) -- Sun, Strong, Noble (Oxford) — primeiro estudo de Learning to Defer (L2D) em dados reais de imagem medica com multiplas anotacoes humanas; avalia o roteamento automatico entre predicao autonoma e especialista humano no dataset Collab-CXR de raio-X de torax multirrótulo. (arXiv 2609.26384, 22 Set 2026)
+**NLP Clinico — Estruturacao de Laudos:**
+- [Autonomous Structuring of Radiology Reports Across Modalities at Archive Scale Using an Open-Weight Large Language Model](https://arxiv.org/abs/2610.04541) -- Bressem et al. — pipeline de estruturacao automatica de laudos radiologicos em multiplas modalidades em escala de arquivo usando LLM de codigo aberto; aborda a heterogeneidade de formato entre instituicoes sem ajuste fino por especialidade. (arXiv 2610.04541, 3 Out 2026)
 
-### Ferramentas e Repositorios (2 novos)
+**IA Clinica — Rastreamento de Cancer:**
+- [Independent External Validation of AI for Dual-Stain Cervical Cancer Screening Triage (Cytoreader-Fusion)](https://ai.nejm.org/toc/ai/current) -- Validacao externa independente do sistema Cytoreader-Fusion para leitura de citologia dual-stain p16/Ki-67 em rastreamento cervical baseado em HPV; sensibilidade de ~91% vs. 89% da leitura manual, especificidade de ~51% vs. 49%, com superioridade sobre citologia de Papanicolau em ambas as metricas. (NEJM AI, 2 Out 2026)
 
-- **[Abridge — VA Enterprise Contract](https://www.abridge.com/press-release/va-enterprise-contract)** (22 Set 2026) -- VA dos EUA selecionou Abridge para contrato de scribe ambient de IA de ate US$775,7 milhoes por cinco anos, cobrindo mais de 75 centros medicos; ja operacional em atencao primaria e 12 especialidades cirurgicas no sistema VA.
-- **[Heidi Health — $340M](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/)** (22 Set 2026) -- startup de AI scribe/care partner levantou US$340 milhoes (Series C $100M + $240M growth investment pela General Catalyst) atingindo valorizacao de US$900 milhoes; 2,8 milhoes de interacoes de pacientes por semana em 110 linguas; expansao para agentes clinicos alem da documentacao.
+**Imagem Medica — Revisao Sistematica:**
+- [Deep Learning for Longitudinal Medical Imaging: A Scoping Review](https://arxiv.org/abs/2610.08838) -- Mussa et al. — revisao abrangente de 102 estudos (2018-2025) sobre DL em imagem medica longitudinal; disturbios neurologicos representam 48% das aplicacoes, condicoes oftalmologicas 12%; RM e a modalidade predominante em 67% dos estudos. (arXiv 2610.08838, Out 2026)
+
+### Ferramentas e Repositorios
+
+Sem novidades nesta semana.
 
 ### Datasets
 
 Sem novidades nesta semana.
 
-### Eventos
+### Eventos (3 proximos)
 
-Sem novidades nesta semana.
+- **Scientific Session of the American College of AI Medicine 2026** -- 9-10 Out 2026, McCormick Place, Chicago, IL. Sessao cientifica anual da sociedade americana de IA em medicina. [Site](https://americancollegeaim.org/annual-scientific-session/)
+- **AI for Hospitals & Health Plans Congress** -- 15-16 Out 2026, Loews Vanderbilt Hotel, Nashville, TN. Liderancas hospitalares e de planos de saude discutem implantacao de IA clinica; inscricoes encerram 15 Out 2026. [Site](https://www.wcforum.com/conferences/ai-health)
+- **AI in Health Summit (Economist Impact)** -- 4 Nov 2026, Royal College of Physicians, Londres. Cossediado com Future of Health Europe; foco em adocao responsavel de IA em sistemas de saude. [Site](https://events.economistenterprise.com/ai-health-summit/)
 
 ---
 
