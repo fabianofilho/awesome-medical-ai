@@ -1,5 +1,8 @@
 # Eventos & Conferencias
 
+- **Scientific Session of the American College of AI Medicine 2026** — 9-10 Out 2026, McCormick Place, Chicago, IL. Sessao cientifica anual da sociedade americana de IA em medicina com apresentacoes de pesquisa clinica e traducao de IA na pratica medica. [Site](https://americancollegeaim.org/annual-scientific-session/)
+- **Artificial Intelligence for Hospitals & Health Plans Congress** — 15-16 Out 2026, Loews Vanderbilt Hotel, Nashville, TN. Liderancas hospitalares e de planos de saude discutem implantacao de IA clinica; inscricoes de US$1.195-1.395. [Site](https://www.wcforum.com/conferences/ai-health)
+- **AI in Health Summit (Economist Impact)** — 4 Nov 2026, Royal College of Physicians, Londres. Cossediado com Future of Health Europe; foco em adocao responsavel de IA em sistemas de saude globais. [Site](https://events.economistenterprise.com/ai-health-summit/)
 - **HealthAI2026 — Precision Medicine & AI Healthcare** — 27-28 Jul 2026, Praga, Republica Tcheca. Reuniao global de clinicos, pesquisadores, lideres em saude, inovadores em IA e formuladores de politicas para debater medicina de precisao e IA clinica. [Site](https://healthai.pagesconferences.org/)
 - **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Principal venue academico para ML aplicado a saude; proceedings arquivais; decisoes de aceitacao notificadas em Jul 2026. [Site](https://mlhc.org/)
 - **AIiH 2026 (International Conference on Artificial Intelligence in Healthcare)** — 26-28 Ago 2026, Imperial College Londres. Plataforma proeminente para pesquisadores e praticantes que aplicam IA moderna na saude. [Site](https://aiih.cc/)
