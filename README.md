@@ -15,27 +15,34 @@
 
 ---
 
-## Novidades -- Semana de 19-26 set 2026
+## Novidades -- Semana de 11-17 out 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (1 novo)
+### Papers (5 novos)
 
-**Imagem Medica e Colaboracao Humano-IA:**
-- [Learning to Defer with Guidance on Real World Medical Data](https://arxiv.org/abs/2609.26384) -- Sun, Strong, Noble (Oxford) — primeiro estudo de Learning to Defer (L2D) em dados reais de imagem medica com multiplas anotacoes humanas; avalia o roteamento automatico entre predicao autonoma e especialista humano no dataset Collab-CXR de raio-X de torax multirrótulo. (arXiv 2609.26384, 22 Set 2026)
+**Epilepsia e Monitoramento Cerebral com IA:**
+- [Patient-in-the-loop epilepsy monitoring via AI chat agent](https://www.nih.gov/news-events/news-releases/patients-engage-epilepsy-monitor-real-time-improving-seizure-detection) (Nature Medicine, 14 Out 2026) -- 13 adultos em unidade de monitoramento de epilepsia da Penn usaram app para consultar agente de IA com acesso ao EEG em tempo real; rotulos dos proprios pacientes sobre alarmes reduziram falsos alarmes em cerca de 80% em simulacao pos-hoc. (Goldblum, Shi, Litt et al.)
 
-### Ferramentas e Repositorios (2 novos)
+**LLMs no Cuidado Clinico:**
+- [Large Language Models Recommend Costlier Care Than Treating Physicians](https://ai.nejm.org/) (NEJM AI, 15 Out 2026) -- estudo original compara o custo do cuidado recomendado por LLMs com o recomendado por medicos tratantes; LLMs tendem a indicar cuidado mais caro em analise de casos reais.
+- [AI-Assisted Molecular Workflow in Adult Medulloblastoma](https://ai.nejm.org/) (NEJM AI, 16 Out 2026) -- caso clinico descrevendo como workflow molecular assistido por IA orientou decisao terapeutica em caso de meduloblastoma em adulto; primeira descricao detalhada desse uso clinico.
+- [Auditing Escalation Reliability in Healthcare LLM Agents](https://arxiv.org/abs/2610.21270) (arXiv 2610.21270, Out 2026) -- benchmark de 400 episodios sinteticos de workflow hospitalar avaliando se agentes LLM respondem, pedem esclarecimento, absteem ou escalam quando evidencias estao ausentes ou desatualizadas.
+- [Tool-Augmented LLMs for Reliable Medical Calculation from Patient Notes](https://arxiv.org/abs/2610.21477) (arXiv 2610.21477, Out 2026) -- framework que separa extracao de variaveis clinicas (LLM) do calculo clinico (ferramenta deterministica), reduzindo erros aritmeticos em notas medicas.
 
-- **[Abridge — VA Enterprise Contract](https://www.abridge.com/press-release/va-enterprise-contract)** (22 Set 2026) -- VA dos EUA selecionou Abridge para contrato de scribe ambient de IA de ate US$775,7 milhoes por cinco anos, cobrindo mais de 75 centros medicos; ja operacional em atencao primaria e 12 especialidades cirurgicas no sistema VA.
-- **[Heidi Health — $340M](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/)** (22 Set 2026) -- startup de AI scribe/care partner levantou US$340 milhoes (Series C $100M + $240M growth investment pela General Catalyst) atingindo valorizacao de US$900 milhoes; 2,8 milhoes de interacoes de pacientes por semana em 110 linguas; expansao para agentes clinicos alem da documentacao.
+### Ferramentas e Repositorios
+
+Sem novidades confirmadas nesta semana.
 
 ### Datasets
 
 Sem novidades nesta semana.
 
-### Eventos
+### Eventos (3 novos)
 
-Sem novidades nesta semana.
+- **[IEEE MedAI 2026](https://medai2026.zzuli.edu.cn/)** -- 4a Conferencia Internacional IEEE sobre IA Medica, 20-22 Nov 2026, Zhengzhou, China. Foco em aplicacoes de IA em biomed, diagnostico e robotica cirurgica; camera-ready deadline: 25 Out 2026.
+- **[AI Care Conference 2026 (AIDH)](https://members.digitalhealth.org.au/m/event_details.asp?id=2059763)** -- 23-24 Nov 2026, Crown Melbourne, Southbank, Australia. Conferencia pratica da Associacao Australiana de Saude Digital reunindo clinicos, pesquisadores e formuladores de politicas em torno de adocao responsavel de IA na saude.
+- **[iAIM 2026 — International Conference on AI in Medicine](https://easychair.org/cfp/iAIM2026)** -- 3-5 Dez 2026, Nanyang Technological University, Singapura. Papers aceitos para apresentacao presencial; deadline de submissao encerrado em Set 2026.
 
 ---
 
