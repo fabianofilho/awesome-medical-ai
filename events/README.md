@@ -1,5 +1,9 @@
 # Eventos & Conferencias
 
+- **[iAIM 2026 — International Conference on AI in Medicine](https://easychair.org/cfp/iAIM2026)** -- 3-5 Dez 2026, Nanyang Technological University, Singapura. Conferencia internacional sobre IA em medicina; papers aceitos para apresentacao presencial; deadline de submissao encerrado em Set 2026.
+- **[AI Care Conference 2026 (AIDH)](https://members.digitalhealth.org.au/m/event_details.asp?id=2059763)** -- 23-24 Nov 2026, Crown Melbourne, Southbank, Australia. Conferencia pratica da Associacao Australiana de Saude Digital com foco em implementacao responsavel de IA na saude; parceiros incluem CSIRO AEHRC, Heidi Health e TGA.
+- **[IEEE MedAI 2026](https://medai2026.zzuli.edu.cn/)** -- 20-22 Nov 2026, Zhengzhou, China. 4a Conferencia Internacional IEEE sobre IA Medica; foco em IA para diagnostico, biomed e robotica cirurgica; camera-ready deadline: 25 Out 2026.
+
 - **HealthAI2026 — Precision Medicine & AI Healthcare** — 27-28 Jul 2026, Praga, Republica Tcheca. Reuniao global de clinicos, pesquisadores, lideres em saude, inovadores em IA e formuladores de politicas para debater medicina de precisao e IA clinica. [Site](https://healthai.pagesconferences.org/)
 - **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Principal venue academico para ML aplicado a saude; proceedings arquivais; decisoes de aceitacao notificadas em Jul 2026. [Site](https://mlhc.org/)
 - **AIiH 2026 (International Conference on Artificial Intelligence in Healthcare)** — 26-28 Ago 2026, Imperial College Londres. Plataforma proeminente para pesquisadores e praticantes que aplicam IA moderna na saude. [Site](https://aiih.cc/)
