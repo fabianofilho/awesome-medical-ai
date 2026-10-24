@@ -15,27 +15,29 @@
 
 ---
 
-## Novidades -- Semana de 19-26 set 2026
+## Novidades -- Semana de 18-24 out 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (1 novo)
+### Papers
 
-**Imagem Medica e Colaboracao Humano-IA:**
-- [Learning to Defer with Guidance on Real World Medical Data](https://arxiv.org/abs/2609.26384) -- Sun, Strong, Noble (Oxford) — primeiro estudo de Learning to Defer (L2D) em dados reais de imagem medica com multiplas anotacoes humanas; avalia o roteamento automatico entre predicao autonoma e especialista humano no dataset Collab-CXR de raio-X de torax multirrótulo. (arXiv 2609.26384, 22 Set 2026)
+Sem novidades confirmadas nesta semana.
 
-### Ferramentas e Repositorios (2 novos)
+### Ferramentas e Repositorios (3 novos)
 
-- **[Abridge — VA Enterprise Contract](https://www.abridge.com/press-release/va-enterprise-contract)** (22 Set 2026) -- VA dos EUA selecionou Abridge para contrato de scribe ambient de IA de ate US$775,7 milhoes por cinco anos, cobrindo mais de 75 centros medicos; ja operacional em atencao primaria e 12 especialidades cirurgicas no sistema VA.
-- **[Heidi Health — $340M](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/)** (22 Set 2026) -- startup de AI scribe/care partner levantou US$340 milhoes (Series C $100M + $240M growth investment pela General Catalyst) atingindo valorizacao de US$900 milhoes; 2,8 milhoes de interacoes de pacientes por semana em 110 linguas; expansao para agentes clinicos alem da documentacao.
+- **[HealthChain](https://github.com/healthchainai/HealthChain)** (atualizado 19 Out 2026) -- SDK Python para construcao de pipelines de IA em saude com suporte nativo a FHIR e integracao a EHRs; projetado para facilitar agentes clinicos em ambientes hospitalares.
+- **[open-wearables](https://github.com/the-momentum/open-wearables)** (atualizado 23 Out 2026) -- plataforma self-hosted que unifica dados de dispositivos vestiveis de saude em uma API padronizada e pronta para IA; foco em privacidade e controle local dos dados.
+- **[mirobody-env](https://github.com/thetahealth/mirobody-env)** (atualizado 22 Out 2026) -- ambiente de benchmark para avaliacao longitudinal de agentes de IA em saude usando pacientes sinteticos; simula interacoes clinicas ao longo do tempo para medir consistencia e seguranca.
 
 ### Datasets
 
 Sem novidades nesta semana.
 
-### Eventos
+### Eventos (3 novos)
 
-Sem novidades nesta semana.
+- **aiHealth2026** -- 10-11 Nov 2026, FHNW, Muttenz, Suica. Terceira edicao da conferencia anual de IA em saude, com trilhas sobre diagnostico, terapeutica e saude cidada. [Site](https://ai-health2026.com)
+- **Stanford AI+HEALTH 2026** -- 8-9 Dez 2026, virtual. Conferencia anual de Stanford sobre implementacao real de IA na saude, aberta a profissionais e pesquisadores globais. [Site](https://aimi.stanford.edu/aihealth26)
+- **AI & the Future of Medicine 2026** -- 21-22 Nov 2026, UBC Robson Square, Vancouver. Organizado pelo DASH Research Cluster (UBC) com MIT Critical Data; foco em implementacao responsavel de IA clinica. [Site](https://datascienceandhealth.ubc.ca/events/ai-future-medicine-2026)
 
 ---
 
