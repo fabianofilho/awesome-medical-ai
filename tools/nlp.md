@@ -20,3 +20,6 @@
 - [Perplexity Health (2026)](https://www.perplexity.ai/hub/blog/introducing-perplexity-health) — Suite de conectores para dados de saúde pessoais.
 - [stenoai](https://github.com/ruzin/stenoai) — IA para notas clínicas estruturadas com LLMs locais (Qwen, DeepSeek, Llama3), com foco em privacidade.
 - [bio - Open-Source Bio AI Assistant](https://github.com/yorkeccak/bio) — Assistente de IA open-source para pesquisa biomédica.
+- **[HealthChain](https://github.com/healthchainai/HealthChain)** (Out 2026) -- SDK Python para construcao de pipelines de IA em saude com suporte nativo a FHIR e integracao a EHRs; facilita construcao de agentes clinicos compatíveis com padroes de interoperabilidade.
+- **[open-wearables](https://github.com/the-momentum/open-wearables)** (Out 2026) -- plataforma self-hosted que unifica dados de dispositivos vestiveis de saude em uma API padronizada e pronta para IA; permite controle local e privacidade dos dados de monitoramento continuo.
+- **[mirobody-env](https://github.com/thetahealth/mirobody-env)** (Out 2026) -- ambiente de benchmark para avaliacao longitudinal de agentes de IA em saude usando pacientes sinteticos; simula interacoes clinicas ao longo do tempo para avaliar consistencia e seguranca de sistemas autonomos.

@@ -20,6 +20,9 @@
 ## AI/ML para Descoberta de Drogas
 
 - [AI/Machine Learning for Early Drug Discovery Part 1 (2026)](https://www.drugdiscoverychemistry.com/artificial-intelligence) -- Conferência reunindo químicos, biólogos, bioinformáticos e cientistas de dados para discutir ferramentas computacionais em descoberta de drogas. Tópicos: design de moléculas, hit identification, PK/PD prediction, otimização de leads. San Diego, CA, 14-15 Abr 2026.
+- **[aiHealth2026](https://ai-health2026.com)** -- 10-11 Nov 2026, FHNW, Muttenz, Suica. Terceira edicao da conferencia anual de IA em saude, com trilhas sobre diagnostico por IA, terapeutica e saude cidada.
+- **[Stanford AI+HEALTH 2026](https://aimi.stanford.edu/aihealth26)** -- 8-9 Dez 2026, virtual. Conferencia anual de Stanford sobre implementacao real de IA na saude; aberta a profissionais e pesquisadores globais.
+- **[AI & the Future of Medicine 2026](https://datascienceandhealth.ubc.ca/events/ai-future-medicine-2026)** -- 21-22 Nov 2026, UBC Robson Square, Vancouver. Organizado pelo DASH Research Cluster (UBC) com MIT Critical Data; foco em IA clinica responsavel e pesquisa translacional.
 
 ## CHIL 2026 (Conference on Health, Inference, and Learning)
 
