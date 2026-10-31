@@ -15,6 +15,29 @@
 
 ---
 
+## Novidades -- Semana de 25-31 out 2026
+
+> Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
+
+### Papers (1 novo)
+
+**NLP e Documentacao Clinica:**
+- [Large Language Models for Accurate Medical Chart Abstraction: Enabling Scalable and Secure Artificial Intelligence Deployment in Stroke](https://arxiv.org/abs/2610.38009) -- Testa LLaMA3.3-70B para extracao de variaveis estruturadas de 2.416 laudos de trombectomia em tres hospitais; o modelo superou anotacoes de nao-especialistas em 7 de 8 variaveis clinicas e equiparou-se a estudantes de medicina junior; ablacoes mostram que desempenho independe de preprocessing customizado. (arXiv 2610.38009 / AJNR, 27 Out 2026)
+
+### Ferramentas e Repositorios
+
+Sem novidades nesta semana.
+
+### Datasets
+
+Sem novidades nesta semana.
+
+### Eventos
+
+Sem novidades nesta semana.
+
+---
+
 ## Novidades -- Semana de 19-26 set 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
