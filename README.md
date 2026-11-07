@@ -15,19 +15,27 @@
 
 ---
 
-## Novidades -- Semana de 19-26 set 2026
+## Novidades -- Semana de 01-07 nov 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (1 novo)
+### Papers (3 novos)
 
-**Imagem Medica e Colaboracao Humano-IA:**
-- [Learning to Defer with Guidance on Real World Medical Data](https://arxiv.org/abs/2609.26384) -- Sun, Strong, Noble (Oxford) — primeiro estudo de Learning to Defer (L2D) em dados reais de imagem medica com multiplas anotacoes humanas; avalia o roteamento automatico entre predicao autonoma e especialista humano no dataset Collab-CXR de raio-X de torax multirrótulo. (arXiv 2609.26384, 22 Set 2026)
+- [A Gait Foundation Model Predicts Multi-System Health Phenotypes from 3D Skeletal Motion](https://www.nature.com/articles/s41591-026-04724-9) -- camera de profundidade registra movimento 3D esqueletico em 3.328 adultos; associacoes com 1.887 de 3.210 medidas de saude em 18 sistemas corporais, incluindo predicao de medicamentos em uso. (Nature Medicine, 6 Nov 2026)
+- [Emerging applications of machine learning and AI for predictive modeling in precision medicine](https://www.nature.com/articles/s41746-026-03393-9) -- editorial sobre aplicacoes emergentes de ML/IA para modelagem preditiva em medicina de precisao; defende integracao de conhecimento de dominio estrutural antes do treinamento. (npj Digital Medicine, 3 Nov 2026)
+- [Enhancing medical education with AI: A comparative study of various large language models in radiology](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360928) -- comparacao de LLMs em questoes de radiologia: modelos sao menos precisos em questoes baseadas em imagens do que em texto. (PLOS ONE, 6 Nov 2026)
 
-### Ferramentas e Repositorios (2 novos)
+### Ferramentas e Repositorios (1 novo)
 
-- **[Abridge — VA Enterprise Contract](https://www.abridge.com/press-release/va-enterprise-contract)** (22 Set 2026) -- VA dos EUA selecionou Abridge para contrato de scribe ambient de IA de ate US$775,7 milhoes por cinco anos, cobrindo mais de 75 centros medicos; ja operacional em atencao primaria e 12 especialidades cirurgicas no sistema VA.
-- **[Heidi Health — $340M](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/)** (22 Set 2026) -- startup de AI scribe/care partner levantou US$340 milhoes (Series C $100M + $240M growth investment pela General Catalyst) atingindo valorizacao de US$900 milhoes; 2,8 milhoes de interacoes de pacientes por semana em 110 linguas; expansao para agentes clinicos alem da documentacao.
+- **[Evident Vascular IVUS — FDA 510(k) clearance](https://www.diagnosticimaging.com/view/fda-clears-emerging-ai-enabled-platform-intravascular-ultrasound)** (4 Nov 2026) -- plataforma IVUS com IA aprovada pela FDA para exame ultrassonografico de patologia intravascular em intervencoes vasculares perifericas; processamento em tempo real com workstation Nvidia e controle de voz hands-free.
+
+### Datasets
+
+Sem novidades nesta semana.
+
+### Eventos
+
+Sem novidades nesta semana.
 
 ### Datasets
 
