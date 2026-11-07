@@ -1,5 +1,7 @@
 # Papers — Revisões e Surveys
 
+- [A Gait Foundation Model Predicts Multi-System Health Phenotypes from 3D Skeletal Motion (2026)](https://www.nature.com/articles/s41591-026-04724-9) — camera de profundidade grava movimento 3D esqueletico durante 5 tarefas motoras em 3.328 adultos (Human Phenotype Project); encontra associacoes com 1.887 de 3.210 medidas em 18 sistemas corporais, incluindo predicao de medicamentos em uso. (Nature Medicine, 6 Nov 2026)
+- [Emerging applications of machine learning and AI for predictive modeling in precision medicine (2026)](https://www.nature.com/articles/s41746-026-03393-9) — editorial que defende integracao de conhecimento de dominio estrutural antes do treinamento; revisa 31 estudos sobre modelagem preditiva em medicina de precisao. (npj Digital Medicine, 3 Nov 2026)
 - [Towards a Medical AI Scientist (2026)](https://arxiv.org/abs/2603.28589) — Framework autônomo de pesquisa clínica com IA capaz de formular hipóteses, desenhar experimentos e interpretar resultados. (arXiv, 30 Mar 2026)
 - [Foundation Models in Medical Imaging: Privacy Re-identification Risk (2026)](https://www.nature.com/articles/s41746-026-01423-0) — Modelos de fundação em imagem médica permitem re-identificação de pacientes em até 94% dos casos. (npj Digital Medicine, Abr 2026)
 - [The Scaffold Effect in Clinical VLM Evaluation (2026)](https://arxiv.org/abs/2603.28387) — 70–80% dos ganhos aparentes em modelos de linguagem-visão clínicos são artefatos de prompt. (arXiv, 30 Mar 2026)

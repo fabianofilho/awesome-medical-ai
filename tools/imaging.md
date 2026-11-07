@@ -1,5 +1,6 @@
 # Ferramentas — Imagem Médica
 
+- [Evident Vascular IVUS — FDA 510(k) clearance (Nov 2026)](https://www.diagnosticimaging.com/view/fda-clears-emerging-ai-enabled-platform-intravascular-ultrasound) — plataforma IVUS com IA para exame de patologia intravascular em intervencoes vasculares perifericas; processamento em tempo real com workstation Nvidia e controle de voz hands-free; clearance FDA 510(k) obtido em 4 Nov 2026.
 - [MedHorizon: Long-context Medical Video Understanding (2026)](https://arxiv.org/abs/) — Framework para compreensão de vídeos médicos em contextos longos. Aplicações em análise de procedimentos cirúrgicos. (arXiv, 2026)
 - [Bridging Visual Saliency and LLMs for Explainable Medical Imaging (2026)](https://arxiv.org/abs/) — Integração de saliência visual com LLMs para explicabilidade em aprendizado profundo em imagem médica. (arXiv, 2026)
 - [MONAI 1.5.2](https://monai.io/) — Toolkit de IA de código aberto para imagem médica, baseado em PyTorch. Versão 1.5.2 com melhorias em transformers e segmentação 3D. [![Stars](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social)](https://github.com/Project-MONAI/MONAI)
