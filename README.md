@@ -15,27 +15,35 @@
 
 ---
 
-## Novidades -- Semana de 19-26 set 2026
+## Novidades -- Semana de 08-14 nov 2026
 
 > Adicionados automaticamente pela curadoria semanal (awesome-medical-ai).
 
-### Papers (1 novo)
+### Papers (4 novos)
 
-**Imagem Medica e Colaboracao Humano-IA:**
-- [Learning to Defer with Guidance on Real World Medical Data](https://arxiv.org/abs/2609.26384) -- Sun, Strong, Noble (Oxford) — primeiro estudo de Learning to Defer (L2D) em dados reais de imagem medica com multiplas anotacoes humanas; avalia o roteamento automatico entre predicao autonoma e especialista humano no dataset Collab-CXR de raio-X de torax multirrótulo. (arXiv 2609.26384, 22 Set 2026)
+**Documentacao Clinica e IA em Cascata:**
+- [AI in the Clinical Documentation Loop: LLM-Induced Note Bloat and Diagnostic Overcall](https://arxiv.org/abs/2611.10601) — Demonstra que diagnosticos diferenciais inseridos por IA em prontuarios se propagam como overcall para LLMs subsequentes que leem esses registros; aceito no ML4H 2026. (arXiv 2611.10601, Nov 2026)
 
-### Ferramentas e Repositorios (2 novos)
+**Forca de Trabalho Medica:**
+- [Physical Limits to AI Substitution across Physician Specialties](https://fsi.stanford.edu/node/40051) — Perspectiva (NEJM AI, Nov 2026) com dados Medicare 2023 de 590 mil medicos em 56 especialidades: radiologia diagnostica (96%) e patologia (99%) sao as mais expostas; apenas 24% dos pagamentos medicos vao a trabalho com barreiras fisicas reais a automacao.
 
-- **[Abridge — VA Enterprise Contract](https://www.abridge.com/press-release/va-enterprise-contract)** (22 Set 2026) -- VA dos EUA selecionou Abridge para contrato de scribe ambient de IA de ate US$775,7 milhoes por cinco anos, cobrindo mais de 75 centros medicos; ja operacional em atencao primaria e 12 especialidades cirurgicas no sistema VA.
-- **[Heidi Health — $340M](https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/)** (22 Set 2026) -- startup de AI scribe/care partner levantou US$340 milhoes (Series C $100M + $240M growth investment pela General Catalyst) atingindo valorizacao de US$900 milhoes; 2,8 milhoes de interacoes de pacientes por semana em 110 linguas; expansao para agentes clinicos alem da documentacao.
+**Neuroimagem:**
+- [A frontier machine intelligence for human neuroimaging (Neuro-VL)](https://arxiv.org/abs/2611.15094) — Modelo vision-language treinado em aproximadamente 1 milhao de estudos de neuroimagem de rotina clinica; supera modelos de fronteira em tarefas clinicas de RM e TC neurologica; pesos e codigo publicos. (arXiv 2611.15094, Nov 2026)
+
+**Raciocinio Medico:**
+- [Decisions by Discrimination: Differential Evidence for Medical Reasoning](https://arxiv.org/abs/2611.13233) — Metodo retrieval-grounded para MCQ medica usando evidencia diferencial; aceito no AACL 2026. (arXiv 2611.13233, Nov 2026)
+
+### Ferramentas e Repositorios
+
+Sem novidades confirmadas nesta semana.
 
 ### Datasets
 
 Sem novidades nesta semana.
 
-### Eventos
+### Eventos (1 novo)
 
-Sem novidades nesta semana.
+- **PSB 2027 (Pacific Symposium on Biocomputing)** — 3-7 Jan 2027, Big Island, Hawaii. Conferencia de bioinformatica e IA em saude; inscricoes a preco regular abertas ate 30 Nov 2026. [Site](https://www.beri.net/events/psb-2027)
 
 ---
 

@@ -1,5 +1,6 @@
 # Eventos & Conferencias
 
+- **PSB 2027 (Pacific Symposium on Biocomputing)** — 3-7 Jan 2027, Big Island, Hawaii. Conferencia de bioinformatica e IA em saude com sessoes sobre fundamentos computacionais, biologia de sistemas e ML clinico; inscricoes a preco regular abertas ate 30 Nov 2026. [Site](https://www.beri.net/events/psb-2027)
 - **HealthAI2026 — Precision Medicine & AI Healthcare** — 27-28 Jul 2026, Praga, Republica Tcheca. Reuniao global de clinicos, pesquisadores, lideres em saude, inovadores em IA e formuladores de politicas para debater medicina de precisao e IA clinica. [Site](https://healthai.pagesconferences.org/)
 - **MLHC 2026 (Machine Learning for Healthcare)** — 12-14 Ago 2026. Principal venue academico para ML aplicado a saude; proceedings arquivais; decisoes de aceitacao notificadas em Jul 2026. [Site](https://mlhc.org/)
 - **AIiH 2026 (International Conference on Artificial Intelligence in Healthcare)** — 26-28 Ago 2026, Imperial College Londres. Plataforma proeminente para pesquisadores e praticantes que aplicam IA moderna na saude. [Site](https://aiih.cc/)
